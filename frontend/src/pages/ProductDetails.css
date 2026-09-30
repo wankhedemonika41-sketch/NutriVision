@@ -1,0 +1,353 @@
+.product-details-page {
+  min-height: 100vh;
+  padding: 45px 24px 70px;
+  background: linear-gradient(
+    135deg,
+    #f7f5ed 0%,
+    #f2f7f0 50%,
+    #eef5ec 100%
+  );
+}
+
+.product-details-container {
+  width: 100%;
+  max-width: 1100px;
+  margin: 0 auto;
+}
+
+/* Back button */
+
+.product-details-page .back-button {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  padding: 10px 18px;
+  border: 1px solid #cfd8cc;
+  border-radius: 8px;
+  background: #ffffff;
+  color: #315b38;
+  font-size: 14px;
+  font-weight: 600;
+  cursor: pointer;
+  transition: all 0.25s ease;
+}
+
+.product-details-page .back-button:hover {
+  background: #315b38;
+  color: #ffffff;
+  border-color: #315b38;
+}
+
+/* Header */
+
+.details-header {
+  margin: 42px 0 30px;
+}
+
+.details-label {
+  margin: 0 0 8px;
+  color: #6c8b70;
+  font-size: 13px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+}
+
+.details-header h1 {
+  margin: 0;
+  max-width: 850px;
+  color: #23452b;
+  font-size: clamp(32px, 5vw, 46px);
+  line-height: 1.2;
+  letter-spacing: -0.5px;
+}
+
+.details-brand {
+  margin: 10px 0 0;
+  color: #6b756d;
+  font-size: 17px;
+}
+
+/* Product information layout */
+
+.details-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 22px;
+}
+
+/* General card */
+
+.details-card {
+  padding: 26px;
+  background: #ffffff;
+  border: 1px solid #dfe7dc;
+  border-radius: 16px;
+  box-shadow: 0 6px 22px rgba(40, 70, 44, 0.07);
+}
+
+.details-card h2 {
+  margin: 0 0 22px;
+  color: #294b30;
+  font-size: 22px;
+}
+
+/* Product information */
+
+.info-list {
+  display: flex;
+  flex-direction: column;
+}
+
+.info-row {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 13px 0;
+  border-bottom: 1px solid #edf1eb;
+}
+
+.info-row:last-child {
+  border-bottom: none;
+}
+
+.info-row span {
+  color: #737d75;
+  font-size: 14px;
+}
+
+.info-row strong {
+  max-width: 60%;
+  color: #304b35;
+  font-size: 14px;
+  text-align: right;
+  line-height: 1.5;
+}
+
+/* Ingredients */
+
+.ingredients-text {
+  margin: 0;
+  color: #59645b;
+  font-size: 15px;
+  line-height: 1.8;
+}
+
+/* Nutrition section */
+
+.nutrition-section {
+  margin-top: 28px;
+}
+
+.section-heading {
+  margin-bottom: 20px;
+}
+
+.section-heading h2 {
+  margin: 0 0 7px;
+  color: #294b30;
+  font-size: 28px;
+}
+
+.section-heading > p:last-child {
+  margin: 0;
+  color: #717b73;
+  font-size: 15px;
+}
+
+/* Nutrition grid */
+
+.nutrition-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 15px;
+}
+
+/* Nutrition card */
+
+.nutrition-card {
+  min-height: 125px;
+  padding: 20px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background: #ffffff;
+  border: 1px solid #dfe7dc;
+  border-radius: 14px;
+  box-shadow: 0 5px 18px rgba(40, 70, 44, 0.06);
+  transition:
+    transform 0.25s ease,
+    box-shadow 0.25s ease,
+    border-color 0.25s ease;
+}
+
+.nutrition-card:hover {
+  transform: translateY(-3px);
+  border-color: #adc4ae;
+  box-shadow: 0 9px 25px rgba(40, 70, 44, 0.11);
+}
+
+.nutrition-card span {
+  margin-bottom: 10px;
+  color: #69736b;
+  font-size: 14px;
+}
+
+.nutrition-card strong {
+  color: #294b30;
+  font-size: 26px;
+  line-height: 1.2;
+}
+
+.nutrition-card small {
+  margin-top: 4px;
+  color: #8a938b;
+  font-size: 12px;
+}
+
+/* Vitamin card */
+
+.vitamin-card strong {
+  font-size: 18px;
+  line-height: 1.5;
+}
+
+/* Loading */
+
+.details-message {
+  margin-top: 80px;
+  padding: 25px;
+  background: #ffffff;
+  border: 1px solid #dfe7dc;
+  border-radius: 12px;
+  color: #59645b;
+  text-align: center;
+}
+
+/* Error */
+
+.details-error {
+  margin-top: 30px;
+  padding: 18px;
+  background: #ffffff;
+  border: 1px solid #e2d8d2;
+  border-radius: 10px;
+  color: #805f50;
+  line-height: 1.5;
+}
+
+/* Nutrition unavailable */
+
+.nutrition-unavailable {
+  padding: 25px;
+  background: #ffffff;
+  border: 1px solid #dfe7dc;
+  border-radius: 14px;
+  color: #69736b;
+  text-align: center;
+}
+
+/* Tablet */
+
+@media (max-width: 900px) {
+  .nutrition-grid {
+    grid-template-columns: repeat(3, 1fr);
+  }
+}
+
+/* Smaller tablet */
+
+@media (max-width: 768px) {
+  .product-details-page {
+    padding: 35px 18px 55px;
+  }
+
+  .details-header {
+    margin-top: 32px;
+  }
+
+  .details-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .nutrition-grid {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+  .details-card {
+    padding: 22px;
+  }
+}
+
+/* Mobile */
+
+@media (max-width: 600px) {
+  .product-details-page {
+    padding: 25px 14px 45px;
+  }
+
+  .details-header {
+    margin: 28px 0 22px;
+  }
+
+  .details-header h1 {
+    font-size: 30px;
+  }
+
+  .details-brand {
+    font-size: 15px;
+  }
+
+  .details-card {
+    padding: 19px;
+    border-radius: 13px;
+  }
+
+  .details-card h2 {
+    font-size: 20px;
+  }
+
+  .info-row {
+    flex-direction: column;
+    gap: 5px;
+  }
+
+  .info-row strong {
+    max-width: 100%;
+    text-align: left;
+  }
+
+  .nutrition-section {
+    margin-top: 22px;
+  }
+
+  .section-heading h2 {
+    font-size: 24px;
+  }
+
+  .nutrition-grid {
+    grid-template-columns: 1fr 1fr;
+    gap: 10px;
+  }
+
+  .nutrition-card {
+    min-height: 110px;
+    padding: 16px;
+  }
+
+  .nutrition-card strong {
+    font-size: 22px;
+  }
+}
+
+/* Very small screens */
+
+@media (max-width: 380px) {
+  .nutrition-grid {
+    grid-template-columns: 1fr;
+  }
+
+  .details-header h1 {
+    font-size: 27px;
+  }
+}

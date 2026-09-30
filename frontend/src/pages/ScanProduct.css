@@ -1,0 +1,136 @@
+.scan-page {
+  min-height: 100vh;
+  background: #f5f7f6;
+  padding: 40px 20px;
+  box-sizing: border-box;
+}
+
+.scan-container {
+  max-width: 700px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.back-button {
+  display: block;
+  border: none;
+  background: transparent;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 35px;
+}
+
+.scan-container h1 {
+  font-size: 40px;
+  margin-bottom: 12px;
+}
+
+.scan-description {
+  color: #666;
+  font-size: 17px;
+  line-height: 1.6;
+  margin-bottom: 35px;
+}
+
+.scanner-box {
+  background: white;
+  border: 2px dashed #b8c5bf;
+  border-radius: 20px;
+  padding: 45px 25px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.06);
+}
+
+.scanner-icon {
+  font-size: 50px;
+  margin-bottom: 15px;
+}
+
+.scanner-box h2 {
+  margin-bottom: 10px;
+}
+
+.scanner-box p {
+  color: #777;
+  margin-bottom: 25px;
+}
+
+.camera-button {
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+  background: #222;
+  color: white;
+  font-size: 15px;
+  cursor: pointer;
+}
+
+.divider {
+  margin: 30px 0;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+.divider::before,
+.divider::after {
+  content: "";
+  height: 1px;
+  background: #d5d5d5;
+  flex: 1;
+}
+
+.divider span {
+  color: #777;
+}
+
+.manual-section {
+  background: white;
+  padding: 30px;
+  border-radius: 20px;
+  box-shadow: 0 8px 25px rgba(0, 0, 0, 0.06);
+}
+
+.manual-section h2 {
+  margin-bottom: 20px;
+}
+
+.manual-section input {
+  width: 100%;
+  box-sizing: border-box;
+  padding: 14px;
+  border: 1px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  margin-bottom: 15px;
+}
+
+.find-button {
+  width: 100%;
+  padding: 14px;
+  border: none;
+  border-radius: 8px;
+  background: #222;
+  color: white;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.find-button:hover,
+.camera-button:hover {
+  opacity: 0.85;
+}
+
+#barcode-reader {
+  width: 100%;
+  max-width: 500px;
+  margin: 0 auto 20px;
+}
+
+#barcode-reader video {
+  width: 100%;
+  border-radius: 12px;
+}
+
+#barcode-reader__dashboard_section {
+  margin-top: 15px;
+}
