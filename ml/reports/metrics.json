@@ -1,0 +1,40 @@
+{
+  "regression": {
+    "LinearRegression": {
+      "cv_r2": 0.6614,
+      "test_r2": 0.4241,
+      "test_mae": 5.434
+    },
+    "DecisionTree": {
+      "cv_r2": 0.8034,
+      "test_r2": 0.7545,
+      "test_mae": 5.67
+    },
+    "RandomForest": {
+      "cv_r2": 0.919,
+      "test_r2": 0.9177,
+      "test_mae": 3.361
+    },
+    "XGBoost": {
+      "cv_r2": 0.9634,
+      "test_r2": 0.9646,
+      "test_mae": 2.142
+    }
+  },
+  "classification": {
+    "LogisticRegression": {
+      "accuracy": 0.7692,
+      "f1_weighted": 0.768
+    },
+    "DecisionTree": {
+      "accuracy": 0.7278,
+      "f1_weighted": 0.7237
+    },
+    "RandomForest": {
+      "accuracy": 0.8107,
+      "f1_weighted": 0.8037
+    }
+  },
+  "deployed": "XGBoost",
+  "rows": 842
+}

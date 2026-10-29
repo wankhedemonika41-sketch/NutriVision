@@ -1,0 +1,86 @@
+.nv-chart {
+  width: 100%;
+  height: auto;
+  display: block;
+}
+
+.nv-chart text {
+  font-family: Arial, Helvetica, sans-serif;
+  fill: #6b7a70;
+  font-size: 11px;
+}
+
+.nv-empty-chart {
+  padding: 28px 12px;
+  text-align: center;
+  color: var(--nv-muted);
+  background: #f9faf6;
+  border-radius: 10px;
+}
+
+.nv-gradebar {
+  display: flex;
+  height: 26px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #eef0ea;
+}
+
+.nv-gradebar span {
+  display: grid;
+  place-items: center;
+  color: #fff;
+  font-size: 12px;
+  font-weight: 700;
+  min-width: 0;
+}
+
+.nv-legend {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 14px;
+  margin-top: 12px;
+  font-size: 14px;
+  color: var(--nv-text);
+}
+
+.nv-legend i {
+  display: inline-block;
+  width: 11px;
+  height: 11px;
+  border-radius: 3px;
+  margin-right: 6px;
+  vertical-align: -1px;
+}
+
+.nv-barlist {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: grid;
+  gap: 12px;
+}
+
+.nv-barlist li > div:first-child {
+  display: flex;
+  justify-content: space-between;
+  gap: 12px;
+  font-size: 14px;
+  margin-bottom: 4px;
+}
+
+.nv-barlist small {
+  color: var(--nv-muted);
+}
+
+.nv-bartrack {
+  height: 9px;
+  border-radius: 6px;
+  background: #eef0ea;
+  overflow: hidden;
+}
+
+.nv-barfill {
+  height: 100%;
+  border-radius: 6px;
+}

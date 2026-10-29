@@ -1,0 +1,35 @@
+/* Public landing page tweaks (the main styles stay in App.css) */
+
+.landing {
+  text-align: center;
+}
+
+.landing .hero-content {
+  text-align: left;
+}
+
+.nav-login {
+  background: transparent;
+  border: none;
+  color: var(--nv-green-800);
+  font-weight: 700;
+  font-size: 15px;
+  padding: 10px 16px;
+  border-radius: 10px;
+  cursor: pointer;
+  white-space: nowrap;
+}
+
+.nav-login:hover {
+  background: var(--nv-green-100);
+}
+
+.landing .nav-actions {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+
+.landing .nav-button {
+  white-space: nowrap;
+}

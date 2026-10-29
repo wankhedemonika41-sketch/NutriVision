@@ -1,19 +1,42 @@
 import { useEffect, useState } from "react";
+import { API_URL } from "../config";
+import HealthScoreCard from "../components/HealthScoreCard";
+import Recommendations from "../components/Recommendations";
+import RecordScan from "../components/RecordScan";
 import "./ProductDetails.css";
 
-function ProductDetails({ productId, onBack }) {
+function ProductDetails({
+  productId,
+  onBack,
+  onAnalyze,
+  onOpenProduct,
+  onOpenProfile,
+}) {
   const [productDetails, setProductDetails] = useState(null);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState("");
 
+  const [health, setHealth] = useState(null);
+  const [healthFor, setHealthFor] = useState(null);   // which product `health` belongs to
+  const [healthLoading, setHealthLoading] = useState(false);
+  const [healthError, setHealthError] = useState("");
+
   useEffect(() => {
+    if (!productId) {
+      return;
+    }
+
+    let cancelled = false;
+
+    window.scrollTo({ top: 0 });
+
     const fetchProductDetails = async () => {
       try {
         setLoading(true);
         setError("");
 
         const response = await fetch(
-          `http://127.0.0.1:8000/products/details/${productId}`
+          `${API_URL}/products/details/${productId}`
         );
 
         if (!response.ok) {
@@ -22,21 +45,69 @@ function ProductDetails({ productId, onBack }) {
 
         const data = await response.json();
 
-        setProductDetails(data);
-      } catch (error) {
-        console.error("Product details error:", error);
+        if (!cancelled) {
+          setProductDetails(data);
+        }
+      } catch (err) {
+        console.error("Product details error:", err);
 
-        setError(
-          "Unable to load product details. Please make sure the backend is running."
-        );
+        if (!cancelled) {
+          setError(
+            "Unable to load product details. Please make sure the backend is running."
+          );
+        }
       } finally {
-        setLoading(false);
+        if (!cancelled) {
+          setLoading(false);
+        }
       }
     };
 
-    if (productId) {
-      fetchProductDetails();
-    }
+    const fetchHealthScore = async () => {
+      try {
+        setHealthLoading(true);
+        setHealthError("");
+        setHealth(null);
+
+        const response = await fetch(
+          `${API_URL}/health-score/product/${productId}`
+        );
+
+        if (response.status === 404) {
+          throw new Error(
+            "Health score is not available for this product."
+          );
+        }
+
+        if (!response.ok) {
+          throw new Error("Unable to calculate the health score.");
+        }
+
+        const data = await response.json();
+
+        if (!cancelled) {
+          setHealth(data);
+          setHealthFor(productId);
+        }
+      } catch (err) {
+        console.error("Health score error:", err);
+
+        if (!cancelled) {
+          setHealthError(err.message);
+        }
+      } finally {
+        if (!cancelled) {
+          setHealthLoading(false);
+        }
+      }
+    };
+
+    fetchProductDetails();
+    fetchHealthScore();
+
+    return () => {
+      cancelled = true;
+    };
   }, [productId]);
 
   if (loading) {
@@ -168,6 +239,45 @@ function ProductDetails({ productId, onBack }) {
 
         </div>
 
+
+        {/* HEALTH SCORE */}
+
+        <section className="health-section">
+
+          {healthLoading && (
+            <p className="details-message">
+              Calculating health score...
+            </p>
+          )}
+
+          {!healthLoading && healthError && (
+            <p className="details-message">
+              {healthError}
+            </p>
+          )}
+
+          {!healthLoading && health && (
+            <HealthScoreCard health={health} />
+          )}
+
+          {!healthLoading && health?.available && healthFor === productId && (
+            <RecordScan key={productId} source="product" productId={productId} />
+          )}
+
+        </section>
+
+
+        {/* HEALTHIER ALTERNATIVES */}
+
+        {nutrition && (
+          <Recommendations
+            productId={productId}
+            onOpenProduct={onOpenProduct}
+            onOpenProfile={onOpenProfile}
+          />
+        )}
+
+
         <section className="nutrition-section">
 
           <div className="section-heading">
@@ -298,6 +408,20 @@ function ProductDetails({ productId, onBack }) {
           )}
 
         </section>
+
+
+        {/* ANALYZE NUTRITION BUTTON */}
+
+        <div className="analysis-action">
+
+          <button
+            className="primary-button"
+            onClick={onAnalyze}
+          >
+            Analyze Nutrition
+          </button>
+
+        </div>
 
       </div>
     </div>

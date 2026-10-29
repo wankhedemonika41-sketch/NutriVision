@@ -1,0 +1,155 @@
+.nv-pf {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 40px 28px 56px;
+  text-align: left;
+}
+
+.nv-pf-label {
+  font-size: 12px;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  color: var(--nv-green-700);
+  margin-bottom: 6px;
+}
+
+.nv-pf h1 {
+  margin-bottom: 6px;
+}
+
+.nv-pf-sub {
+  color: var(--nv-muted);
+  margin-bottom: 24px;
+  line-height: 1.5;
+}
+
+.nv-pf-card {
+  background: var(--nv-card);
+  border: 1px solid var(--nv-border);
+  border-radius: 14px;
+  padding: 22px;
+  margin-bottom: 18px;
+}
+
+.nv-pf-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(190px, 1fr));
+  gap: 16px;
+}
+
+.nv-pf-field {
+  display: block;
+}
+
+.nv-pf-field > span {
+  display: block;
+  font-size: 14px;
+  font-weight: 700;
+  color: var(--nv-heading);
+  margin-bottom: 6px;
+}
+
+.nv-pf-field input,
+.nv-pf-field select {
+  width: 100%;
+  padding: 10px 12px;
+  border: 1px solid #cfd6cc;
+  border-radius: 10px;
+  background: #fff;
+  color: var(--nv-text);
+  font-size: 15px;
+}
+
+.nv-pf-field input:focus,
+.nv-pf-field select:focus {
+  outline: none;
+  border-color: var(--nv-green-700);
+  box-shadow: 0 0 0 3px rgba(31, 107, 74, 0.18);
+}
+
+.nv-pf-bmi {
+  margin-top: 16px;
+  padding: 12px 14px;
+  border-radius: 10px;
+  background: var(--nv-green-100);
+  color: var(--nv-green-900);
+}
+
+.nv-pf-bmi strong {
+  font-size: 18px;
+}
+
+.nv-pf-bmi small {
+  display: block;
+  margin-top: 4px;
+  color: var(--nv-muted);
+}
+
+.nv-pf-checks {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(170px, 1fr));
+  gap: 10px;
+}
+
+.nv-pf-check {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  padding: 9px 12px;
+  border: 1px solid var(--nv-border);
+  border-radius: 10px;
+  cursor: pointer;
+  background: #fff;
+}
+
+.nv-pf-check.on {
+  border-color: var(--nv-green-700);
+  background: var(--nv-green-100);
+}
+
+.nv-pf-note {
+  font-size: 13px;
+  color: var(--nv-muted);
+  margin-top: 10px;
+  line-height: 1.5;
+}
+
+.nv-pf-actions {
+  display: flex;
+  align-items: center;
+  gap: 16px;
+}
+
+.nv-pf-save {
+  border: none;
+  background: var(--nv-green-800);
+  color: #fff;
+  border-radius: 10px;
+  padding: 12px 28px;
+  font-weight: 700;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.nv-pf-save:hover:not(:disabled) {
+  background: var(--nv-green-900);
+}
+
+.nv-pf-save:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
+.nv-pf-ok {
+  color: #15803d;
+  font-weight: 700;
+}
+
+.nv-pf-error {
+  background: var(--nv-danger-bg);
+  color: var(--nv-danger);
+  border: 1px solid #fecdca;
+  border-radius: 10px;
+  padding: 10px 12px;
+  margin-bottom: 16px;
+}

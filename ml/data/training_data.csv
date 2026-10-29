@@ -1,0 +1,843 @@
+name,category,calories,carbohydrates,protein,total_fat,saturated_fat,trans_fat,sugar,sodium,fiber,cholesterol,ingredient_count,n_caution_flags,n_info_flags,n_positive_flags,has_palm_oil,has_added_sugar,has_hydrogenated,has_synthetic_colour,has_artificial_flavour,has_preservative,has_whole_grain,is_drink,health_score,grade
+HIDE & SEEK®,BISCUIT,479.0,73.4,5.9,18.0,9.4,0.0,32.5,114.0,0.0,0.0,14,2,3,0,1,1,0,0,1,0,0,0,34.8,D
+Britannia Nutrichoice Digestive High-Fibre Biscuits,BISCUIT,483.0,68.0,9.3,20.8,10.3,0.0,12.7,362.0,6.7,0.1,17,2,2,1,1,1,0,0,1,0,1,0,52.0,C
+"Sunfeast Dark Fantasy Choco Fills, Original Filled Cookies with Choco Crème",BISCUIT,507.0,61.1,7.3,27.3,12.7,0.1,35.7,181.5,0.0,0.3,25,3,3,0,1,1,1,0,1,0,0,0,27.1,D
+Sunfeast Baked Creations Rich Choco Chip Cookies,BISCUIT,525.0,63.0,6.0,27.5,16.0,0.15,34.0,175.5,0.0,5.0,30,3,3,0,1,1,1,0,1,0,0,0,27.1,D
+"sunfeast Dark Fantasy Bourbon, Classic Biscuit Made With Real Chocolate",BISCUIT,412.04,71.67,8.43,10.19,5.19,0.06,19.72,270.74,0.0,0.09,18,3,3,0,1,1,1,0,1,0,0,0,43.5,C
+Britannia Good Day Cashew Cookies Family Pack,BISCUIT,512.0,67.0,7.0,24.0,11.0,0.0,22.0,0.0,0.0,2.5,11,1,3,0,0,1,0,0,1,0,0,0,44.2,C
+The Baker's Dozen Zero Maida Coconut and Oats Biscuits Cookies,BISCUIT,538.0,56.0,10.0,30.0,14.0,0.0,25.0,160.0,8.0,0.0,11,1,2,1,0,1,0,0,1,0,1,0,56.0,B
+Britannia The Original Bourbon,BISCUIT,493.5,72.7,5.0,20.3,10.1,0.0,38.3,119.0,0.0,0.0,13,2,3,0,1,1,0,0,1,0,0,0,29.3,D
+Nutrisum Oats Cookies,BISCUIT,516.9,15.4,8.2,27.3,11.8,0.0,5.0,203.7,12.0,0.0,15,1,2,1,0,0,1,0,1,0,1,0,61.5,B
+Britannia Good Day Pista Badam,BISCUIT,512.0,67.0,7.0,24.0,11.0,0.0,22.0,0.0,0.0,2.0,10,1,2,0,0,1,0,0,1,0,0,0,45.7,C
+Britannia Treat Jimjam Cream Biscuits,BISCUIT,483.0,73.0,5.0,19.0,9.5,0.0,33.5,214.0,0.0,0.0,18,3,3,0,1,1,1,0,1,0,0,0,27.1,D
+UNIBIC Danish Coconut Cookies,BISCUIT,532.0,60.3,6.5,29.4,6.04,0.0,34.7,260.0,8.0,0.5,10,1,2,0,0,1,0,0,0,0,0,0,53.0,C
+Orion Choco Pie - Chocolate Coated Soft Biscuit,BISCUIT,437.2,69.8,3.8,15.9,10.8,0.2,40.0,243.5,0.0,0.0,21,3,2,0,1,1,1,0,1,0,0,0,23.2,D
+Britannia Nutrichoice Oats Cookies Diabetic Friendly,BISCUIT,464.0,68.6,9.4,19.0,8.5,0.0,2.1,404.0,9.2,0.0,24,2,2,1,1,1,0,0,1,0,1,0,61.1,B
+Nutrisum Oats Cookies,BISCUIT,503.2,56.6,12.2,25.3,12.3,0.0,6.2,231.3,10.1,0.0,11,1,1,1,0,0,1,0,0,0,1,0,63.0,B
+Britannia Nice Time Biscuit,BISCUIT,463.0,76.0,6.0,15.0,8.0,0.0,30.5,274.0,0.0,0.0,16,2,3,0,1,1,0,0,1,0,0,0,34.8,D
+Britannia Good Day Pista Badam Cookies,BISCUIT,512.0,67.0,7.0,24.0,11.0,0.0,22.0,0.0,0.0,2.0,10,1,2,0,0,1,0,0,1,0,0,0,45.7,C
+Sunfeast Cheese Wowzers,BISCUIT,509.0,65.4,9.1,23.8,12.0,0.1,19.3,419.5,0.0,0.2,14,3,4,0,1,1,1,0,1,0,0,0,29.3,D
+Ragi Kaju Pista Cookies,BISCUIT,488.55,63.38,9.55,21.87,10.72,0.01,13.57,61.78,4.66,1.0,13,2,2,1,0,1,1,0,1,0,1,0,57.5,B
+Britannia Little Hearts Classic Crunch Biscuits,BISCUIT,486.0,70.0,7.4,19.5,9.4,0.0,24.0,309.0,0.0,0.0,9,1,2,0,0,1,0,0,0,0,0,0,40.3,C
+Britannia Good Day Butter Jeera Cookies,BISCUIT,506.0,68.2,6.4,23.1,11.5,0.0,20.8,592.0,0.0,4.2,16,2,3,0,1,1,0,0,1,0,0,0,29.3,D
+UNIBIC Choco Chip Cookies,BISCUIT,471.0,68.0,5.8,19.5,12.2,0.0,28.0,213.0,0.0,0.0,14,1,3,0,0,1,0,0,1,0,0,0,37.0,C
+Britannia Milk Bikis Biscuits,BISCUIT,500.0,68.5,7.0,22.0,12.9,0.0,30.2,204.0,0.0,0.0,10,1,3,0,0,1,0,0,1,0,0,0,37.0,C
+Sunfeast Baked Creations Walnut & Choco Chip Cookies,BISCUIT,535.0,57.9,7.4,31.0,15.4,0.1,29.0,491.4,0.0,4.7,27,3,3,1,1,1,1,0,1,0,1,0,26.5,D
+"Ritebite Max Protein Cookie Choco Almond, Sugar Free Premium Biscuit Cookies",BISCUIT,278.0,22.1,12.0,16.3,2.9,0.0,3.5,176.0,8.0,0.0,26,0,2,1,0,0,0,0,0,0,1,0,89.1,A
+Britannia Good Day Chunkies Chocochip Cookie,BISCUIT,512.0,64.0,68.0,25.5,13.7,0.0,31.5,536.0,0.0,4.0,7,2,3,1,0,1,1,0,1,0,1,0,30.5,D
+Britannia Nutrichoice Almond and Oats Milk Biscuits,BISCUIT,478.0,68.5,8.0,21.0,8.6,0.0,19.5,385.0,8.4,1.3,20,2,2,1,1,1,0,0,1,0,1,0,53.8,C
+Orion Mango Choco Pie,BISCUIT,417.0,42.0,10.5,22.0,8.9,0.05,42.0,0.0,18.6,0.0,33,3,4,0,0,1,1,1,1,1,0,0,42.0,C
+Sunfeast Baked Creations French Style Butter Delice Cookies,BISCUIT,506.0,65.7,7.0,24.2,15.0,0.0,26.6,640.0,0.0,39.9,7,1,2,0,0,1,0,0,0,0,0,0,31.2,D
+UNIBIC Choco Nut Cookies,BISCUIT,464.0,67.0,6.5,18.9,11.9,0.0,25.6,209.0,0.0,0.0,12,1,3,0,0,1,0,0,1,0,0,0,40.6,C
+UNIBIC Cashew Badam Cookies,BISCUIT,487.0,66.0,5.5,22.3,10.0,0.0,26.0,195.0,0.0,0.0,15,1,3,0,0,1,0,0,1,0,0,0,37.0,C
+Britannia Nutrichoice Oats Orange & Almond Biscuits,BISCUIT,471.0,70.3,7.8,19.4,8.5,0.0,15.6,351.0,8.0,2.5,24,2,2,1,1,1,0,0,1,0,1,0,55.6,B
+Dukes Nice Biscuits,BISCUIT,453.4,73.6,7.4,14.4,7.5,0.0,28.2,0.0,0.0,0.0,12,2,2,0,1,1,0,0,0,0,0,0,45.4,C
+Parle Hide & Seek Cafe Mocha Cookies,BISCUIT,478.0,73.6,5.8,17.8,9.2,0.0,32.0,142.0,0.0,0.0,16,2,3,0,1,1,0,0,1,0,0,0,34.8,D
+UNIBIC Fruit & Nut cookie,BISCUIT,448.6,63.0,6.4,19.0,8.6,0.0,24.0,209.0,0.0,0.0,21,1,2,0,0,1,0,0,0,0,0,0,45.7,C
+Cadbury Chocobakes ChocoChip Cookies,BISCUIT,466.0,69.3,7.2,18.0,8.9,0.1,31.2,305.0,0.0,2.0,17,2,3,0,1,1,0,0,1,0,0,0,36.6,C
+Mom's Magic Rich Cashew Almond Cookies | Mom's Favorite Baked Cookies,BISCUIT,503.0,66.4,7.8,22.9,10.3,0.0,22.8,0.0,0.0,0.0,15,2,2,0,1,1,0,0,0,0,0,0,39.9,C
+Britannia NutriChoice Chocolate and Almond Oats Biscuits,BISCUIT,490.0,68.3,7.2,22.5,10.6,0.0,21.7,376.0,0.0,4.1,26,2,3,1,1,1,0,0,1,0,1,0,36.0,C
+Parle Happy Happy choco chip cookies,BISCUIT,489.0,71.3,5.8,20.1,10.6,0.0,30.6,197.0,0.0,0.0,18,3,3,0,1,1,1,0,1,0,0,0,27.1,D
+Malkist Cheese Crunchy Layered Crackers,BISCUIT,488.0,66.4,7.6,21.3,14.2,0.0,21.3,527.0,0.0,2.2,23,2,3,0,1,1,0,0,1,0,0,0,31.1,D
+Karachi Bakery Osmania Biscuits,BISCUIT,310.0,42.0,4.0,32.0,16.0,0.0,8.0,671.0,6.0,0.0,7,2,1,0,0,1,1,0,0,0,0,0,46.9,C
+UNIBIC Biscot Caramel Atta Biscuit,BISCUIT,470.0,71.0,6.0,18.0,10.5,0.0,30.0,240.0,0.0,0.0,14,1,2,1,0,1,0,0,1,0,1,0,41.5,C
+Haldirams Cookie Heaven Badam Pista Cookies,BISCUIT,549.0,56.2,9.5,31.8,20.2,0.0,4.0,122.7,0.0,0.0,12,2,2,0,0,1,1,0,0,0,0,0,49.0,C
+Haldirams Cookie Heaven Jeera Cookies,BISCUIT,549.7,56.6,6.7,32.9,2.0,0.0,15.9,577.8,0.0,3.0,15,2,2,0,0,1,1,0,0,0,0,0,47.2,C
+"Ritebite Max Protein Cookie Choco Chips, No Maida Multigrain Premium Biscuit Cookies",BISCUIT,263.0,24.8,10.0,13.3,8.1,0.0,10.0,0.0,4.0,0.0,32,2,1,1,0,1,1,0,0,0,1,0,68.0,B
+"Ritebite Max Protein Cookie Trail Mix, No Maida Multigrain Premium Biscuit Cookies",BISCUIT,239.0,25.3,10.0,11.6,4.0,0.1,11.0,129.0,4.0,1.0,33,2,1,1,0,1,1,0,0,0,1,0,75.3,A
+The Baker's Dozen Cookies Choco Chip Flavoured Biscuits Cookies,BISCUIT,500.0,61.0,10.0,24.0,13.0,0.0,24.0,240.0,4.0,0.0,6,1,3,0,0,1,0,0,1,0,0,0,47.9,C
+CookieMan Almond Finger Cookies,BISCUIT,492.3,48.3,7.8,29.6,15.0,0.49,20.5,259.7,0.1,0.0,15,3,3,0,1,1,1,0,0,1,0,0,29.0,D
+"Sunfeast Dark Fantasy Choco Chip, Biscuit Made With Deliciously Rich Chocolate",BISCUIT,480.0,71.0,7.3,18.5,10.0,0.05,31.2,150.5,0.0,0.0,9,2,4,0,1,1,0,0,1,1,0,0,35.1,C
+The Baker's Dozen Dark Chocolate Flavoured Biscuits Cookies,BISCUIT,480.0,66.0,7.0,21.0,5.0,0.0,29.0,90.0,4.0,0.0,7,1,2,0,0,1,0,0,0,0,0,0,58.5,B
+Open Secret Zero Maida Assorted Chocolate Cookies,BISCUIT,57.0,7.8,1.29,2.65,1.28,0.0,1.69,19.0,1.08,0.0,24,2,1,0,0,1,1,0,0,0,0,0,72.3,B
+Mcvitie's Digestive High Fibre Biscuits With Goodness Of Wholewheat,BISCUIT,470.0,70.6,7.9,17.3,8.3,0.0,18.1,527.0,6.5,0.0,7,2,2,1,1,1,0,0,0,0,1,0,50.2,C
+Malkist Double Chocolatey Crunchy Layered Crackers,BISCUIT,488.0,66.4,7.6,21.3,14.2,0.0,21.3,527.0,0.0,2.2,20,2,3,0,1,1,0,0,1,0,0,0,31.1,D
+CookieMan Choco Chunk Cookies,BISCUIT,466.0,60.0,4.7,23.0,17.0,0.2,34.0,197.0,0.66,0.0,13,2,2,0,0,1,1,0,0,0,0,0,29.0,D
+Britannia Good Day Butter Cookies | Trans Fat-free,BISCUIT,494.0,67.0,7.0,22.0,11.0,0.0,22.0,0.0,0.0,6.5,10,1,2,0,0,1,0,0,1,0,0,0,45.7,C
+"Open Secret Zero Maida Chocolate Millet Biscuit, Healthy Snacks with No Refined Sugar & No Palm Oil",BISCUIT,79.5,8.6,1.2,4.4,3.8,0.0,4.2,0.0,0.3,5.3,20,1,1,1,0,1,0,0,0,0,1,0,73.9,B
+Parle Hide & Seek Milano Choco Filled Hazelnut,BISCUIT,536.0,63.4,4.3,29.9,13.8,0.0,33.5,118.0,0.0,0.0,12,2,2,0,1,1,0,0,1,0,0,0,30.8,D
+UNIBIC Sugar Free Multigrain Cookies,BISCUIT,444.4,65.0,6.3,22.8,14.6,0.0,0.5,85.0,0.0,49.0,7,0,2,1,0,0,0,0,0,0,1,0,60.0,B
+Britannia Milk Bikis Biscuits,BISCUIT,459.0,77.1,7.4,13.5,6.6,0.0,26.0,298.0,0.0,0.0,15,2,3,0,1,1,0,0,1,0,0,0,42.0,C
+Open Secret Zero Maida Jeera Millet Biscuit,BISCUIT,73.5,9.5,1.4,3.3,3.0,0.0,3.8,54.0,0.3,4.5,22,1,1,1,0,1,0,0,0,0,1,0,73.9,B
+Palekar Buttery Shrewsbury Cookies,BISCUIT,550.0,66.0,7.0,25.0,23.0,0.0,40.0,55.97,1.0,0.0,7,1,1,0,0,1,0,0,0,0,0,0,41.8,C
+The Baker's Dozen High Protein Peanut Butter Cookies Biscuits,BISCUIT,557.0,49.0,12.0,35.0,12.0,0.0,23.0,90.0,4.0,0.0,7,1,2,0,0,1,0,0,0,0,0,0,51.2,C
+CookieMan Ragi Millet Jaggery Cookies,BISCUIT,458.0,61.0,6.0,26.0,15.0,1.0,23.0,273.0,4.0,6.0,23,2,4,1,0,1,1,0,1,1,1,0,32.6,D
+Parle-G Original Gluco Biscuits,BISCUIT,454.0,77.3,6.3,13.0,6.0,0.0,25.5,296.0,0.0,0.0,11,2,3,0,1,1,0,0,1,0,0,0,40.2,C
+Parle Elaichi Rusk,BISCUIT,434.0,80.4,7.6,9.1,4.2,0.0,25.1,0.0,0.0,0.0,16,2,3,0,1,1,0,0,1,0,0,0,51.1,C
+Britannia Pure Magic Choco Stars,BISCUIT,529.0,64.7,6.3,27.2,15.6,0.1,25.5,319.0,0.0,2.0,23,3,3,0,1,1,1,0,1,0,0,0,27.1,D
+Parle-G Gold Biscuit,BISCUIT,462.0,75.9,6.7,14.6,6.8,0.0,27.7,281.0,0.0,0.0,14,2,2,0,1,1,0,0,0,0,0,0,41.7,C
+Parle-G Royale,BISCUIT,464.0,74.5,6.5,15.5,7.2,0.0,27.3,268.0,0.0,0.0,12,2,2,0,1,1,0,0,0,0,0,0,41.7,C
+Britannia Good Day Chunkies Coconut Cookies,BISCUIT,575.0,532.8,6.2,37.2,24.7,0.0,28.0,143.0,0.0,13.1,16,2,3,0,0,1,1,0,1,0,0,0,31.1,D
+Parle Krackjack Sweet and Salty Biscuits,BISCUIT,489.0,70.5,6.8,19.9,9.4,0.0,19.6,371.0,0.0,0.0,16,2,2,0,1,1,0,0,0,0,0,0,36.3,C
+Parle Milk Shakti,BISCUIT,464.0,75.2,7.3,14.7,6.8,0.0,24.5,261.0,0.0,0.6,12,2,2,0,1,1,0,0,0,0,0,0,45.4,C
+Parle Nutricrunch Classic Digestive Cookies,BISCUIT,189.0,70.7,6.5,20.0,9.2,0.0,14.8,0.0,6.0,0.0,16,2,2,1,1,1,0,0,0,0,1,0,64.7,B
+Parle Monaco Classic Salty Biscuits,BISCUIT,495.0,68.9,7.7,21.0,9.9,0.0,7.7,0.0,0.0,0.0,12,2,2,0,1,1,0,0,0,0,0,0,49.0,C
+Parle Hide & Seek Black Bourbon,BISCUIT,470.0,75.8,5.2,16.2,8.3,0.1,42.8,0.0,0.0,0.0,14,2,2,0,1,1,0,0,1,0,0,0,36.3,C
+Parle Hide & Seek Creme Sandwiches,BISCUIT,502.0,66.0,6.0,24.0,12.0,0.1,30.0,0.0,0.0,0.0,10,2,2,0,1,1,0,0,0,0,0,0,36.3,C
+Parle Hide & Seek Choco Roll Choco Rolls,BISCUIT,512.0,67.0,4.5,25.1,11.7,0.12,38.3,227.0,0.0,0.0,19,2,2,0,1,1,0,0,1,0,0,0,27.2,D
+Parle Marie Biscuit,BISCUIT,451.0,77.2,7.7,12.4,5.7,0.0,20.0,0.0,0.0,0.0,15,2,3,0,1,1,0,0,1,0,0,0,51.1,C
+Parle Hide & Seek Milano Cookies,BISCUIT,518.0,67.0,4.4,25.8,13.4,0.0,31.5,192.0,0.0,3.9,21,2,3,0,1,1,0,0,1,0,0,0,27.5,D
+Britannia 5 Grain High-Fibre Biscuits Multigrain Digestive Biscuits,BISCUIT,492.0,70.2,8.1,19.9,9.7,0.0,18.6,224.0,7.7,0.1,15,2,2,1,1,1,0,0,1,0,1,0,53.8,C
+Dukes Nibbles - Jeera Crackers,BISCUIT,416.7,70.0,9.0,10.8,4.5,0.2,9.5,0.0,0.0,0.0,17,2,2,0,1,1,0,0,0,0,0,0,58.1,B
+Let'S Try Fruits Cake Rusk,BISCUIT,483.67,68.37,7.46,20.15,11.85,0.01,24.61,129.12,3.46,1.0,12,1,3,1,0,1,0,0,1,0,1,0,49.0,C
+Palekar Tea Time Ajwain Toast,BISCUIT,440.0,77.0,11.0,10.0,6.0,0.0,31.0,50.0,2.0,0.0,16,2,2,0,0,1,1,0,0,0,0,0,52.6,C
+Palekar Makkhan Rusk,BISCUIT,409.0,81.0,10.0,5.0,1.0,0.0,32.0,720.0,4.0,0.5,15,1,2,0,0,1,0,0,0,0,0,0,53.0,C
+Palekar Jaggery Toasted Buns,BISCUIT,426.0,73.0,10.0,11.0,2.0,0.0,7.0,792.0,3.0,0.0,15,0,2,0,0,0,0,0,0,0,0,0,64.3,B
+Britannia Treat Orange Creme Sandwich Biscuits,BISCUIT,494.5,72.7,4.8,20.5,9.0,0.0,37.9,140.0,0.0,0.0,23,3,3,0,1,1,1,0,1,0,0,0,25.3,D
+Britannia Marie Gold Biscuits Plain,BISCUIT,445.0,60.0,7.0,26.0,13.0,0.0,10.0,0.0,0.0,0.0,16,2,3,0,1,1,0,0,1,0,0,0,45.7,C
+Britannia Vita Butter Marie Gold Biscuits,BISCUIT,449.0,79.3,7.3,11.4,5.5,0.0,25.5,255.0,0.0,0.0,18,2,3,0,1,1,0,0,1,0,0,0,45.7,C
+Britannia Pure Magic Chocolush Choco Filled Cookie,BISCUIT,519.0,66.1,4.8,26.1,12.0,0.1,37.1,283.0,0.0,1.2,22,3,3,0,1,1,1,0,1,0,0,0,19.9,D
+Britannia 5050 Maska Chaska Biscuit,BISCUIT,525.0,63.8,7.7,26.5,15.0,0.0,7.5,1065.0,0.0,0.0,14,2,2,0,1,1,0,0,0,0,0,0,29.0,D
+Britannia Biscafe Refreshing Super Thin Coffee Cracker,BISCUIT,485.0,75.1,6.8,19.0,9.3,0.0,22.6,462.0,0.0,3.5,18,2,2,0,1,1,0,0,0,0,0,0,32.6,D
+Britannia Toastea Milk Rusk,BISCUIT,466.0,74.4,9.4,14.2,6.9,0.0,21.0,233.0,0.0,2.0,17,3,2,0,1,1,1,0,0,0,0,0,45.0,C
+Britannia Good Day ChocoChip Cookies,BISCUIT,512.0,68.0,6.1,24.0,14.1,0.0,32.0,200.0,0.0,0.2,32,3,3,0,1,1,1,0,1,0,0,0,25.3,D
+Sunfeast Glucose Plus,BISCUIT,447.0,80.2,7.2,10.8,5.0,0.0,27.8,419.0,0.0,0.1,20,3,3,0,1,1,0,1,1,0,0,0,36.2,C
+Sunfeast Dark Fantasy Crème,BISCUIT,452.0,75.8,8.9,13.0,6.3,0.05,22.0,308.8,0.0,0.1,11,3,3,0,1,1,1,0,1,0,0,0,41.7,C
+Sunfeast Dark Fantasy Yumfills Rich Chocolate Pie Cake,BISCUIT,425.0,53.9,5.4,16.4,10.7,0.05,33.1,146.8,0.0,2.4,26,4,4,0,1,1,1,1,1,1,0,0,25.5,D
+Sunfeast All Rounder Crunchy Potato Biscuit with Chatpata Masala Flavour,BISCUIT,484.0,66.1,8.0,20.9,10.6,0.03,14.8,898.4,0.0,0.0,29,2,3,0,1,1,0,0,1,0,0,0,27.5,D
+Sunfeats Dark Fantasy Desserts Choconut Dipped Filled Cookie Reimaged,BISCUIT,548.0,61.1,5.2,31.5,17.8,0.04,38.1,128.8,0.0,3.0,35,3,3,0,1,1,1,0,1,0,0,0,25.3,D
+"Sunfeast Marie Light Active, Marie Biscuits with Iron and 6 Vitamins Family Pack",BISCUIT,452.0,75.8,8.9,13.0,6.3,0.05,22.0,308.8,0.0,0.1,17,2,3,0,1,1,0,0,1,0,0,0,45.7,C
+"Sunfeast Dark Fantasy VANILLA CAKE Creme, Dark Crunchy Biscuit with Smooth VANILLA CAKE Creme",BISCUIT,475.0,73.9,4.8,18.1,9.6,0.07,27.3,353.0,0.0,0.0,13,3,3,0,1,1,1,0,1,0,0,0,27.1,D
+Sunfeast Farmlite Oats & Almonds Cookies,BISCUIT,482.0,52.5,12.3,21.4,9.6,0.0,20.5,423.6,4.7,0.2,16,2,2,1,1,1,0,0,1,0,1,0,50.2,C
+Sunfeast Farmlite Oats & Chocolate Cookies,BISCUIT,484.0,63.6,11.0,21.6,10.6,0.0,26.2,248.8,4.6,0.2,22,2,2,1,1,1,0,0,1,0,1,0,50.2,C
+Sunfeast Farmlite Oats & Raisins Cookies,BISCUIT,461.0,68.0,7.5,19.5,9.8,0.0,18.3,298.1,6.9,0.2,21,2,2,1,1,1,0,0,1,0,1,0,52.0,C
+Frooti Mango Fruit Juice,JUICE,62.9,15.7,0.0,0.0,0.0,0.0,15.6,25.4,0.0,0.0,12,2,3,0,0,1,0,1,1,1,0,1,43.9,C
+Paper Boat Lychee Fruit Juice,JUICE,62.4,15.6,0.0,0.0,0.0,0.0,15.4,121.0,0.0,0.0,15,1,2,0,0,1,0,0,0,1,0,1,47.5,C
+Yu Berry Blast 100% Fruit Juice With Berry Pieces,JUICE,47.0,12.0,0.0,0.0,0.0,0.0,6.4,10.7,2.0,0.0,7,0,0,0,0,0,0,0,0,0,0,1,72.7,B
+Raw Pressery Valencia Orange Fruit Juice,JUICE,115.0,26.9,1.6,0.1,21.9,0.0,21.9,10.5,0.4,0.0,4,0,1,0,0,0,0,0,0,0,0,1,31.2,D
+Boba Bhai Pina Colada with Popping Bubbles & Nata de Coco,JUICE,51.1,12.77,0.0,0.0,0.0,0.0,12.77,12.0,0.0,0.0,11,1,1,0,0,1,0,0,0,1,0,1,56.3,B
+Maaza Mango Fruit Juice,JUICE,63.0,15.8,0.0,0.0,0.0,0.0,14.9,21.9,0.0,0.0,12,2,3,0,0,1,0,1,1,1,0,1,45.7,C
+Paper Boat Swing Pomegranate Fruit Juice,JUICE,52.8,13.2,0.0,0.0,0.0,0.0,13.0,40.0,0.0,0.0,13,1,3,0,0,1,0,0,1,1,0,1,53.3,C
+Bloody Bubbly Cream Soda,JUICE,18.0,2.6,0.21,0.0,0.0,0.0,4.4,0.21,0.0,0.0,7,1,2,0,0,1,0,0,0,0,0,1,69.4,B
+Paper Boat Mango,JUICE,71.2,17.8,0.0,0.0,0.0,0.0,16.7,42.0,0.0,0.0,11,1,2,0,0,1,0,0,0,1,0,1,49.4,C
+Coca-Cola Zero Sugar Soft Drink,JUICE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,7.5,0.0,0.0,9,0,2,0,0,0,0,0,0,1,0,1,78.8,A
+Bloody Bubbly Litchi Soda,JUICE,18.0,2.6,0.21,0.0,0.0,0.0,4.4,0.21,0.0,0.0,7,1,2,0,0,1,0,0,0,0,0,1,69.4,B
+Paper Boat Swing Lychee Fruit Juice,JUICE,64.0,16.0,0.0,0.0,0.0,0.0,15.0,9.0,0.0,0.0,12,1,3,0,0,1,0,0,1,1,0,1,47.9,C
+Mogu Mogu Imported Lychee Fruit Juice,JUICE,150.0,38.0,0.0,0.0,0.0,0.0,35.0,60.0,1.0,0.0,17,1,3,0,0,1,0,0,1,1,0,1,38.8,C
+Bloody Bubbly Lemon Soda,JUICE,18.0,2.6,0.21,0.0,0.0,0.0,4.4,0.21,0.0,0.0,7,1,1,0,0,1,0,0,0,0,0,1,70.9,B
+Paper Boat Orange Juice,JUICE,53.2,13.3,0.0,0.0,0.0,0.0,11.5,54.0,0.0,0.0,11,1,3,0,0,1,0,0,1,1,0,1,55.1,B
+"B Natural Mixed Fruit Juice, 100% Pulp",JUICE,50.0,12.85,0.1,0.0,0.0,0.0,2.7,0.0,0.75,0.0,15,1,1,0,0,1,0,0,0,0,0,1,69.0,B
+Dabur Fruit Power Mixed Fruit Juice,JUICE,49.0,12.3,0.0,0.0,0.0,0.0,12.3,14.0,0.0,0.0,21,1,2,0,0,1,0,0,1,0,0,1,54.8,C
+Slice Mango Drink,JUICE,50.0,12.5,0.0,0.0,0.0,0.0,10.8,7.3,0.0,0.0,8,1,3,0,0,1,0,0,1,1,0,1,55.1,B
+Paper Boat Swing Guava Fruit Juice,JUICE,55.6,13.9,0.0,0.0,0.0,0.0,13.5,105.0,0.0,0.0,11,1,3,0,0,1,0,0,1,1,0,1,49.7,C
+Dabur Real Fruit Power Masala Mixed Fruit Juice,JUICE,49.0,12.3,0.0,0.0,0.0,0.0,12.3,110.0,0.0,0.0,28,1,2,0,0,1,0,0,1,0,0,1,53.0,C
+Dabur Real Alphonso Mango Fruit Juice,JUICE,60.0,15.1,0.1,0.0,0.0,0.0,15.1,3.0,0.0,0.0,8,1,1,0,0,1,0,0,0,0,0,1,50.9,C
+Dabur Real Masala Pomegranate Fruit Juice,JUICE,50.0,12.5,0.0,0.0,0.0,0.0,12.5,72.0,0.0,0.0,13,1,2,0,0,1,0,0,1,0,0,1,54.8,C
+Dabur Real Cranberry Fruit Juice,JUICE,46.0,11.1,0.0,0.0,0.0,0.0,11.0,5.8,0.0,0.0,6,0,2,0,0,0,0,0,1,0,0,1,60.6,B
+Mogu Mogu Strawberry Fruit Juice,JUICE,150.0,37.0,0.0,0.0,0.0,0.0,33.0,125.0,0.0,0.0,17,1,3,0,0,1,0,0,1,1,0,1,35.1,C
+Raw Pressery Refreshers Pineapple Fruit Juice,JUICE,29.1,7.1,0.2,0.0,0.0,0.0,6.5,6.7,0.0,0.0,9,1,1,0,0,1,0,0,0,0,0,1,65.4,B
+Dabur Real Activ Orange Juice,JUICE,48.0,12.0,0.0,0.0,0.0,0.0,12.0,2.7,0.0,0.0,4,0,0,0,0,0,0,0,0,0,0,1,61.8,B
+Dabur Real Fruit Power Guava Juice,JUICE,48.0,12.0,0.0,0.0,0.0,0.0,11.9,64.4,0.0,0.0,11,2,2,0,0,1,0,1,1,0,0,1,52.6,C
+Tropicana Delight Guava Fruit Juice,JUICE,57.0,14.4,0.0,0.0,0.0,0.0,13.5,3.0,0.0,0.0,7,1,2,0,0,1,0,0,1,0,0,1,53.0,C
+Tropicana Delight Mixed Fruit Juice,JUICE,42.0,10.5,0.0,0.0,0.0,0.0,10.2,25.0,0.0,0.0,17,1,2,0,0,1,0,0,1,0,0,1,60.3,B
+"B Natural Apple Juice, 100% Pulp",JUICE,49.22,12.65,0.03,0.0,0.0,0.0,1.5,0.0,0.75,0.0,10,1,2,0,0,1,0,0,1,0,0,1,67.5,B
+Dabur Real Activ Mixed Fruit Juice,JUICE,50.0,12.0,0.1,0.0,0.0,0.0,11.0,5.0,0.0,0.0,6,1,2,0,0,1,0,0,0,1,0,1,56.6,B
+Dabur Real Activ Apple Juice,JUICE,48.0,12.0,0.0,0.0,0.0,0.0,12.0,40.0,0.0,0.0,4,0,1,0,0,0,0,0,0,0,0,1,60.3,B
+Dabur Real Litchi Fruit Juice,JUICE,56.4,14.0,0.1,0.0,13.0,7.7,0.0,0.0,0.0,0.0,8,1,2,0,0,1,0,0,1,0,0,1,42.1,C
+Dabur Real Fruit Power Pineapple Fruit Juice,JUICE,51.0,12.8,0.1,0.0,0.0,0.0,12.5,5.2,0.0,0.0,7,1,2,0,0,1,0,0,1,0,0,1,54.8,C
+Dabur Real Pomegranate Fruit Juice,JUICE,54.0,13.5,0.0,0.0,0.0,0.0,13.5,10.5,0.0,0.0,9,1,1,0,0,1,0,0,0,0,0,1,54.5,C
+Raw Pressery Refreshers Sugarcane Fruit Juice,JUICE,43.1,10.1,0.5,0.1,0.0,0.0,9.8,2.8,0.0,0.0,9,0,2,0,0,0,0,0,0,0,0,1,62.5,B
+Dabur Real Mosambi Fruit Juice,JUICE,50.0,12.5,0.1,0.0,0.0,0.0,12.5,15.0,0.0,0.0,6,1,1,0,0,1,0,0,0,0,0,1,56.3,B
+Raw Pressery Alphonso Mango Fruit Juice,JUICE,41.7,10.3,0.45,0.0,0.0,0.0,8.69,1.04,0.91,0.0,5,1,1,0,0,1,0,0,0,0,0,1,65.4,B
+Tropicana Delight Cranberry Fruit Juice,JUICE,43.0,10.8,0.0,0.0,0.0,0.0,10.5,26.0,0.0,0.0,9,1,1,0,0,1,0,0,0,0,0,1,60.0,B
+Storia Pomegranate Fruit Juice,JUICE,45.0,11.2,0.0,0.0,0.0,0.0,11.2,60.0,0.0,0.0,8,0,2,0,0,0,0,0,0,0,0,1,60.6,B
+Raw Pressery Valencia Orange Fruit Juice,JUICE,115.0,26.9,1.6,0.1,0.0,0.0,21.9,10.5,0.4,0.0,4,0,1,0,0,0,0,0,0,0,0,1,49.4,C
+Raw Pressery Refreshers Cranberry Fruit Juice,JUICE,27.2,6.6,0.2,0.0,0.0,0.0,5.81,21.54,0.0,0.0,10,1,2,0,0,1,0,0,0,0,0,1,67.5,B
+Rani Imported Orange and Carrot Fruit Juice,JUICE,102.0,25.0,0.0,0.0,0.0,0.0,25.0,37.0,0.4,0.0,9,1,2,0,0,1,0,0,1,0,0,1,43.9,C
+Raw Pressery Pomegranate Fruit Juice,JUICE,62.46,15.13,0.69,0.6,0.0,0.0,14.1,2.2,0.7,0.0,3,0,1,0,0,0,0,0,0,0,0,1,56.7,B
+No filter 100% juice cranberry,JUICE,46.0,11.5,0.0,0.0,0.0,0.0,11.0,23.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,1,63.6,B
+No filter 100% juice orange,JUICE,47.0,11.8,0.0,0.0,0.0,0.0,11.2,25.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,1,63.6,B
+No filter 100% juice mango,JUICE,46.0,11.6,0.0,0.0,0.0,0.0,11.0,22.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,1,63.6,B
+No filter 100% juice strawberry,JUICE,46.0,11.5,0.0,0.0,0.0,0.0,15.0,27.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,1,58.2,B
+No filter 100% juice lychee,JUICE,46.0,11.5,0.0,0.0,0.0,0.0,11.0,25.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,1,63.6,B
+Pokka Ready To Drink Carrot Juice,JUICE,103.0,25.8,0.0,0.0,0.0,0.0,24.5,0.0,0.0,0.0,8,0,0,0,0,0,0,0,0,0,0,1,50.9,C
+RIO Blueberry Peach Bubbly Fruit Drink Can,JUICE,40.0,11.0,0.5,0.5,0.0,0.0,1.2,0.0,0.0,0.0,14,1,3,0,0,1,0,0,1,1,0,1,69.7,B
+RIO Acai Berry & Mixed Berry Bubbly Fruit Drink Can,JUICE,40.0,10.0,0.5,0.5,0.0,0.0,1.5,0.0,0.0,0.0,13,2,3,0,0,1,0,1,1,1,0,1,63.9,B
+RIO WildBerry Bubbly Fruit Drink Can,JUICE,40.0,10.0,0.5,0.5,0.0,0.0,1.5,0.0,0.0,0.0,14,2,3,0,0,1,0,1,1,1,0,1,63.9,B
+RIO Pink Guava Bubbly Fruit Drink Can,JUICE,48.0,12.0,0.5,0.5,0.0,0.0,1.4,0.0,0.0,0.0,5,2,3,0,0,1,0,1,1,1,0,1,63.9,B
+Appy Fizz Apple Soft Drink,JUICE,51.8,12.95,0.0,0.0,0.0,0.0,12.9,21.2,0.0,0.0,11,1,3,0,0,1,0,0,1,1,0,1,53.3,C
+Paper Boat Aamras Drink,JUICE,61.2,15.3,0.0,0.0,0.0,0.0,14.6,0.0,0.0,0.0,3,0,0,0,0,0,0,0,0,0,0,1,58.2,B
+Dabur Real Mango Drink,JUICE,57.0,14.3,0.0,0.0,0.0,0.0,14.3,1.5,0.0,0.0,8,1,2,0,0,1,0,0,1,0,0,1,53.0,C
+Del Monte Green Apple Fruit Drink Crisp,JUICE,45.2,11.3,0.0,0.0,0.0,0.0,11.3,12.0,0.0,0.0,5,1,1,0,0,1,0,0,0,0,0,1,58.1,B
+Raw Pressery Refreshers Aam Mango Drink,JUICE,40.1,9.6,0.4,0.0,0.0,0.0,4.5,8.0,0.0,0.0,8,1,2,0,0,1,0,0,0,0,0,1,65.7,B
+B Natural Guava,JUICE,20.0,5.0,0.1,0.0,0.0,0.0,4.7,8.0,0.3,0.0,14,0,1,0,0,0,0,0,0,0,0,1,73.0,B
+Alo Frut Litchi,JUICE,42.68,10.67,0.0,0.0,0.0,0.0,10.56,21.62,0.0,0.0,12,1,3,0,0,1,0,0,1,1,0,1,57.0,B
+Bindu Fizz Jeera Masala Soft Drink,JUICE,47.0,11.6,0.1,0.0,0.0,0.0,11.6,160.0,0.0,0.0,12,2,3,0,0,1,0,1,1,1,0,1,49.3,C
+Fanta Orange Flavoured Soft Drink,JUICE,56.0,14.0,0.0,0.0,0.0,0.0,13.7,22.3,0.0,0.0,8,2,3,0,0,1,0,1,1,1,0,1,47.5,C
+Bombay Banta Lemon Soda Soft Drink,JUICE,46.0,11.0,0.0,0.0,0.0,0.0,11.0,120.0,0.0,0.0,8,1,2,0,0,1,0,0,0,1,0,1,54.8,C
+Bombay Banta Kala Khatta Soft Drink,JUICE,48.0,12.2,0.0,0.0,0.0,0.0,11.9,133.2,0.0,0.0,9,1,2,0,0,1,0,0,0,1,0,1,54.8,C
+Thums Up X Force,JUICE,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3.3,0.0,0.0,11,0,3,0,0,0,0,0,1,1,0,1,77.3,A
+Bombay Banta Masala Soda Soft Drink,JUICE,42.0,10.6,0.0,0.0,0.0,0.0,11.0,110.0,0.0,0.0,8,1,3,0,0,1,0,0,1,1,0,1,55.1,B
+Paper Boat Swing Jeera Soft Drink,JUICE,46.0,11.5,0.0,0.0,0.0,0.0,11.5,285.0,0.0,0.0,12,1,3,0,0,1,0,0,1,1,0,1,49.7,C
+Aloha Strawberry and Lime Flavoured Soft Drink,JUICE,90.0,21.3,0.0,0.0,0.0,0.0,19.2,150.1,0.0,0.0,9,2,3,0,0,1,0,1,1,1,0,1,38.4,C
+Aloha Peach Flavoured Soft Drink,JUICE,84.0,21.3,0.0,0.0,0.0,0.0,18.8,144.8,0.0,0.0,10,2,3,0,0,1,0,1,1,1,0,1,40.2,C
+Aloha Pudina Masala Soft Drink,JUICE,84.0,20.6,0.0,0.0,0.0,0.0,19.1,160.3,0.0,0.0,11,2,3,0,0,1,0,1,1,1,0,1,40.2,C
+NEOPOP Mango Bliss Can,JUICE,40.7,10.2,0.0,0.0,0.0,0.0,9.5,0.0,0.0,0.0,7,1,3,0,0,1,0,0,1,1,0,1,58.8,B
+NEOPOP Lemon Squeeze Can,JUICE,38.6,9.6,0.0,0.0,0.0,0.0,9.4,0.0,0.0,0.0,5,1,2,0,0,1,0,0,0,1,0,1,60.3,B
+NEOPOP Orange Splash Can,JUICE,40.0,10.0,0.0,0.0,0.0,0.0,9.5,0.0,0.0,0.0,7,1,2,0,0,1,0,0,0,1,0,1,60.3,B
+Monster-S The Doctor Imported Energy Drink,JUICE,186.0,11.0,0.0,0.0,0.0,0.0,10.0,0.0,0.0,0.0,26,1,3,0,0,1,0,0,0,1,0,1,44.2,C
+Dr Pepper Sparkling Fruit Flavour Soft Drink,JUICE,85.0,4.9,0.0,0.0,0.0,0.0,4.9,0.0,0.0,0.0,8,1,3,0,0,1,0,0,0,1,0,1,58.8,B
+Bisleri Limonata Lemon and Mint Soft Drink,JUICE,47.0,11.7,0.0,0.0,0.0,0.0,11.5,2.9,0.0,0.0,7,1,2,0,0,1,0,0,0,1,0,1,56.6,B
+Limca Lemon Soft Drink,JUICE,44.0,11.1,0.0,0.0,0.0,0.0,10.7,5.5,0.0,0.0,10,1,3,0,0,1,0,0,1,1,0,1,55.1,B
+Dabur Hommade Lemon Concentrated Liquid,JUICE,31.0,2.5,0.0,0.0,0.0,0.0,2.5,27.0,0.0,0.0,4,0,2,0,0,0,0,0,0,1,0,1,73.4,B
+Sprite Lemon and Lime Soft Drink,JUICE,49.0,12.2,0.0,0.0,0.0,0.0,11.7,0.0,0.0,0.0,6,1,2,0,0,1,0,0,0,1,0,1,56.6,B
+7 Up Lemon Soft Drink,JUICE,47.0,11.7,0.0,0.0,0.0,0.0,11.7,18.0,0.0,0.0,7,1,2,0,0,1,0,0,0,1,0,1,56.6,B
+7UP Nimbooz Soft Drink,JUICE,42.0,10.6,0.0,0.0,0.0,0.0,10.6,65.0,0.0,0.0,10,1,2,0,0,1,0,0,0,1,0,1,58.5,B
+Mountain Dew Lemon Soft Drink,JUICE,49.0,12.3,0.0,0.0,0.0,0.0,12.3,8.0,0.0,0.0,9,1,2,0,0,1,0,0,0,1,0,1,54.8,C
+Pluckk Natural Tender Coconut Water With Real Malai Chunks,JUICE,46.0,11.52,0.0,0.0,0.0,0.0,10.76,9.98,0.0,0.0,2,0,0,0,0,0,0,0,0,0,0,1,63.6,B
+Paper Boat Tender Coconut Water,JUICE,22.0,5.5,0.0,0.0,0.0,0.0,5.5,8.5,0.0,0.0,3,1,1,0,0,1,0,0,0,1,0,1,69.0,B
+Mirinda Orange Flavoured Soft Drink,JUICE,28.0,6.9,0.0,0.0,0.0,0.0,6.8,7.0,0.0,0.0,10,1,2,0,0,1,0,0,0,1,0,1,65.7,B
+Sting Energy Drink,JUICE,28.0,7.0,0.0,0.0,0.0,0.0,6.8,41.0,0.0,0.0,16,1,3,0,0,1,0,0,1,1,0,1,64.2,B
+Red Bull Energy Drink,JUICE,45.0,11.0,0.0,0.0,0.0,0.0,11.0,41.0,0.0,0.0,16,1,2,0,0,1,0,0,1,0,0,1,56.6,B
+Gatorade Blue Bolt Zero Sugar Energy Drink,JUICE,1.0,0.0,0.0,0.0,0.0,0.0,0.0,45.0,0.0,0.0,9,1,1,0,0,1,0,0,0,0,0,1,76.3,A
+Gatorade Orange Zero Sugar Energy Drink,JUICE,24.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0,8,2,1,0,0,1,0,1,0,0,0,1,70.5,B
+Gatorade Lemon Zero Sugar Energy Drink,JUICE,24.0,0.0,0.0,0.0,0.0,0.0,0.0,48.0,0.0,0.0,7,1,1,0,0,1,0,0,0,0,0,1,74.5,B
+Smoodh Chocolate Milk Drink,JUICE,83.8,14.6,2.3,1.8,1.2,0.05,13.7,67.8,0.0,4.1,16,1,2,0,0,1,0,0,1,0,0,1,49.4,C
+Smoodh Chocolate and Hazelnut Milk Drink,JUICE,83.8,14.6,2.3,1.8,1.2,0.05,13.7,67.8,0.0,4.1,17,1,1,0,0,1,0,0,0,0,0,1,50.9,C
+Smoodh Toffee Caramel Milk,JUICE,88.6,15.9,2.2,1.8,1.2,0.05,15.0,74.2,0.0,4.1,18,1,1,0,0,1,0,0,0,0,0,1,47.2,C
+Hershey's Chocolate Milkshake,JUICE,166.2,29.27,3.94,3.71,0.0,0.0,21.4,0.0,0.0,0.0,16,1,1,0,0,1,0,0,0,0,0,1,43.6,C
+Hershey's Cookies and Cream Milkshake,JUICE,161.3,29.7,3.0,3.3,2.5,0.2,29.6,182.0,0.0,4.2,9,1,2,0,0,1,0,0,1,0,0,1,31.2,D
+Hershey's Strawberry Milkshake,JUICE,155.6,28.5,3.6,3.0,0.0,0.0,21.4,103.0,0.0,0.0,8,1,1,0,0,1,0,0,0,0,0,1,41.8,C
+Sunfeast Dark Fantasy Chocolate Milkshake With Belgian Chocolate,JUICE,110.0,17.5,3.1,3.1,1.9,0.0,16.9,105.0,0.0,7.5,10,2,2,1,1,1,0,0,1,0,1,1,41.1,C
+Creambell Choco Milkshake,JUICE,98.0,14.0,3.4,3.3,1.9,0.0,13.4,47.2,0.0,0.0,14,1,2,0,0,1,0,0,1,0,0,1,51.2,C
+Creambell Coffee Milkshake,JUICE,84.0,14.0,3.4,1.6,1.0,0.0,13.8,49.9,0.0,0.0,14,1,2,0,0,1,0,0,1,0,0,1,51.2,C
+Epigamia Turbo VANILLA CAKE and Caramel Protein Milkshake,JUICE,136.0,8.0,25.0,0.2,0.0,0.0,8.0,221.0,0.0,0.0,11,0,1,0,0,0,0,0,0,0,0,1,60.3,B
+Phab 18g Protein Mango Magic Milkshake,JUICE,125.9,8.0,18.0,0.0,0.0,0.0,0.5,102.6,4.0,7.7,17,1,2,0,0,0,0,1,1,0,0,1,74.8,B
+Heritage Chocolate and Caramel Milkshake,JUICE,101.5,14.1,3.4,3.5,2.1,0.15,8.5,88.0,0.0,10.0,7,1,1,0,0,1,0,0,0,0,0,1,54.5,C
+Heritage Pista Flavoured Milk,JUICE,83.9,14.3,3.3,1.5,1.0,0.0,14.3,40.0,0.0,6.0,10,1,1,0,0,1,0,0,0,0,0,1,52.7,C
+Heritage VANILLA CAKE Flavoured Milk,JUICE,84.0,14.3,3.3,1.5,0.0,0.0,9.5,0.0,0.0,0.0,4,1,2,0,0,1,0,0,1,0,0,1,58.5,B
+Nestle Milo Health Chocolate Drink with Millets,JUICE,80.0,11.4,2.9,2.5,1.9,0.0,8.1,49.0,0.0,6.6,13,1,1,1,0,1,0,0,0,0,1,1,61.1,B
+Amul Kool Kesar Milk Drink,JUICE,163.0,22.5,5.6,5.6,3.4,0.0,22.5,78.0,0.0,16.0,6,1,1,0,0,1,0,0,1,0,0,1,40.0,C
+Amul Gold Kool Premium Kesar Flavoured Milk,JUICE,164.0,22.5,5.6,5.7,3.5,0.0,22.5,78.0,0.0,16.0,6,1,1,0,0,1,0,0,1,0,0,1,40.0,C
+Amul Taaza Homogenised Toned Milk (Tetra Pack),JUICE,58.2,4.8,3.0,3.0,2.0,0.0,4.8,37.0,0.0,10.0,2,0,0,0,0,0,0,0,0,0,0,1,67.3,B
+Amul Gold Kool Royal Elaichi Flavoured Milk,JUICE,164.0,22.5,5.6,5.7,3.5,0.0,22.5,78.0,16.0,0.0,6,1,1,0,0,1,0,0,1,0,0,1,49.0,C
+Nescafe Ready To Drink Coffee Flavoured Milk Iced Latte Cold Coffee,JUICE,126.0,19.4,5.8,2.9,2.5,0.0,16.9,171.5,0.0,7.2,6,1,1,0,0,1,0,0,0,0,0,1,43.6,C
+BRU Classic Cold Coffee Tetra Pack,JUICE,138.0,22.2,7.0,2.5,1.75,0.08,21.8,232.0,0.2,11.0,9,1,1,0,0,1,0,0,0,0,0,1,43.6,C
+Nescafe Cafe Style Iced Frappe Cold Coffee,JUICE,54.0,9.7,1.4,1.1,1.1,0.0,6.2,51.8,0.0,2.9,12,1,1,0,0,1,0,0,0,0,0,1,61.8,B
+Nescafe Ready To Drink Coffee Flavoured Milk Intense Cafe Cappucino Cold Coffee,JUICE,126.0,19.4,5.8,2.9,2.5,0.0,16.9,165.4,0.0,7.2,6,1,2,0,0,1,0,0,1,0,0,1,42.1,C
+Cravova Hazelnut Cold Coffee,JUICE,83.2,11.5,3.0,2.8,1.8,0.1,11.4,0.0,0.0,8.0,4,1,0,0,0,1,0,0,0,0,0,1,56.0,B
+Cravova Mocha Cold Coffee,JUICE,83.2,11.5,3.0,2.8,1.8,0.1,11.4,0.0,0.0,8.0,7,1,1,0,0,1,0,0,0,0,0,1,54.5,C
+"Tata Cold Coffee Belgian Chocolate Iced Coffee, Rich & Creamy, Flavoured Milk",JUICE,31.0,7.0,0.2,4.8,3.6,0.0,18.8,203.0,0.0,11.9,8,1,3,0,0,1,0,0,1,1,0,1,42.4,C
+Dairy Day Bento Cake Choco Fantasy Ice Cream Cake - Box,CAKE,79.3,39.0,4.3,11.8,9.0,0.0,39.0,68.9,0.0,12.9,32,1,2,0,0,1,0,0,1,0,0,0,47.5,C
+Winkies Cake - Chocolate Cake Slice,CAKE,427.9,52.1,7.2,21.1,12.8,0.1,29.5,230.5,0.0,127.6,33,3,4,0,1,1,1,0,1,1,0,0,29.3,D
+The Baker's Dozen VANILLA CAKE Cake,CAKE,380.0,48.0,6.0,18.0,2.0,0.0,22.0,125.0,2.0,0.0,11,1,3,0,0,1,0,0,1,1,0,0,62.4,B
+The Baker'S Dozen Fresh Orange Cake,CAKE,358.0,55.0,5.0,13.0,2.0,0.0,32.0,135.0,2.0,0.0,18,1,3,0,0,1,0,0,0,1,0,0,57.0,B
+Britannia Gobbles Bar Cake - Fruity Fun,CAKE,450.0,59.0,5.7,17.3,9.0,0.0,30.1,252.6,0.0,81.7,26,3,4,0,1,1,1,0,1,1,0,0,29.3,D
+The Baker's Dozen Banana Bread 100% Wholewheat,CAKE,393.0,44.0,7.0,21.0,4.0,0.0,21.0,70.0,4.0,0.0,9,1,2,0,0,1,0,0,0,1,0,0,67.5,B
+The Baker's Dozen Wholewheat Banana Walnut Cake,CAKE,448.0,43.0,9.0,27.0,2.0,0.0,22.0,60.0,3.0,0.0,10,1,2,1,0,1,0,0,0,1,1,0,72.4,B
+Britannia Fudge It Chocolate Brownie (With Egg),CAKE,470.0,58.5,5.0,24.0,13.0,0.0,40.8,174.0,0.0,44.5,32,3,3,0,1,1,1,0,0,1,0,0,25.3,D
+Winkies Fruit Cake Slice,CAKE,425.7,53.9,6.2,20.5,12.1,0.1,34.6,186.9,0.0,107.2,31,3,4,0,1,1,1,0,1,1,0,0,25.6,D
+Britannia Gobbles Marble Red Velvet Cake,CAKE,376.36,49.45,0.0,15.64,8.0,0.0,18.18,213.64,0.0,0.0,25,3,4,0,1,1,1,0,1,1,0,0,31.1,D
+Winkies Swiss Roll Chocolate,CAKE,407.83,59.1,6.75,15.91,4.21,0.09,28.81,103.66,0.0,0.0,24,3,4,0,1,1,1,0,1,1,0,0,42.0,C
+Modern Pineapple Pop Cake,CAKE,407.0,53.0,5.0,19.5,8.5,0.0,27.65,91.5,0.0,0.0,26,2,4,0,0,1,1,0,1,1,0,0,36.9,C
+Cadbury Chocobakes ChocLayered Cakes,CAKE,466.0,64.2,3.8,21.9,14.1,0.0,40.3,203.0,0.0,4.0,28,3,4,0,1,1,1,0,1,1,0,0,22.0,D
+The Baker'S Dozen Zero Maida Donut Cake,CAKE,462.0,57.0,6.0,23.0,4.0,0.0,22.0,165.0,2.0,0.0,23,1,2,1,0,1,0,0,0,1,1,0,61.5,B
+Bauli Moonfils Croissants Choco Cream (Egg),CAKE,398.0,54.5,6.9,17.6,11.1,0.0,21.0,213.3,0.0,13.5,40,3,4,0,1,1,1,0,1,1,0,0,34.7,D
+UNIBIC Fruit N' Nut Cake,CAKE,450.0,49.3,6.4,24.6,11.1,0.0,26.4,426.1,3.0,58.0,32,1,4,0,0,1,0,0,1,1,0,0,40.9,C
+Modern Fruit N Nut Cake,CAKE,401.3,51.9,6.8,18.5,7.4,0.09,24.2,268.2,2.8,44.2,18,2,4,0,0,1,1,0,1,1,0,0,46.0,C
+UNIBIC Plum Cake,CAKE,393.3,58.2,5.5,16.3,8.9,0.2,39.9,143.9,4.1,36.2,66,2,4,0,0,1,1,0,1,1,0,0,40.5,C
+Winkies Fruit Cake Raisin & Tutti Fruitti,CAKE,423.22,53.09,7.58,20.06,10.84,0.11,25.32,265.31,0.0,78.29,21,3,4,0,1,1,1,0,1,1,0,0,31.1,D
+The Baker's Dozen Chocochip Cake No Palm Oil Loaded with Dark Chocolate Chips,CAKE,340.0,48.0,7.0,13.0,2.0,0.0,31.0,110.0,3.0,0.0,8,1,4,0,0,1,0,0,1,1,0,0,60.9,B
+Winkies Novo VANILLA CAKE Cake,CAKE,370.5,59.9,5.5,12.0,5.8,0.01,24.9,435.2,0.0,41.2,4,3,4,0,1,1,1,0,1,1,0,0,36.5,C
+The Baker's Dozen Zero Maida Chocolate Brownie,CAKE,442.0,51.0,7.0,23.0,4.0,0.0,20.0,130.0,0.0,0.0,12,1,2,0,0,1,0,0,0,1,0,0,56.6,B
+Winkies English Tea Cake,CAKE,433.03,46.17,7.39,24.31,0.0,0.0,26.5,0.0,0.0,0.0,9,2,3,0,0,1,1,0,0,1,0,0,58.4,B
+The Baker'S Dozen Choco Chip Muffins,CAKE,340.0,48.0,7.0,13.0,2.0,0.0,30.0,110.0,3.0,0.0,10,1,4,0,0,1,0,0,1,1,0,0,60.9,B
+Bauli Moonfils Croissants Strawberry,CAKE,394.0,55.9,6.9,16.7,10.7,0.0,18.4,194.3,0.0,0.0,15,3,4,0,1,1,1,0,1,1,0,0,34.7,D
+"Open Secret Heart Shaped Chocolate Almond Brownie, No Maida, Zero Palm Oil",CAKE,288.4,34.33,11.13,17.47,9.77,0.0,24.3,119.57,5.6,0.0,8,1,1,0,0,1,0,0,0,0,0,0,61.8,B
+Havmor Mud Cake Ice Cream Cake,CAKE,234.64,36.08,3.68,8.4,4.96,0.02,29.84,34.96,0.0,6.56,30,2,4,0,0,1,0,1,1,1,0,0,49.6,C
+The Belgian Waffle Co Cookie & Cream Waffle Crisps,WAFFLE,468.3,72.2,8.3,16.2,13.5,0.0,23.5,440.4,0.0,0.0,12,3,3,0,1,1,1,0,1,0,0,0,30.8,D
+Sunfeast Dark Fantasy Choco Rolls,WAFFLE,479.0,73.0,7.1,18.1,9.4,0.1,41.5,79.1,0.0,2.1,13,2,3,0,1,1,0,0,1,0,0,0,34.8,D
+Dukes Waffy Chocolate Wafers,WAFER,511.4,69.1,4.0,24.3,12.4,0.1,38.9,77.1,0.0,0.0,14,3,3,0,1,1,1,0,1,0,0,0,25.3,D
+The Belgian Waffle Co Classic Choco Crisps,WAFFLE,474.3,69.3,7.2,18.7,15.5,0.0,23.6,605.0,0.0,1.6,2,3,3,0,1,1,1,0,1,0,0,0,25.3,D
+Dr. Oetker Kuppies Chocolate Waffle,WAFFLE,505.0,49.9,7.9,30.7,6.4,0.0,23.9,236.0,0.0,20.6,15,1,5,0,0,1,0,0,1,1,0,0,43.0,C
+Nova Nova Waffle Chips- Classic Chocolate Drizzle,WAFFLE,326.94,56.57,4.9,10.0,7.27,0.0,29.8,114.69,1.8,14.29,11,3,3,0,1,1,1,0,1,0,0,0,41.7,C
+Dukes Waffy Strawberry Roll,WAFER,450.8,78.5,5.2,12.9,7.3,0.2,50.3,127.1,0.0,0.8,13,4,3,0,1,1,1,1,1,0,0,0,23.6,D
+Dr. Oetker Kuppies Strawberry Waffle,WAFFLE,469.0,42.4,6.1,30.6,5.7,0.0,24.6,169.2,0.0,82.3,22,1,5,0,0,1,0,0,1,1,0,0,46.7,C
+Nova Nova Best Bite Choco Filled Cones- Belgian Chocolate,WAFER,370.0,53.0,7.0,17.0,13.0,0.0,33.0,60.0,3.0,13.0,16,3,1,0,1,1,1,0,0,0,0,0,42.9,C
+Mille Jowar Puffs,SNACKS,439.2,61.3,6.7,18.7,3.7,0.0,3.1,1064.5,3.7,1.2,13,0,2,1,0,0,0,0,1,0,1,0,63.6,B
+Modern Kitchens Banana Chips Salted,SNACKS,567.0,57.7,3.24,36.0,17.8,0.0,7.2,343.0,7.6,0.0,5,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+Let's Try Potato Wafers,SNACKS,583.0,60.0,7.0,35.0,7.5,0.0,4.5,700.0,3.0,0.0,3,0,0,0,0,0,0,0,0,0,0,0,54.5,C
+Lay's American Cream & Onion Potato Chips,SNACKS,537.0,53.0,6.7,33.1,12.5,0.1,3.4,643.0,0.0,0.0,18,2,3,0,1,1,0,0,1,0,0,0,34.8,D
+Kurkure Yummy PuffCorn Yummy Cheese Chips,SNACKS,536.0,66.5,6.4,27.1,12.2,0.1,4.5,770.0,0.0,0.0,16,1,4,0,0,1,0,0,1,0,0,0,33.6,D
+Bingo! Original Style Chilli Sprinkled,SNACKS,531.0,50.5,7.1,33.4,14.2,0.1,1.5,824.6,0.0,0.0,3,2,4,0,1,1,0,0,1,0,0,0,29.6,D
+Lay's West Indies Hot 'n' Sweet Chilli Potato Chips,SNACKS,534.0,55.1,6.4,32.0,12.1,0.1,6.0,671.0,0.0,0.0,19,2,3,0,1,1,0,0,1,0,0,0,33.0,D
+Lay's India's Magic Masala Potato Chips,SNACKS,539.0,53.4,6.9,33.1,12.5,0.1,2.5,826.0,0.0,0.0,15,2,2,0,1,1,0,0,1,0,0,0,32.6,D
+Beyond Snack Kerala Banana chips - Peri Peri,SNACKS,518.65,60.97,6.84,27.49,12.71,0.14,6.15,139.66,6.88,0.0,3,1,0,0,1,0,0,0,0,0,0,0,61.5,B
+Crax Double Mazza Roasted Chana Peanuts Namkeen Snacks,SNACKS,567.0,32.0,22.0,39.0,7.7,0.19,4.0,1034.0,0.0,0.0,20,1,4,0,1,0,0,0,1,0,0,0,37.3,C
+Kurkure Red Chilli Chataka Chips,SNACKS,558.0,56.2,5.6,34.5,15.5,0.1,2.0,680.0,0.0,0.0,15,2,3,0,1,1,0,0,1,0,0,0,33.0,D
+Bingo! Popped Chips Sour Cream & Herbs,SNACKS,491.0,67.4,6.9,22.0,5.2,0.1,6.1,740.2,0.0,0.1,21,1,3,0,0,1,0,0,1,0,0,0,44.2,C
+"Cheetos Masala PUFFS, Crispy Chips & Snacks",SNACKS,504.0,65.7,8.2,23.1,10.4,0.1,1.6,862.0,0.0,0.0,14,2,1,0,1,1,0,0,0,0,0,0,36.0,C
+Too Yumm! Sour Cream & Onion Veggie Stix,SNACKS,478.0,66.0,5.8,21.4,5.1,0.13,5.4,750.0,2.8,0.0,28,2,3,0,0,1,1,0,0,0,0,0,45.7,C
+Lay's Classic Salted Potato Chips,SNACKS,553.0,52.6,6.7,35.1,13.2,0.1,0.6,510.0,0.0,0.0,5,1,0,0,1,0,0,0,0,0,0,0,46.9,C
+Lay's Spanish Tomato Tango Potato Chips,SNACKS,530.0,53.8,6.4,32.2,12.2,0.1,5.6,636.0,0.0,0.0,18,2,2,0,1,1,0,0,0,0,0,0,34.5,D
+Let's Try Pepper Murukku Sticks,SNACKS,578.0,60.08,10.2,37.2,21.31,0.1,0.11,660.0,0.0,1.0,6,0,0,0,0,0,0,0,0,0,0,0,47.3,C
+Lay's Potato Chips - Sizzling Hot Spicy Flavour,SNACKS,538.0,53.0,6.6,33.0,12.5,0.1,2.3,555.0,0.0,0.0,13,2,2,0,1,1,0,0,0,0,0,0,38.1,C
+Uncle Chips Spicy Treat,SNACKS,554.0,52.7,7.0,35.0,16.3,0.1,1.3,1080.0,0.0,0.0,16,2,0,0,1,1,0,0,0,0,0,0,33.8,D
+Too Yumm! Bhoot Karare Spicy Chilli Flavour Crisps,SNACKS,480.0,68.0,5.4,20.5,4.7,0.2,3.7,990.0,0.0,0.0,12,1,3,0,0,1,0,0,1,0,0,0,42.4,C
+Yellow Diamond Plain Salted Chips,SNACKS,543.78,54.53,8.02,32.62,12.8,0.0,1.12,546.17,0.0,0.0,11,2,3,0,1,1,0,0,1,0,0,0,38.4,C
+Lay's American Cream & Onion Potato Chips,SNACKS,537.0,53.0,6.7,33.1,14.8,0.1,3.4,643.0,0.0,0.0,18,2,2,0,1,1,0,0,0,0,0,0,36.3,C
+Crax Fritts Sour Cream and Onion Corn & Potato Stick Snacks,SNACKS,491.0,66.5,5.5,22.5,10.3,0.1,4.6,1238.0,0.0,0.0,18,2,3,0,1,1,0,0,1,0,0,0,25.7,D
+Lay's WAFERChips Red Chilli,SNACKS,543.0,53.6,6.9,33.4,14.9,0.1,1.6,475.0,0.0,0.0,18,2,3,0,1,1,0,0,0,0,0,0,38.4,C
+Let's Try Peanut Party Mix,SNACKS,325.0,40.5,20.36,31.29,5.53,0.2,0.0,916.1,0.0,2.0,17,0,1,0,0,0,0,0,0,0,0,0,53.0,C
+Bingo! Popped Chips Indian Spice Mix,SNACKS,486.0,66.9,6.9,22.1,5.1,0.1,1.7,955.2,0.0,0.0,8,2,1,0,1,1,0,0,0,0,0,0,41.4,C
+Haldiram's Halke Fulke - Salted Potato Chips,SNACKS,518.27,61.0,6.8,77.5,12.7,0.1,6.2,139.7,6.9,0.0,18,2,2,0,1,1,0,0,0,0,0,0,54.5,C
+Bingo! Mad Angles Achaari Masti Crisps,SNACKS,526.0,61.2,5.6,29.5,6.9,0.1,6.0,758.8,0.0,0.0,13,1,3,0,0,1,0,0,1,0,0,0,40.6,C
+Bingo! Mad Angles Masala Madness Crisps,SNACKS,521.0,61.0,6.3,28.9,13.9,0.1,3.9,731.3,0.0,0.1,19,1,3,0,0,1,0,0,1,0,0,0,35.1,C
+Sweet Karam Coffee Andhra Spicy Murukku Namkeen Snacks,SNACKS,521.0,58.9,7.1,28.7,10.0,0.0,0.0,467.8,3.0,0.0,9,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+Let's Try Garlic Bhujia,SNACKS,564.0,50.0,10.0,36.0,6.0,0.0,2.0,560.0,0.0,0.0,6,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+Lets Try Lite Mixture,SNACKS,468.0,65.2,10.0,18.7,3.7,0.0,0.0,0.0,0.0,0.0,21,0,1,0,0,0,0,0,0,0,0,0,74.9,B
+Orion K Snack Rings Kimchi Flavour,SNACKS,507.6,56.0,7.99,28.3,13.8,0.0,8.5,1014.45,0.0,0.0,13,2,2,0,1,1,0,0,1,0,0,0,29.0,D
+Jabsons Roasted Peanuts Classic Salted,SNACKS,630.0,21.0,20.0,52.0,9.0,0.0,4.0,630.0,0.0,0.0,4,0,0,0,0,0,0,0,0,0,0,0,49.1,C
+Orion K Snack Rings 3x Spicy,SNACKS,511.24,59.0,6.71,27.6,13.2,0.0,8.46,1009.93,0.0,0.0,5,2,4,0,1,1,0,0,1,0,0,0,26.0,D
+BRB Potato Popped Chips - Pasta Cheese Flavour,SNACKS,444.0,69.6,6.8,14.0,3.2,0.0,7.2,779.6,0.0,0.0,4,0,0,0,0,0,0,0,0,0,0,0,58.2,B
+BRB Potato Popped Chips - Spicy Chipotle Flavour,SNACKS,433.2,71.2,8.8,12.8,2.8,0.0,5.2,870.8,0.0,0.0,12,1,2,0,0,1,0,0,0,0,0,0,53.0,C
+Brb Rice Popped Chips Peri Peri Flavour,SNACKS,438.8,68.4,10.0,14.0,3.2,0.0,2.4,1157.6,0.0,0.0,6,0,0,0,0,0,0,0,0,0,0,0,58.2,B
+BRB Potato Popped Chips - Bhel Flavour,SNACKS,436.0,71.6,8.4,13.2,2.8,0.0,2.4,986.8,0.0,0.0,16,1,2,0,0,1,0,0,0,0,0,0,53.0,C
+The Theatre Project TTP Kettle Cooked - Hot & Sweet Chilli,SNACKS,530.0,61.2,7.58,28.3,5.58,0.0,4.5,390.0,0.0,0.0,20,1,3,0,0,1,0,0,1,0,0,0,51.5,C
+Let's Try Bhujia,SNACKS,580.0,41.0,14.0,40.0,6.8,0.0,4.0,800.0,0.0,0.0,5,0,0,0,0,0,0,0,0,0,0,0,52.7,C
+Wellbe Crunchy Kodbale,SNACKS,557.0,52.6,7.3,35.2,10.4,0.1,0.3,675.7,3.8,0.0,11,0,0,0,0,0,0,0,0,0,0,0,54.5,C
+UNIBIC Kerala Banana Chips Classic Salted,SNACKS,468.0,64.5,3.4,23.0,5.8,0.0,1.5,477.6,5.0,0.0,5,0,1,0,0,0,0,0,0,0,0,0,65.8,B
+The Baker's Dozen Zero Maida Ragi Crackers Baked Millet Snack,SNACKS,292.74,54.84,10.29,3.58,0.74,0.0,3.4,190.22,8.1,0.0,11,0,1,1,0,0,0,0,0,0,1,0,92.4,A
+Too Yumm! Dahi Papdi Chaat Multigrain Healthy Chips High Protein Crunchy Crisps,SNACKS,464.0,67.0,7.9,18.3,4.5,0.14,8.5,880.0,0.0,0.0,21,1,3,1,0,1,0,0,1,0,1,0,49.0,C
+Lay's India's Magic Masala Potato Chips,SNACKS,539.0,53.4,6.9,33.1,14.8,0.1,2.5,862.0,0.0,0.0,15,2,2,0,1,1,0,0,1,0,0,0,32.6,D
+Bingo! Potato Chips - Cream & Onion Chips - Crispy & Crunchy Chips Pack for Snacks,SNACKS,543.0,54.5,8.4,32.3,14.1,0.1,4.8,0.0,0.0,0.0,10,1,2,0,1,0,0,0,0,0,0,0,53.0,C
+Uncle Chips Plain Salted,SNACKS,566.0,50.2,7.0,37.5,17.5,0.1,1.4,661.0,0.0,0.0,4,1,0,0,1,0,0,0,0,0,0,0,41.5,C
+Too Yumm! Bhoot Potato Chips Spicy Chilli Flavour Chips,SNACKS,536.0,55.0,6.9,33.2,8.1,0.0,2.4,1040.0,0.0,0.0,14,1,3,0,0,1,0,0,1,0,0,0,37.0,C
+Dev Snacks Banana Chips,SNACKS,546.58,62.92,1.7,32.0,0.0,0.0,0.0,65.24,2.8,0.0,3,0,0,0,0,0,0,0,0,0,0,0,78.2,A
+Let's Try Sabudana Mixture,SNACKS,520.91,64.04,5.99,32.58,5.12,0.0,12.8,234.6,2.21,0.0,10,1,0,0,0,1,0,0,0,0,0,0,59.6,B
+Balaji Simply Salted Chips,SNACKS,554.0,53.4,7.7,32.9,15.7,0.0,0.8,385.0,7.2,0.0,3,1,0,0,1,0,0,0,0,0,0,0,57.8,B
+Ritebite Max Protein Desi Masala 10G Multigrain Protein Chips,SNACKS,476.67,49.83,16.67,22.67,4.5,0.0,3.0,0.83,6.67,0.0,27,1,1,1,0,1,0,0,0,0,1,0,81.1,A
+Sweet Karam Coffee Andhra Spicy Murukku Namkeen Snacks,SNACKS,521.0,58.9,7.1,28.7,10.0,0.0,0.0,467.8,3.0,0.0,9,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+Kurkure Schezwan Chutney,SNACKS,557.0,57.8,5.5,33.7,15.2,0.1,4.1,684.0,0.0,0.0,19,2,3,0,1,1,0,0,1,0,0,0,33.0,D
+Pringles Potato Chips Original Flavour,SNACKS,523.0,62.8,5.0,27.9,14.0,0.3,0.4,469.0,0.0,0.0,6,2,0,0,1,1,0,0,0,0,0,0,39.3,C
+"Slurrp Farm Healthy Snacks for Kids, Mighty Puff Cheese & Herbs, Not Fried, No Maida",SNACKS,420.0,63.6,6.4,16.2,3.1,0.0,3.2,564.6,3.3,0.0,7,0,0,1,0,0,0,0,0,0,1,0,72.1,B
+Crax Aloo Bhujia Namkeen Snacks,SNACKS,593.0,39.7,9.5,44.0,19.5,0.1,1.7,1170.0,0.0,0.0,22,2,2,0,1,1,0,0,1,0,0,0,30.8,D
+"Ritebite Max Protein Cheese & Jalapeno 10G Multigrain Protein Chips, Healthy Snacks & Munchies",SNACKS,481.67,49.0,16.67,23.5,4.67,0.0,3.17,833.33,6.67,0.0,29,1,1,1,0,1,0,0,0,0,1,0,63.0,B
+Modern Kitchens Potato Chips Salted,SNACKS,567.0,50.24,7.6,37.56,18.08,0.0,5.2,764.0,3.6,0.0,3,0,0,0,0,0,0,0,0,0,0,0,49.1,C
+Mr Makhana Super Snack - Pudina Party,SNACKS,514.6,58.28,0.0,27.86,6.9,0.0,0.5,190.0,2.45,0.0,24,1,2,0,0,1,0,0,0,0,0,0,53.0,C
+Farmley Achaari Makhana Roasted In Olive Oil,SNACKS,467.0,65.2,7.8,18.2,10.1,0.0,3.5,295.2,0.0,0.0,14,1,2,0,0,1,0,0,0,0,0,0,49.4,C
+Farmley Cheesy Cheddar Makhana Roasted In Olive Oil,SNACKS,490.0,65.0,7.8,20.5,10.7,0.0,1.5,254.0,11.2,0.0,11,1,2,0,0,1,0,0,0,0,0,0,58.5,B
+Farmley Cream And Onion Makhana Roasted In Olive Oil,SNACKS,470.0,62.0,7.8,21.0,9.5,0.0,5.2,275.0,11.9,0.0,12,1,2,0,0,1,0,0,0,0,0,0,58.5,B
+Farmley Himalayan Salted Makhana Roasted In Olive Oil,SNACKS,510.0,68.0,7.8,22.0,9.5,0.0,0.5,315.0,11.2,0.0,10,1,0,0,0,1,0,0,0,0,0,0,61.5,B
+MOM Black Salt Roasted Makhana,SNACKS,440.0,77.0,7.0,11.0,1.0,0.0,0.0,940.0,4.0,0.0,19,1,2,0,0,1,0,0,0,0,0,0,60.3,B
+Let's Try Sour Cream And Onion Makhana Puffs,SNACKS,257.0,38.0,5.0,8.0,2.0,0.0,2.0,370.0,5.0,0.0,19,1,3,0,0,1,0,0,1,0,0,0,71.5,B
+MR. MAKHANA Fox Nuts Black Salt,SNACKS,357.6,39.9,7.1,18.4,3.0,0.0,0.5,196.1,3.7,0.0,6,1,1,0,0,1,0,0,0,0,0,0,74.5,B
+Too Yumm! Karare Chilli Achari Flavour,SNACKS,486.0,67.0,7.0,21.1,4.9,0.1,6.9,960.0,0.0,0.0,14,1,2,0,0,1,0,0,0,0,0,0,43.9,C
+Too Yumm! Noodles Masala | Spicy No Palm Oil Crisps,SNACKS,485.0,69.0,5.9,20.7,5.0,0.15,3.4,720.0,0.0,0.0,3,1,2,0,0,1,0,0,0,0,0,0,45.7,C
+Too Yumm! Kashmiri Chilli Spicy Potato Chips| No Palm Oil Snacks,SNACKS,552.0,55.0,8.0,33.5,7.6,0.2,1.0,790.0,3.5,0.0,19,1,4,0,0,1,0,0,1,0,0,0,46.4,C
+Too Yumm! Aloo Chaat Potato Stix | Munching Snack | On-the-Go Munchies,SNACKS,488.0,65.0,6.2,22.4,5.3,0.15,4.5,970.0,0.0,0.0,17,1,3,0,0,1,0,0,1,0,0,0,38.8,C
+Too Yumm! Aloo Bhujia | No Palm Oil | 35% Less Saturated Fat,SNACKS,584.0,40.0,9.9,44.0,10.3,1.3,2.0,930.0,0.0,0.0,19,1,3,0,0,1,0,0,1,0,0,0,24.2,D
+Too Yumm - Rings Tomato Twist,SNACKS,404.0,68.0,6.0,21.1,5.1,0.1,8.5,880.0,0.0,0.0,20,2,3,0,1,1,0,0,1,0,0,0,38.4,C
+Too Yumm! Moong Dal | No Palm Oil | 35% Less Saturated Fat,SNACKS,469.0,56.0,21.7,17.8,4.5,0.1,2.0,400.0,12.0,0.0,3,0,0,0,0,0,0,0,0,0,0,0,76.4,A
+Too Yumm! Salted Peanuts | No Palm Oil | Protein Goodness,SNACKS,637.0,18.0,27.1,50.1,7.6,0.2,2.3,360.0,7.2,0.0,3,0,0,0,0,0,0,0,0,0,0,0,65.5,B
+Haldiram's Mixture,SNACKS,533.0,46.44,16.03,31.49,13.22,0.0,0.0,834.82,11.83,0.0,25,1,2,0,1,0,0,0,0,0,0,0,47.5,C
+Haldirams Soya Sticks,SNACKS,554.0,45.0,7.46,38.21,18.56,0.0,4.1,629.0,0.88,0.0,23,3,1,0,1,1,1,0,0,0,0,0,35.6,C
+Haldiram's Panchratan Mixture,SNACKS,526.0,52.61,6.61,32.13,13.45,0.0,10.3,480.0,4.6,0.0,14,2,1,0,1,1,0,0,0,0,0,0,46.9,C
+Haldiram's Khatta Meetha,SNACKS,528.9,57.8,11.2,28.1,8.6,0.1,10.8,427.1,0.0,0.0,27,3,2,0,1,1,0,1,1,0,0,0,39.5,C
+Haldiram's Moong Dal,SNACKS,476.0,50.66,21.31,20.93,5.64,0.0,0.0,390.0,7.52,0.0,1,0,0,0,0,0,0,0,0,0,0,0,74.5,B
+Haldiram's Cornflakes Mixture,SNACKS,525.0,56.0,10.0,29.0,0.0,0.0,16.0,690.0,0.0,0.0,25,1,1,0,0,1,0,0,0,0,0,0,56.3,B
+Haldirams Nagpur Murrukku,SNACKS,526.0,52.69,7.83,31.51,10.13,0.0,0.0,525.0,2.46,0.0,3,1,0,0,1,0,0,0,0,0,0,0,50.5,C
+Haldiram Farali Chiwda,SNACKS,595.56,38.0,14.22,42.0,8.67,0.0,10.0,220.0,4.44,0.0,14,2,0,0,1,1,0,0,0,0,0,0,55.6,B
+Haldiram's Masala Tasty Nuts,SNACKS,586.0,32.25,19.3,42.2,10.2,0.0,0.0,76.0,0.42,0.0,18,1,1,0,1,0,0,0,0,0,0,0,54.5,C
+Bingo! Tedhe Medhe,SNACKS,546.0,57.3,5.5,32.8,15.5,0.1,1.7,738.4,0.0,0.0,16,2,3,0,1,1,0,0,1,0,0,0,31.1,D
+Haldiram's Dal Biji,SNACKS,540.0,45.41,15.64,32.88,13.65,0.0,0.0,388.0,6.17,0.0,18,1,0,0,1,0,0,0,0,0,0,0,59.6,B
+Granamma Kodubale/ Ring Murukku,SNACKS,512.0,60.1,7.0,28.2,3.8,0.0,0.0,704.7,4.9,0.0,12,1,1,0,1,0,0,0,0,0,0,0,63.6,B
+Granamma Madras Mixture,SNACKS,549.0,47.1,13.0,35.7,6.9,0.0,1.5,401.0,6.2,0.0,2,2,1,0,1,1,0,0,0,0,0,0,61.4,B
+Granamma Ribbon Pakoda,SNACKS,541.0,48.7,8.1,35.5,4.8,0.0,0.0,857.0,4.1,0.0,9,0,0,0,0,0,0,0,0,0,0,0,63.6,B
+Granamma Butter Murukku,SNACKS,545.0,54.9,7.1,34.0,4.6,0.0,0.0,545.0,4.9,0.0,8,0,0,0,0,0,0,0,0,0,0,0,69.1,B
+Granamma Kara Boondi,SNACKS,567.0,46.3,10.9,38.9,5.3,0.0,0.4,429.5,0.4,0.0,13,2,0,0,1,1,0,0,0,0,0,0,53.8,C
+Dev Kadalamavu Mixture,SNACKS,597.41,30.12,20.3,40.2,0.0,0.0,0.0,62.16,3.6,0.0,7,0,0,0,0,0,0,0,0,0,0,0,85.5,A
+Dev Snacks Ghee Murukku,SNACKS,513.5,67.71,2.2,26.1,0.0,0.0,0.0,53.3,0.0,0.0,5,0,0,0,0,0,0,0,0,0,0,0,72.7,B
+Bingo! Flat Cut Himalayan Pink Salt,SNACKS,552.0,54.2,8.3,34.3,15.1,0.11,0.8,632.5,0.0,0.0,4,1,0,0,1,0,0,0,0,0,0,0,45.1,C
+Lay's Potato Chips WAFERstyle - Salt with Pepper Flavour,SNACKS,539.0,53.2,6.5,33.3,15.0,0.1,0.6,681.0,0.0,0.0,11,2,3,0,1,1,0,0,1,0,0,0,34.8,D
+Nestle Munch Max Choco Coated Crunchy WAFERBar,CHOCOLATE,428.0,50.0,5.7,22.8,22.4,0.06,32.2,86.3,0.0,0.0,12,2,3,0,0,1,1,0,1,0,0,0,34.8,D
+Cadbury Dairy Milk Chocolate Bar,CHOCOLATE,531.0,60.4,7.9,29.0,19.6,0.1,57.0,129.0,0.0,20.7,9,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Ferrero Rocher,CHOCOLATE,595.0,44.4,8.2,42.7,0.0,0.0,39.9,0.0,0.0,0.0,17,2,3,0,1,1,0,0,1,0,0,0,51.1,C
+Cadbury 5 Star CHOCOLATE BAR,CHOCOLATE,444.0,72.9,3.3,15.9,10.1,0.1,55.5,170.0,0.0,4.9,16,2,3,0,0,1,1,0,1,1,0,0,25.7,D
+Amul Chocominis Chocolate,CHOCOLATE,545.0,60.7,5.5,31.2,27.1,0.0,51.1,0.0,0.0,0.0,6,3,2,0,1,1,1,0,1,0,0,0,25.0,D
+Galaxy Cookie Crumble CHOCOLATE BAR,CHOCOLATE,543.0,61.3,6.6,30.6,19.2,0.3,50.6,85.6,0.0,19.0,16,2,3,0,1,1,0,0,1,0,0,0,27.5,D
+Galaxy Smooth Milk CHOCOLATE BAR,CHOCOLATE,553.0,60.2,6.4,32.2,20.3,0.1,48.3,43.01,0.0,6.62,7,1,1,0,0,1,0,0,0,0,0,0,36.3,C
+Cadbury Dairy Milk Fruit & Nut CHOCOLATE BAR,CHOCOLATE,520.0,58.8,8.5,28.4,16.4,0.0,54.4,106.0,0.0,16.8,9,1,2,0,0,1,0,0,1,0,0,0,34.8,D
+Hershey's Kisses Milk Chocolate,CHOCOLATE,525.0,60.5,9.08,27.5,16.3,0.37,45.8,0.0,0.0,0.0,5,1,1,0,0,1,0,0,0,0,0,0,36.3,C
+Confetteria Raffaello Coconut and White Almond,CHOCOLATE,627.0,38.6,7.4,48.3,29.5,0.2,33.6,105.0,0.0,6.0,13,2,3,0,1,1,0,0,1,0,0,0,29.3,D
+Cadbury Dairy Milk Crispello CHOCOLATE BAR,CHOCOLATE,523.0,64.5,5.2,27.6,17.7,0.2,50.2,192.0,0.0,12.7,23,2,3,0,1,1,0,0,1,0,0,0,22.0,D
+Twix Minis Cookie Caramel Chocolate Pack,CHOCOLATE,493.0,66.8,4.6,23.7,13.9,0.13,48.0,158.0,0.0,4.2,11,1,2,0,0,1,0,0,0,0,0,0,29.4,D
+"Sunfeast Fantastik Fruit n Nut, Chocolaty Bar",CHOCOLATE,546.0,60.6,8.2,30.5,25.1,0.05,41.0,130.1,0.0,0.0,9,2,2,0,0,1,1,0,1,0,0,0,32.6,D
+Cadbury Dairy Milk Silk Oreo CHOCOLATE BAR,CHOCOLATE,563.0,56.9,6.0,34.8,22.3,0.2,48.9,207.0,0.0,17.4,23,2,3,0,1,1,0,0,1,0,0,0,20.2,D
+Eat Anytime Coffee Cinnamon Date Laddoo,CHOCOLATE,474.8,49.9,14.3,24.2,5.7,0.0,30.5,87.2,8.9,0.0,7,0,0,1,0,0,0,0,0,0,1,0,73.9,B
+Cadbury Nutties Chocolate,CHOCOLATE,511.0,67.2,5.0,24.8,13.9,0.1,61.5,117.0,0.0,18.0,20,1,2,0,0,1,0,0,1,0,0,0,31.2,D
+Nestle Milkybar Tablet Made With Milk Yummy & Creamy Treat,CHOCOLATE,524.0,50.1,11.1,30.0,28.7,0.09,40.9,117.1,0.0,0.0,6,2,2,0,0,1,1,0,1,0,0,0,32.6,D
+Snickers Peanut Filled CHOCOLATE BAR Loaded with Delicious Roasted Peanuts,CHOCOLATE,491.0,57.43,8.83,25.1,10.1,0.1,51.84,222.0,0.0,5.1,13,3,1,0,1,1,1,0,0,0,0,0,26.5,D
+Cadbury Dairy Milk Silk Desserts Brownie CHOCOLATE BAR,CHOCOLATE,557.0,50.9,8.1,36.3,17.8,0.1,40.6,141.0,0.0,23.2,24,3,2,0,1,1,1,0,0,0,0,0,28.6,D
+Hershey's Creamy Milk CHOCOLATE BAR,CHOCOLATE,553.0,52.4,8.8,32.1,19.0,0.3,51.8,107.13,0.0,18.7,7,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Hershey's Cookies 'N' Creme CHOCOLATE BAR,CHOCOLATE,522.0,65.0,5.5,26.7,16.0,0.24,48.0,136.0,0.0,4.0,14,2,3,0,1,1,0,0,1,0,0,0,23.9,D
+Cadbury Dairy Milk Bites Hazelnut Chocolate Pack,CHOCOLATE,566.0,48.1,9.2,37.8,17.0,0.1,42.1,119.0,0.0,16.3,14,1,2,0,0,1,0,0,1,0,0,0,34.8,D
+Hershey's Dark CHOCOLATE BAR,CHOCOLATE,535.0,62.0,5.0,29.7,18.0,0.2,52.3,14.5,0.0,8.8,6,1,1,0,0,1,0,0,0,0,0,0,32.7,D
+"Galaxy Fusions Silky Smooth Dark CHOCOLATE BAR, Made with 70% Cocoa",CHOCOLATE,568.0,30.8,7.5,43.1,25.8,0.0,27.0,6.4,0.0,0.0,6,1,1,0,0,1,0,0,0,0,0,0,41.8,C
+Cadbury Dairy Milk Silk Bubbly CHOCOLATE BAR,CHOCOLATE,543.0,58.5,7.6,31.4,21.5,0.1,55.3,125.0,0.0,27.0,9,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Cadbury Dairy Milk Silk CHOCOLATE BAR,CHOCOLATE,543.0,58.5,7.6,31.4,21.5,0.1,55.3,125.0,0.0,26.7,7,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Nestle KitKat Delights Rich,CHOCOLATE,441.0,49.6,6.2,24.2,22.8,0.03,41.5,82.4,0.0,1.1,19,2,3,0,0,1,1,0,1,0,0,0,31.1,D
+Cadbury Dairy Milk Silk Mousse CHOCOLATE BAR,CHOCOLATE,553.0,52.4,8.7,35.1,22.5,0.2,46.1,140.0,0.0,18.0,11,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Kinder Creamy Milky And Cocoa With Extruded Rice,CHOCOLATE,539.0,55.4,8.4,31.3,14.2,0.0,48.8,134.0,0.0,0.7,11,2,2,0,1,1,0,0,1,0,0,0,30.8,D
+Hershey's Kisses Cookies 'N' Cream Chocolate,CHOCOLATE,530.0,58.0,9.3,32.9,0.0,0.0,31.2,0.0,0.0,0.0,11,2,1,0,1,1,0,0,0,0,0,0,59.6,B
+Hershey's Exotic Raspberry & Goji Dark Chocolate,CHOCOLATE,451.0,80.4,1.97,13.5,8.0,0.05,57.6,0.0,0.0,0.0,3,1,1,0,0,1,0,0,0,0,0,0,36.3,C
+Cadbury Temptations Almond Treat Premium CHOCOLATE BAR,CHOCOLATE,555.0,53.4,9.0,35.0,18.5,0.1,45.2,81.5,0.0,12.4,10,1,2,0,0,1,0,0,1,0,0,0,36.6,C
+Amul Dark CHOCOLATE BAR,CHOCOLATE,521.0,51.4,6.4,33.1,18.6,0.0,43.0,38.0,0.0,0.0,4,1,2,0,0,1,0,0,1,0,0,0,36.6,C
+Hershey's Exotic Dark Chocolate Californian Almonds - With Blackberry Crunchy Dark Chocolate,CHOCOLATE,564.0,50.8,8.5,36.3,12.5,0.07,36.5,0.0,0.0,0.0,10,1,1,0,0,1,0,0,0,0,0,0,40.0,C
+Cadbury Temptations Rum & Raisins Premium CHOCOLATE BAR,CHOCOLATE,498.0,62.2,5.7,26.0,17.5,0.0,57.0,82.3,0.0,11.7,11,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Nestle KitKat Delights Caramel,CHOCOLATE,441.0,49.9,6.0,24.1,22.7,0.03,42.9,82.7,0.0,1.1,20,2,3,0,0,1,1,0,1,0,0,0,31.1,D
+Bounty Miniatures Coconut Filled Chocolate Pack,CHOCOLATE,490.0,59.4,3.9,25.8,20.5,0.11,50.0,100.0,0.0,5.1,12,2,1,0,1,1,0,0,0,0,0,0,26.9,D
+Cadbury Dairy Milk Silk Hazelnut CHOCOLATE BAR,CHOCOLATE,566.0,51.4,8.7,36.8,19.2,0.1,46.6,104.0,0.0,23.1,10,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+"Snickers Filled with Brownie, Peanuts & Caramel CHOCOLATE BAR",CHOCOLATE,494.9,59.3,7.3,26.1,12.7,0.3,50.3,293.1,0.0,16.1,24,2,2,0,1,1,0,0,1,0,0,0,23.5,D
+Cadbury Dairy Milk Lickables Chocolate with Oreo Chunks,CHOCOLATE,490.0,59.2,7.0,25.9,15.0,0.2,48.8,222.0,7.1,0.0,31,3,3,0,1,1,1,0,1,0,0,0,29.0,D
+Hershey's Kisses Choco Truffle,CHOCOLATE,546.0,59.0,6.6,32.0,18.0,0.03,53.0,71.5,0.0,13.0,14,1,2,0,0,1,0,0,1,0,0,0,34.8,D
+Amul Fruit 'N' Nut Chocolate,CHOCOLATE,556.0,55.0,7.1,34.2,17.5,0.0,37.0,0.0,0.0,0.0,7,1,2,0,0,1,0,0,1,0,0,0,38.5,C
+Cadbury Dairy Milk Silk Desserts Plum Cake CHOCOLATE BAR,CHOCOLATE,533.0,55.6,6.9,32.6,17.4,0.1,43.9,145.0,0.0,18.5,20,3,3,0,1,1,1,0,1,0,0,0,25.3,D
+Mars Caramel CHOCOLATE BAR,CHOCOLATE,450.0,70.0,4.0,16.8,8.4,0.1,16.6,169.0,0.0,11.2,14,2,2,0,0,1,1,0,1,0,0,0,43.5,C
+"Fabelle Hazelnut Handcrafted Chocolate Truffles Inspired by Classic Desserts, Assorted Luxury Chocolates Gift Pack",CHOCOLATE,585.0,48.4,7.7,40.5,21.0,0.1,38.0,113.7,0.0,0.01,10,3,2,0,1,1,1,0,1,0,0,0,26.8,D
+Cadbury Bournville Rich Cocoa 70% Dark CHOCOLATE BAR,CHOCOLATE,598.0,40.7,7.6,47.4,32.1,0.1,20.4,18.0,0.0,4.4,6,1,2,0,0,1,0,0,1,0,0,0,43.9,C
+Cadbury Bournville Cranberry 50% Dark CHOCOLATE BAR,CHOCOLATE,526.0,68.0,6.1,31.6,19.0,0.1,45.7,13.6,0.0,4.4,10,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Cadbury Bournville Fruit & Nut 50% Dark CHOCOLATE BAR,CHOCOLATE,533.0,56.8,6.4,32.8,19.9,0.1,44.2,16.0,0.0,4.6,9,1,2,0,0,1,0,0,1,0,0,0,36.6,C
+Amul India Twilight Tryst 55% Dark CHOCOLATE BAR,CHOCOLATE,557.0,57.3,6.0,33.7,20.2,0.0,43.0,0.0,0.0,0.0,5,1,2,0,0,1,0,0,1,0,0,0,34.8,D
+Snickers Almond Filled CHOCOLATE BAR,CHOCOLATE,475.0,58.8,7.0,24.0,9.2,0.3,53.0,217.0,0.0,5.5,20,3,1,0,1,1,1,0,0,0,0,0,26.5,D
+Cadbury Gems Surprise Ball Chocolate,CHOCOLATE,469.0,75.9,3.5,17.5,17.1,0.2,70.8,38.0,0.0,2.4,12,2,3,0,0,1,1,0,1,0,0,0,25.7,D
+Cadbury Bournville Rich Cocoa 50% Dark CHOCOLATE BAR,CHOCOLATE,543.0,66.9,5.6,34.3,23.0,0.1,45.1,15.8,0.0,5.5,6,1,2,0,0,1,0,0,1,0,0,0,33.0,D
+Amul Milk Chocolate Smooth And Creamy,CHOCOLATE,545.0,57.4,8.4,31.4,19.0,0.0,43.6,0.0,0.0,0.0,5,1,2,0,0,1,0,0,1,0,0,0,38.5,C
+Amul Sugar Free Dark Chocolate,CHOCOLATE,554.0,43.0,14.2,36.1,21.5,0.0,10.0,0.0,0.0,0.0,7,0,3,0,0,0,0,0,1,0,0,0,53.7,C
+Hershey's Exotic Dark Blueberry And Acai Chocolate Share Bag,CHOCOLATE,451.0,80.4,1.97,13.5,8.0,0.05,57.6,0.0,0.0,0.0,15,1,1,0,0,1,0,0,0,0,0,0,36.3,C
+Nova Nova Waffle Chocolates- Belgian Chocolate,CHOCOLATE,360.0,45.0,4.0,20.0,17.0,0.0,31.0,71.0,0.0,5.0,1,3,1,0,1,1,1,0,0,0,0,0,35.6,C
+Nova Nova Choco Pockets- Classic Chocolate,CHOCOLATE,463.0,74.0,7.0,16.0,7.0,0.0,35.0,192.0,0.0,7.0,10,2,2,0,1,1,0,0,0,0,0,0,39.9,C
+Hershey's Kisses Hazelnut 'N' Cookies Chocolate,CHOCOLATE,548.0,56.0,7.3,33.0,17.7,0.2,49.1,122.0,0.0,33.0,13,2,3,0,1,1,0,0,1,0,0,0,25.7,D
+Hershey's Kisses Almonds Chocolate,CHOCOLATE,535.0,56.0,10.3,30.0,14.7,0.3,40.8,0.0,0.0,0.0,6,1,1,0,0,1,0,0,0,0,0,0,38.1,C
+Hershey's Exotic Dark Pomegranate Chocolate,CHOCOLATE,451.0,80.4,1.97,13.5,8.0,0.05,47.6,0.0,0.0,0.0,3,1,1,0,0,1,0,0,0,0,0,0,36.3,C
+Amul Single Origin India Milk Chocolate,CHOCOLATE,568.0,49.7,9.5,36.9,22.2,0.0,33.8,0.0,0.0,0.0,5,1,2,0,0,1,0,0,1,0,0,0,40.3,C
+Amul Velvet Milk Chocolate,CHOCOLATE,528.0,39.8,6.0,37.9,23.0,0.0,33.7,325.0,0.0,18.0,6,1,1,0,0,1,0,0,0,0,0,0,34.5,D
+Lo Foods Dark CHOCOLATE BAR Hazelnut Premium Sugar Free Chocolate Rich Healthy Chocolates,CHOCOLATE,471.0,55.0,7.0,36.0,12.0,0.0,4.0,22.0,7.0,0.0,5,0,2,0,0,0,0,0,0,0,0,0,67.9,B
+Didier & Frank Hazelnut Dark CHOCOLATE BAR,CHOCOLATE,590.0,56.0,10.0,37.0,17.0,0.0,30.0,40.0,0.0,2.0,6,1,1,0,0,1,0,0,0,0,0,0,43.6,C
+Didier & Frank 85% Dark CHOCOLATE BAR,CHOCOLATE,650.0,56.0,10.0,37.0,17.0,0.0,12.0,0.0,0.0,2.0,5,1,1,0,0,1,0,0,0,0,0,0,49.0,C
+Milka Raisins & Nuts Milk Chocolate,CHOCOLATE,536.0,58.0,6.1,30.5,18.0,0.0,57.0,0.0,2.9,0.0,11,1,2,0,0,1,0,0,1,0,0,0,38.5,C
+Luvit Dark Compound Chocolate,CHOCOLATE,560.46,6.25,9.63,59.66,25.69,0.0,53.14,53.37,0.0,0.0,7,2,2,0,0,1,1,0,1,0,0,0,32.6,D
+Didier & Frank Orange Dark CHOCOLATE BAR,CHOCOLATE,600.0,30.0,10.0,53.0,33.0,0.0,6.0,0.0,2.0,0.0,5,1,1,0,0,1,0,0,0,0,0,0,56.3,B
+Lo Foods Dark CHOCOLATE BAR Almond Delight Premium Sugar Free Chocolate Rich Healthy Chocolates,CHOCOLATE,427.0,46.0,11.0,40.0,33.0,0.0,13.0,8.0,0.0,0.0,6,0,1,0,0,0,0,0,0,0,0,0,58.5,B
+Darkins Indian Artisanal 63% Dark Orange Chocolate,CHOCOLATE,134.2,13.8,1.7,8.2,4.9,0.0,8.9,0.0,0.0,0.0,6,1,0,0,0,1,0,0,0,0,0,0,68.7,B
+Lo Foods Keto Dark CHOCOLATE BAR (Compound Sugar Free Chocolate),CHOCOLATE,477.0,12.0,7.0,36.0,0.0,0.0,4.0,22.0,0.0,0.0,5,0,1,0,0,0,0,0,0,0,0,0,78.5,A
+Toblerone Black Chocolate,CHOCOLATE,545.45,60.61,6.06,30.3,18.18,0.0,51.52,0.0,9.09,0.0,8,1,1,0,0,1,0,0,0,0,0,0,43.6,C
+Darkins Indian Artisanal 70% Dark Cranberry & Chilli Chocolate,CHOCOLATE,309.0,141.0,18.0,79.0,49.0,0.0,62.0,0.0,0.0,0.0,6,1,0,0,0,1,0,0,0,0,0,0,45.1,C
+Darkins Indian Artisanal 70% Dark Roasted Almonds Chocolate,CHOCOLATE,144.0,11.8,2.6,9.9,4.7,0.0,6.3,0.0,3.7,0.0,4,1,0,0,0,1,0,0,0,0,0,0,76.0,A
+The Whole Truth 55% Dark Chocolate,CHOCOLATE,559.4,53.7,7.1,35.2,24.1,0.0,34.3,9.5,9.5,0.0,4,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+The Whole Truth Hazelnut Dark Chocolate,CHOCOLATE,576.0,38.3,8.1,39.0,21.0,0.0,29.7,13.3,9.5,0.0,5,0,0,0,0,0,0,0,0,0,0,0,58.2,B
+The Whole Truth Sea Salt Dark Chocolate,CHOCOLATE,591.5,39.9,8.1,44.4,40.6,0.0,21.4,2.6,8.2,0.0,3,0,0,0,0,0,0,0,0,0,0,0,61.8,B
+The Whole Truth Orange Dark Chocolate,CHOCOLATE,597.6,40.1,8.1,45.0,31.2,0.0,21.5,13.3,9.7,0.0,5,0,0,0,0,0,0,0,0,0,0,0,61.8,B
+Lindt Exotic Milk Cornet Chocolate,CHOCOLATE,624.0,44.0,4.8,48.0,36.0,0.0,44.0,72.0,2.0,16.0,13,2,1,0,1,1,0,0,0,0,0,0,32.3,D
+Lindt Lindor Smooth Melting Assorted Chocolates Cornet,CHOCOLATE,630.0,41.0,4.7,49.0,36.0,0.0,40.0,0.0,0.0,0.0,16,2,2,0,1,1,0,0,1,0,0,0,29.0,D
+Godiva Dark Chocolate Blood Orange Tablet Bar,CHOCOLATE,509.0,60.0,5.4,29.0,0.0,0.0,49.0,0.0,0.0,0.0,10,1,1,0,0,1,0,0,0,0,0,0,52.7,C
+Godiva Signature 72% Cacao Dark Chocolate,CHOCOLATE,566.0,30.0,7.7,43.0,26.0,0.0,26.0,0.0,0.0,0.0,7,1,1,0,0,1,0,0,0,0,0,0,43.6,C
+Lindt Swiss Classic Milk Chocolate,CHOCOLATE,539.39,57.58,6.67,30.3,18.18,0.0,54.55,115.15,2.12,18.18,9,1,2,0,0,1,0,0,1,0,0,0,36.6,C
+Lindt Excellence 70 % Cocoa Dark Chocolate,CHOCOLATE,566.67,33.33,10.0,40.0,23.33,0.0,30.0,40.0,13.33,0.0,4,1,0,0,0,1,0,0,0,0,0,0,54.2,C
+"Cocoa mass, sugar, cocoa butter, VANILLA CAKE",CHOCOLATE,581.82,42.42,9.09,39.39,15.15,0.0,42.42,87.88,0.61,12.12,9,1,1,0,0,1,0,0,1,0,0,0,38.1,C
+Lindt Excellence 90% Cocoa Supreme Dark CHOCOLATE BAR,CHOCOLATE,566.67,13.33,10.0,56.67,30.0,0.0,6.67,13.33,16.67,3.33,5,1,0,0,0,1,0,0,0,0,0,0,63.3,B
+Godiva Salted Caramel Belgian Milk Chocolate,CHOCOLATE,541.0,58.0,7.4,32.0,21.0,0.0,58.0,0.0,0.0,0.0,12,1,1,0,0,1,0,0,0,0,0,0,36.3,C
+Godiva Milk Chocolate Rich & Creamy,CHOCOLATE,535.0,55.0,8.4,31.0,20.0,0.0,55.0,0.0,0.0,0.0,7,1,1,0,0,1,0,0,0,0,0,0,38.1,C
+Toblerone Fruit & Nut Chocolate,CHOCOLATE,500.0,63.0,5.2,25.0,15.0,0.0,61.0,0.0,2.7,0.0,15,1,1,0,0,1,0,0,0,0,0,0,40.0,C
+Chokola 54% Sugar Free Dark Chocolate,CHOCOLATE,566.67,56.67,6.67,36.67,23.33,0.0,0.0,16.67,13.33,0.0,6,0,2,0,0,0,0,0,0,0,0,0,64.3,B
+Wedel Milk CHOCOLATE BAR,CHOCOLATE,530.0,68.0,6.0,30.0,19.0,0.0,57.0,0.0,2.5,0.0,10,1,1,0,0,1,0,0,0,0,0,0,38.1,C
+Chokola 75% Signature Noir Dark Chocolate,CHOCOLATE,563.33,53.33,10.0,33.33,13.33,0.0,36.67,120.0,3.33,0.0,1,0,0,0,0,0,0,0,0,0,0,0,49.1,C
+Lindt Excellence Orange Intense Dark Chocolate,CHOCOLATE,525.0,51.0,6.2,31.0,17.0,0.0,48.0,0.0,0.0,0.0,13,1,1,0,0,1,0,0,0,0,0,0,34.5,D
+Sugar Free D'lite Quinoa & Almonds Dark CHOCOLATE BAR,CHOCOLATE,502.0,50.8,5.1,39.3,0.0,0.0,0.4,221.0,0.0,0.0,8,0,2,0,0,0,0,0,0,0,0,0,69.7,B
+Maltesers Chocolate,CHOCOLATE,504.0,62.0,8.5,25.0,15.0,0.0,53.0,0.0,0.0,0.0,21,2,1,0,1,1,0,0,0,0,0,0,34.1,D
+Cadbury 5 Star 3D CHOCOLATE BAR,CHOCOLATE,512.5,64.8,3.5,27.0,18.4,0.2,49.2,182.1,0.0,6.5,15,3,3,0,1,1,1,0,1,0,0,0,16.2,D
+Cadbury Gems Chocolate Mini Treats Pack,CHOCOLATE,469.0,75.9,3.5,17.5,17.1,0.2,70.77,38.0,0.0,2.2,12,2,3,0,0,1,1,0,1,0,0,0,25.7,D
+Chokola 45% Raspberry Chocolate Minis,CHOCOLATE,172.0,16.0,2.0,11.0,5.0,0.0,14.0,41.0,1.0,0.0,7,1,1,0,0,1,0,0,0,0,0,0,61.8,B
+Dukesh Truffel Butter Scotch Chocolate,CHOCOLATE,528.8,62.8,5.4,28.4,21.1,0.1,59.3,49.7,0.0,0.1,3,3,2,0,1,1,1,0,1,0,0,0,25.0,D
+Cadbury Fuse Mini Treats Chocolate Pack,CHOCOLATE,541.8,54.4,8.0,33.1,17.7,0.1,2.2,236.0,0.0,3.8,20,2,3,0,0,1,1,0,1,1,0,0,45.7,C
+Nestle KitKat Delights Dark,CHOCOLATE,390.0,45.5,3.9,22.5,22.2,0.04,37.7,24.3,3.85,0.0,13,2,3,0,0,1,1,0,1,0,0,0,40.2,C
+Cadbury Perk Mini Treats Chocolate coated Wafers,CHOCOLATE,509.0,68.3,4.9,24.3,19.4,0.2,44.4,109.0,0.0,0.0,15,3,3,0,1,1,1,0,1,0,0,0,21.7,D
+Cacao Springs Rose Almond Roca,CHOCOLATE,100.0,7.49,2.29,6.76,2.17,0.02,4.68,13.04,0.0,0.22,7,3,1,0,1,1,1,0,0,0,0,0,62.9,B
+Kitkat Delights Hazelnut,CHOCOLATE,418.0,48.0,4.9,22.9,20.0,0.0,36.4,42.5,0.0,8.5,9,1,2,0,0,1,0,0,1,0,0,0,38.5,C
+Sugar free D'lite Hazelnut & Roasted Almonds Dark CHOCOLATE BAR,CHOCOLATE,509.0,49.3,5.5,40.6,0.0,0.0,0.4,221.0,0.0,0.0,7,0,2,0,0,0,0,0,0,0,0,0,69.7,B
+Sunfeast Fantastik Roasted Almond,CHOCOLATE,551.0,54.2,8.6,34.3,26.8,0.1,48.1,101.1,0.0,0.01,8,2,2,0,0,1,1,0,1,0,0,0,30.8,D
+Ferrero Rocher Moments Pack,CHOCOLATE,526.0,54.8,7.9,29.8,11.6,0.0,44.5,70.0,0.0,0.4,16,2,3,0,1,1,0,0,1,0,0,0,31.1,D
+Eat Anytime Hazelnut Date Laddoo,CHOCOLATE,458.0,50.4,14.08,22.3,20.3,0.31,38.6,106.1,9.1,0.0,5,0,0,0,0,0,0,0,0,0,0,0,54.5,C
+Pulse Kachcha Aam 50 Candies,CHOCOLATE,380.0,95.0,0.0,0.0,0.0,0.0,70.0,930.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,38.2,C
+Chupa Chups Sour Bites Mixed Fruit Flavour Soft And Chewy Toffee,CHOCOLATE,366.5,81.2,2.7,2.5,2.2,0.01,55.3,207.0,0.0,0.0,8,3,2,0,0,1,1,1,0,0,0,0,35.9,C
+Candyman Sourzzz | Sour Jellies | Sour Candies,CHOCOLATE,358.0,89.5,0.1,0.0,0.0,0.0,74.8,355.7,0.0,0.0,6,2,2,0,0,1,0,1,1,0,0,0,39.9,C
+Tangy Imli (Tamarind) 10 Pcs Sour Candy,CHOCOLATE,369.4,81.9,1.0,1.6,0.0,0.0,62.4,0.0,0.0,0.0,8,1,0,0,0,1,0,0,0,0,0,0,52.4,C
+Fruittella Strawberry Flavour Chewy Toffee Stick,CHOCOLATE,400.0,84.9,6.8,6.7,0.01,43.5,0.0,0.0,0.0,0.0,9,2,1,0,0,1,1,0,0,0,0,0,63.2,B
+"Guava Pulp, Sugar, Spices, and Condiments",CHOCOLATE,341.92,82.59,1.9,0.44,0.19,0.09,70.85,103.26,7.02,0.9,4,1,0,0,0,1,0,0,0,0,0,0,61.5,B
+"Guava Pulp, Sugar, Spices, and Condiments",CHOCOLATE,385.7,91.6,1.3,1.6,0.0,0.0,64.3,0.0,0.7,0.0,8,1,0,0,0,1,0,0,0,0,0,0,52.4,C
+Alpenliebe Pop Assorted Flavours Lollipop,CHOCOLATE,421.0,86.2,0.4,8.3,7.3,0.07,50.3,0.0,0.0,0.0,12,2,1,0,0,1,1,0,0,0,0,0,32.3,D
+Orbit Sugar-Free Mixed Fruit Chewing Gum Tube,CHOCOLATE,184.0,17.0,0.0,1.6,1.2,0.0,0.0,1.9,0.0,0.0,8,0,1,0,0,0,0,0,0,0,0,0,74.9,B
+Chupa Chups Assorted Flavour Long Tubes,CHOCOLATE,375.0,84.6,2.0,1.8,1.6,0.01,61.8,216.0,0.0,0.0,19,3,3,0,0,1,1,1,1,0,0,0,36.2,C
+Skittles Wildberry Bite-Size Fruit Flavoured Candy,CHOCOLATE,401.0,92.0,0.0,4.3,2.4,0.0,90.0,15.0,0.0,0.0,14,3,2,0,1,1,0,1,1,0,0,0,35.9,C
+Skittles Original Bite-Size Fruit Candy Tube,CHOCOLATE,405.0,92.0,0.0,4.2,2.4,0.0,90.0,15.0,0.0,0.0,10,2,2,0,1,1,0,0,1,0,0,0,39.9,C
+Tic Tac Seeds Fennel (Saunf),CHOCOLATE,388.0,90.2,1.0,1.5,0.0,0.0,85.0,12.0,0.0,0.0,8,1,1,0,0,1,0,0,0,0,0,0,50.9,C
+Doublemint Peppermint Chewy Mints Tube,CHOCOLATE,401.0,92.0,0.0,3.69,1.8,0.0,91.0,0.0,0.0,0.0,9,2,2,0,1,1,0,0,1,0,0,0,41.7,C
+Candyman Tadka Lollipop,CHOCOLATE,392.0,98.0,0.1,0.0,0.0,0.0,72.9,365.5,0.0,0.0,6,3,3,0,1,1,0,1,1,0,0,0,32.6,D
+Rangmunch Anardana Shots,CHOCOLATE,358.0,78.2,2.5,2.8,0.0,0.0,54.0,0.0,0.0,0.0,7,1,0,0,0,1,0,0,0,0,0,0,54.2,C
+Tic Tac Seeds Jeera Blacksalt,CHOCOLATE,389.0,94.1,0.2,0.8,0.5,0.0,86.8,280.0,0.0,0.0,10,1,1,0,0,1,0,0,0,0,0,0,45.4,C
+Rangmunch Mango Masti Premium Mouth Frehsner,CHOCOLATE,374.0,84.7,2.5,0.0,0.0,0.0,16.0,0.0,0.0,0.0,8,1,0,0,0,1,0,0,0,0,0,0,66.9,B
+Alpenliebe Gold Caramel Toffee,CHOCOLATE,412.0,91.0,0.7,5.2,4.5,0.02,75.5,309.0,0.0,2.9,14,2,2,0,0,1,1,0,1,0,0,0,30.8,D
+KOPIKO Cappuccino Coffee Candy,CHOCOLATE,451.0,85.8,0.8,11.6,5.8,0.0,55.8,160.0,0.0,0.0,12,2,2,0,1,1,0,0,1,0,0,0,32.6,D
+Mentos Chewy Dragees,CHOCOLATE,386.0,92.0,0.05,1.8,1.8,0.02,72.0,64.0,0.0,0.0,10,2,2,0,0,1,1,0,1,0,0,0,43.5,C
+Alpenliebe Juzt Jelly - Strawberry Flavour,CHOCOLATE,317.0,78.3,0.01,0.0,0.0,0.0,71.2,158.0,0.0,0.0,6,2,2,0,0,1,0,1,1,0,0,0,45.4,C
+Alpenliebe Gold Cream Strawberry Flavour Toffee,CHOCOLATE,422.0,88.0,0.12,7.3,6.8,0.03,74.0,236.0,0.0,1.38,12,3,2,0,0,1,1,1,1,0,0,0,25.0,D
+DERBY Tradissions Assorted Toffees,CHOCOLATE,375.0,51.34,4.73,14.72,3.09,0.0,47.38,191.98,1.54,0.0,5,2,2,0,0,1,1,0,1,0,0,0,41.7,C
+Parle Toffee - Kismi,CHOCOLATE,418.0,80.9,2.1,9.5,4.9,0.0,48.0,0.0,0.0,0.0,6,1,2,0,0,1,0,0,1,0,0,0,42.1,C
+Mentos Rainbow Assorted Flavour Chewy Toffee,CHOCOLATE,386.0,91.5,0.05,1.8,1.8,0.02,72.0,64.0,0.0,0.0,32,2,2,0,0,1,1,0,1,0,0,0,43.5,C
+"Candyman Toffichoo - Soft Toffee, Strawberry Flavour",CHOCOLATE,412.0,92.5,0.3,4.6,2.7,0.02,64.5,0.0,0.0,0.0,4,1,0,0,0,1,0,0,0,0,0,0,46.9,C
+Mentos Strawberry Flavour Toffee,CHOCOLATE,386.0,91.5,0.05,1.8,1.8,0.02,72.0,64.0,0.0,0.0,11,2,2,0,0,1,1,0,1,0,0,0,43.5,C
+Cadbury Choclairs Gold Candy,CHOCOLATE,448.0,73.5,3.3,15.7,7.5,0.1,47.5,187.0,0.0,0.0,16,3,2,0,1,1,1,0,1,0,0,0,26.8,D
+Swad Swad Coffee Candy,CHOCOLATE,390.0,97.5,0.0,0.0,0.0,0.0,79.0,0.0,0.0,0.0,6,2,1,0,0,1,1,0,1,0,0,0,46.9,C
+Parle 2 In 1 Eclairs Toffee,CHOCOLATE,412.0,79.1,2.5,9.5,4.4,0.0,54.4,129.0,0.0,0.0,7,2,2,0,1,1,0,0,1,0,0,0,36.3,C
+Mapro Mazaana Chocolate Paan,CHOCOLATE,437.0,54.0,2.0,24.0,20.0,0.5,51.0,110.0,0.0,0.0,2,0,0,0,0,0,0,0,0,0,0,0,32.7,D
+Dukes Choco Centre Filled Eclairs - Rich & Creamy,CHOCOLATE,438.0,80.4,3.2,11.5,0.0,0.2,53.5,0.0,0.0,0.0,13,2,2,0,1,1,0,0,1,0,0,0,45.4,C
+"God Speed Imli Toffee - Natural, Sweet & Sour",CHOCOLATE,858.94,95.1,0.76,0.0,0.0,0.0,85.31,0.0,0.0,0.0,4,1,0,0,0,1,0,0,0,0,0,0,41.5,C
+Swad Kachha Aam Raw Mango Candy,CHOCOLATE,390.0,97.5,0.0,0.0,0.0,0.0,79.0,0.0,0.0,0.0,4,1,1,0,0,1,0,0,1,0,0,0,50.9,C
+Swad Swad Cola Masala Candy,CHOCOLATE,399.0,97.5,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1,1,0,0,1,0,0,1,0,0,0,69.0,B
+Swad Orange With Vitamin C Candy,CHOCOLATE,390.0,97.5,0.0,0.0,0.0,0.0,79.0,0.0,0.0,0.0,5,1,1,0,0,1,0,0,1,0,0,0,50.9,C
+Swad Meetha Pan Paan Candy,CHOCOLATE,390.0,97.5,0.0,0.0,0.0,0.0,79.0,0.0,0.0,0.0,12,1,1,0,0,1,0,0,1,0,0,0,50.9,C
+Lotte Eclairs Coffy Bite Toffee,CHOCOLATE,436.0,79.0,3.0,12.0,6.0,0.0,55.0,50.0,0.0,0.0,13,2,2,0,0,1,1,0,1,0,0,0,34.5,D
+"Parle Poppins Candy - Fruit Flavoured Rolls, Tangy & Crunchy",CHOCOLATE,391.0,97.8,0.0,0.0,0.0,0.0,80.2,0.0,0.0,0.0,8,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+Parle Rol.A.Cola Candy,CHOCOLATE,391.0,97.8,0.0,0.0,0.0,0.0,80.3,0.0,0.0,0.0,3,1,0,0,0,1,0,0,0,0,0,0,52.4,C
+Cocon Jelly - Mixed Fruit Flavour,CHOCOLATE,66.67,20.0,0.0,0.0,0.0,0.0,20.0,0.0,0.0,0.0,9,2,2,0,0,1,0,1,1,0,0,0,63.5,B
+Alpenliebe Juzt Jelly Soft Candy - Fruity Bears,CHOCOLATE,346.0,84.0,0.0,0.0,0.0,0.0,78.0,178.0,0.0,0.0,12,2,2,0,0,1,0,1,1,0,0,0,43.5,C
+Haribo Goldbaren,CHOCOLATE,343.0,77.0,6.1,0.0,0.0,0.0,46.0,0.0,0.0,0.0,26,1,0,0,0,1,0,0,0,0,0,0,57.8,B
+CandyVille Mint Mello Flavoured Candy - Peppermint,CHOCOLATE,399.13,99.16,0.42,0.0,0.0,0.0,81.05,6.22,0.0,0.0,4,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+DERBY Elaichi Éclair,CHOCOLATE,265.0,60.5,0.96,2.09,0.87,0.0,59.97,203.32,0.11,0.0,4,3,2,0,1,1,1,0,1,0,0,0,39.5,C
+DERBY Mango Flavoured Sugar Free Candy,CHOCOLATE,399.9,99.9,0.0,0.0,0.0,0.0,0.0,11.6,0.0,0.0,4,0,3,0,0,0,0,0,1,0,0,0,70.0,B
+CandyVille Froot Fab Flavoured Candy - Strawberry,CHOCOLATE,393.88,91.88,0.29,0.0,0.0,0.0,94.56,6.7,0.0,0.0,4,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+Simpkins Travel Sweets - Mixed Mint,CHOCOLATE,403.0,98.0,0.0,0.0,0.0,0.0,98.0,0.0,0.0,0.0,9,1,1,0,0,1,0,0,0,0,0,0,49.0,C
+CandyVille Froot Fab Flavoured Candy - Blueberry,CHOCOLATE,393.88,98.18,0.29,0.0,0.0,0.0,94.56,6.7,0.0,0.0,4,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+DERBY Mint Flavoured Sugar Free Candy,CHOCOLATE,399.0,99.9,0.0,0.0,0.0,0.0,0.0,11.6,0.0,0.0,2,1,2,0,0,0,0,1,1,0,0,0,67.5,B
+DERBY Kacha Kairy Flavoured Sugar Free Candy - Crunchy,CHOCOLATE,399.0,99.9,0.0,0.0,0.0,0.0,0.0,11.6,0.0,0.0,4,0,3,0,0,0,0,0,1,0,0,0,70.0,B
+Fox'S Crystal Clear Candy - Mint Flavour,CHOCOLATE,388.0,97.0,0.0,0.0,0.0,0.0,75.0,50.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+CandyVille Mint Mello Flavoured Candy - Lime & Mint,CHOCOLATE,398.63,98.85,0.56,0.0,0.0,0.0,79.39,13.86,0.0,0.0,5,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+Hart Beat Sweets Love Candy - Strawberry Flavoured,CHOCOLATE,490.0,99.0,0.0,0.0,0.0,0.0,51.0,0.0,0.0,0.0,4,1,2,0,0,1,0,0,1,0,0,0,45.7,C
+Manimark Kamarkat - Indian Sweet,CHOCOLATE,452.22,79.33,2.63,0.0,0.0,0.0,0.0,0.0,0.0,0.0,3,1,0,0,0,1,0,0,0,0,0,0,70.5,B
+Alpenliebe Juzt Jelly - Orange Flavour Bears,CHOCOLATE,346.0,86.0,0.02,0.0,0.0,0.0,74.0,150.0,0.0,0.0,14,2,2,0,0,1,0,1,1,0,0,0,43.5,C
+Alpenliebe Juzt Jelly Gauva Flavour Soft Candy,CHOCOLATE,323.7,79.3,0.5,0.0,0.0,0.0,71.1,159.0,0.0,0.0,10,2,2,0,0,1,0,1,1,0,0,0,43.5,C
+Hart Beat Sweets Love Candy - Lychee Flavoured,CHOCOLATE,50.6,50.6,0.0,0.0,0.0,0.0,51.0,4.8,0.0,0.0,4,1,2,0,0,1,0,0,1,0,0,0,56.6,B
+Simpkins Travel Sweets - Mixed Fruit,CHOCOLATE,403.0,98.0,0.0,0.0,0.0,0.0,98.0,0.0,0.0,0.0,8,1,1,0,0,1,0,0,0,0,0,0,49.0,C
+Fox'S Crystal Clear Candy - Fruit Flavoured,CHOCOLATE,388.0,97.0,0.0,0.0,0.0,0.0,75.0,100.0,0.0,0.0,7,1,1,0,0,1,0,0,0,0,0,0,49.0,C
+Parle Kaccha Mango Bite Candy,CHOCOLATE,386.4,96.6,0.0,0.0,0.0,0.0,97.3,0.0,0.0,0.0,3,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+Parle Orange Bite Jhatkaa Candy,CHOCOLATE,392.0,98.0,0.0,0.0,0.0,0.0,80.7,0.0,0.0,0.0,3,1,0,0,0,1,0,0,0,0,0,0,52.4,C
+Lotte Coffy Bite Classic,CHOCOLATE,436.0,80.0,2.0,12.0,6.0,0.0,58.0,130.0,0.0,5.0,9,2,2,0,0,1,1,0,1,0,0,0,32.6,D
+Jelimals Space Adventure - Assorted Jelly Candy,CHOCOLATE,327.0,81.5,0.2,0.0,0.0,0.0,68.8,193.8,0.0,0.0,5,1,1,0,0,1,0,0,0,0,0,0,47.2,C
+Parle Bigger Kaccha Mango Bite,CHOCOLATE,380.0,95.1,0.0,0.0,0.0,0.0,78.8,18.0,0.0,0.0,5,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+Tic Tac Orange Hard Candy,CHOCOLATE,398.0,96.7,0.1,0.7,0.7,0.0,93.3,11.0,0.0,0.0,8,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+Swad Digestive Candy,CHOCOLATE,206.0,26.0,0.0,7.9,2.9,0.0,7.9,0.0,4.0,0.0,12,1,0,0,0,1,0,0,0,0,0,0,76.0,A
+Alpenliebe Juzt Jelly Cars & Planes Shape Assorted Flavour Soft Candy,CHOCOLATE,345.0,85.0,0.03,0.0,0.0,0.0,78.0,175.0,0.0,0.0,14,2,2,0,0,1,0,1,1,0,0,0,43.5,C
+"Pulse Litchi Candy - With Tangy Twist, Hard-Boiled",CHOCOLATE,380.0,95.0,0.0,0.0,0.0,0.0,70.0,580.0,0.0,0.0,11,1,1,0,0,1,0,0,0,0,0,0,40.0,C
+Parle Mango Bite,CHOCOLATE,391.0,97.8,0.0,0.0,0.0,0.0,80.6,0.0,0.0,0.0,3,1,1,0,0,1,0,0,0,0,0,0,50.9,C
+Pulse Orange Candy - With Tangy Twist,CHOCOLATE,380.0,95.0,0.0,0.0,0.0,0.0,70.0,930.0,0.0,0.0,11,1,1,0,0,1,0,0,0,0,0,0,32.7,D
+Tic Tac Candy - Red Apple Treat,CHOCOLATE,393.0,97.7,0.1,0.2,0.2,0.0,91.4,4.0,0.0,0.0,8,1,1,0,0,1,0,0,0,0,0,0,50.9,C
+Mentos Chewy Dragees - Orange Flavour,CHOCOLATE,386.0,91.5,0.05,1.8,1.8,0.02,72.0,64.0,0.0,0.0,11,3,2,0,0,1,1,1,1,0,0,0,39.5,C
+"DERBY Darling Velvetto Candy - Soft, Sour, Chewy",CHOCOLATE,396.72,99.1,0.0,0.0,0.0,0.0,35.8,4.6,0.0,0.0,3,1,2,0,0,1,0,0,1,0,0,0,54.8,C
+Parle Bigger Orange Bite Candy,CHOCOLATE,385.0,96.3,0.0,0.0,0.0,0.0,79.0,5.0,0.0,0.0,7,1,2,0,0,1,0,0,1,0,0,0,49.4,C
+Chupa Chups Mix'up Flavoured Lollipop,CHOCOLATE,385.7,95.0,0.0,0.0,0.0,0.0,74.0,80.0,0.0,0.0,8,2,2,0,0,1,0,1,1,0,0,0,45.4,C
+Pulse Guava Candy - With Tangy Twist,CHOCOLATE,380.0,95.0,0.0,0.0,0.0,0.0,70.0,390.0,0.0,0.0,7,2,2,0,0,1,0,1,1,0,0,0,38.1,C
+Coco Cado Jelly - Assorted,CHOCOLATE,655.29,16.47,0.0,0.0,0.0,0.0,16.47,47.06,1.0,0.0,14,1,2,0,0,1,0,0,0,1,0,0,56.6,B
+Chupa Chups Assorted Bubble Gum Filled Lollipop,CHOCOLATE,361.0,89.0,0.0,0.0,0.0,0.0,71.0,63.0,0.0,0.0,17,2,2,0,0,1,0,1,1,0,0,0,45.4,C
+DERBY Vitacin Orange Flavoured Candy,CHOCOLATE,400.0,98.0,0.5,0.0,0.0,0.0,72.0,183.0,0.0,0.0,3,2,2,0,0,1,0,1,1,0,0,0,41.7,C
+GO DESi Chilli Orange Desi Popz Lollipop Candy,CHOCOLATE,351.3,84.4,0.6,1.33,0.13,0.003,80.2,35.0,0.0,0.0,12,1,1,0,0,1,0,0,0,0,0,0,50.9,C
+Boomer Strawberry Flavoured Chewing Gum,CHOCOLATE,320.0,76.0,0.0,2.0,1.6,0.0,74.0,0.9,0.0,0.0,8,1,1,0,0,1,0,0,0,0,0,0,50.9,C
+Townbus Cornflakes Mixture - Namkeen,SNACKS,533.0,55.0,5.32,34.42,15.1,0.0,14.0,293.0,0.0,0.0,8,1,0,0,0,1,0,0,0,0,0,0,43.3,C
+Townbus Khara Boondi,SNACKS,462.0,41.4,14.1,42.5,2.7,0.0,1.0,858.0,0.0,0.0,11,1,0,0,1,0,0,0,0,0,0,0,57.8,B
+Tasties Origins Shankarpali Sweet,SNACKS,560.1,59.93,5.39,33.2,17.64,0.0,19.4,162.4,0.0,0.0,6,3,2,0,1,1,1,0,0,0,0,0,34.1,D
+bb Gooddiet Multigrain PUFFS - Chilli Chataka,SNACKS,446.27,66.84,7.4,16.59,3.63,0.0,16.59,1515.0,0.76,0.0,5,1,2,0,0,1,0,0,0,0,0,0,43.9,C
+bb Gooddiet Multigrain Puffs - Butter Makhana,SNACKS,461.57,65.94,8.12,18.37,1.7,0.0,7.66,1205.0,4.39,0.0,10,1,3,1,0,1,0,0,1,0,1,0,61.8,B
+Tasties Origins Chegodi,SNACKS,487.0,60.0,10.0,23.0,10.0,0.0,1.0,533.0,4.0,0.0,10,1,1,0,1,0,0,0,0,0,0,0,54.5,C
+Townbus Ribbon Pakoda,SNACKS,592.59,51.85,11.11,37.04,18.52,0.0,0.0,566.67,3.7,0.0,6,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+Tasties Origins Bakarwadi,SNACKS,466.0,48.07,9.7,26.02,11.53,0.0,14.9,745.0,0.0,0.0,23,2,1,0,1,1,0,0,0,0,0,0,34.1,D
+Haldiram's Chana Jor Garam,SNACKS,517.0,50.53,15.1,28.27,10.07,0.0,0.5,301.0,5.16,0.0,10,2,1,0,1,1,0,0,0,0,0,0,56.0,B
+Tasties Origins Gujarati Besan Papdi,SNACKS,3.3,37.8,12.8,43.4,17.8,0.0,12.1,560.9,0.0,0.0,3,1,0,0,1,0,0,0,0,0,0,0,54.2,C
+Tasties Origins Ompudi Nylon Sev,SNACKS,600.0,40.6,11.3,43.7,4.0,0.0,3.3,448.5,0.0,0.0,7,1,0,0,1,0,0,0,0,0,0,0,59.6,B
+Mama Nourish Crunchy Sabudana Farali Chivda,SNACKS,510.0,55.0,4.0,30.0,6.0,0.0,1.5,180.0,2.0,0.0,9,1,0,0,0,1,0,0,0,0,0,0,59.6,B
+Slurrp Farm Cheese & Herbs Puff,SNACKS,479.2,67.8,6.35,20.3,0.0,0.0,1.0,0.75,0.0,0.0,17,1,0,1,0,1,0,0,0,0,1,0,77.2,A
+Doritos Dinamita Fiery Lime & Chilli Flavour Namkeen,SNACKS,511.0,63.0,6.8,26.0,10.6,0.1,2.3,760.0,30.0,0.0,15,2,3,0,1,1,0,0,1,0,0,0,42.0,C
+A-1 Chips Jack Fruit Chips,SNACKS,191.0,12.0,2.0,15.0,1.6,0.0,0.0,4.4,0.0,0.0,3,0,0,0,0,0,0,0,0,0,0,0,78.2,A
+Tong Garden Party Snack,SNACKS,500.0,50.0,20.0,23.33,6.67,0.0,0.0,433.33,10.0,0.0,9,2,0,0,1,1,0,0,0,0,0,0,62.9,B
+Bingo! No Rulz Cheese Curlz,SNACKS,496.0,64.4,6.4,2.1,11.4,0.1,6.9,763.4,0.0,10.6,12,2,4,0,1,1,0,0,1,0,0,0,29.6,D
+Slurrp Farm Choco Ragi Puffs,SNACKS,328.0,83.9,7.3,2.2,0.0,0.0,18.6,0.07,0.0,0.0,9,1,0,1,0,1,0,0,0,0,1,0,73.5,B
+Taali Cheese & Herbs Protein Puffs,SNACKS,509.0,73.0,16.0,16.0,3.0,0.0,5.0,660.0,5.0,0.0,20,1,1,1,0,1,0,0,0,0,1,0,66.6,B
+Balaji Namkeen Tikha Mitha Mix,SNACKS,574.0,47.0,15.0,34.2,13.6,0.1,7.8,670.0,0.0,0.0,10,1,0,0,0,1,0,0,0,0,0,0,41.5,C
+Bikaji Falahari Mix,SNACKS,554.0,29.0,20.0,40.0,9.0,0.0,6.0,186.0,5.7,0.0,11,1,1,0,0,1,0,0,0,0,0,0,61.8,B
+bb Gooddiet Roasted Peanuts - Cheese 'N' Onion,SNACKS,609.25,20.4,26.05,47.05,9.1,0.0,2.98,0.0,3.91,0.0,12,2,1,0,1,1,0,0,0,0,0,0,59.6,B
+bb Gooddiet Mini Nippattu/ Mathri,SNACKS,344.63,40.4,5.09,30.63,20.0,0.0,0.81,800.0,2.78,0.0,13,0,1,1,0,0,0,0,0,0,1,0,54.2,C
+bb Gooddiet Crackers - Rock Salt & Pepper,SNACKS,299.0,69.0,9.0,21.0,3.0,0.0,1.0,958.0,16.0,0.0,8,0,1,1,0,0,0,0,0,0,1,0,72.4,B
+bb Gooddiet Biscotti - Double Dark Chocolate,SNACKS,522.0,61.0,13.0,25.0,2.0,0.0,16.0,438.0,11.0,0.0,6,1,1,1,0,1,0,0,0,0,1,0,70.2,B
+Eat Better Co Millet Namkeen Mango Achari,SNACKS,455.6,62.5,15.0,16.5,1.3,0.0,4.0,931.1,10.2,0.0,5,0,0,1,0,0,0,0,0,0,1,0,73.9,B
+Balaji Masala Masti Chips,SNACKS,539.0,56.9,7.4,29.5,14.0,0.1,5.2,760.0,0.0,0.0,10,1,0,0,0,1,0,0,0,0,0,0,39.6,C
+Balaji Namkeen - Masala Sev Murmura,SNACKS,571.0,74.2,10.8,24.1,9.6,0.0,9.2,1143.0,0.0,0.0,23,2,1,0,1,1,0,0,1,0,0,0,30.5,D
+Balaji Chataka Pataka - Masala Masti,SNACKS,514.0,63.3,7.0,25.0,12.0,0.1,20.0,868.0,0.0,0.0,10,1,2,0,0,1,0,0,0,0,0,0,29.4,D
+Balaji Masala Shing Namkeen,SNACKS,699.0,13.2,23.2,58.2,9.4,0.1,9.0,662.0,0.0,0.0,14,1,0,0,0,1,0,0,0,0,0,0,39.6,C
+Balaji Namkeen - Farali Chevdo,SNACKS,589.0,40.9,15.2,38.9,14.0,0.1,8.0,404.0,0.0,0.0,7,1,0,0,0,1,0,0,0,0,0,0,46.9,C
+Balaji Simply Salted Wafers,SNACKS,559.0,53.8,6.4,35.3,0.16,0.2,0.4,0.0,0.0,0.0,3,0,0,0,0,0,0,0,0,0,0,0,76.4,A
+Pringles Potato Chips Original Flavour - Classic Salted,SNACKS,523.0,62.8,5.0,27.9,14.0,0.3,0.4,469.0,0.0,0.0,8,2,1,0,1,1,0,0,0,0,0,0,37.8,C
+Pringles Potato Chips Desi Masala Tadka Flavour,SNACKS,518.0,61.2,4.7,28.3,12.6,0.3,1.5,837.0,0.0,0.0,26,2,4,0,1,1,0,0,1,1,0,0,24.2,D
+Pringles Potato Chips Pizza Flavour,SNACKS,514.0,61.1,5.7,27.4,14.0,0.3,2.4,677.0,0.0,0.0,35,2,3,0,1,1,0,0,1,0,0,0,31.1,D
+Pringles Potato Chips Tangy Tomato Twist,SNACKS,510.0,63.4,4.7,26.5,11.6,0.3,4.2,643.0,0.0,0.0,3,2,3,0,1,1,0,0,1,0,0,0,29.3,D
+Pringles Potato Chips Peri Peri Flavour,SNACKS,522.0,61.5,5.2,28.5,15.0,0.3,2.0,592.0,0.0,0.0,26,2,3,0,1,1,0,0,1,0,0,0,33.0,D
+Pringles Imported Potato Crisps - BBQ,SNACKS,535.71,57.14,3.57,32.14,8.93,0.0,3.57,482.14,0.0,0.0,31,1,1,0,0,1,0,0,0,0,0,0,45.4,C
+Britannia 50-50 Timepass Classic Salted Biscuit,BISCUIT,501.0,67.6,8.6,21.8,10.4,0.0,7.5,963.0,0.0,0.0,11,2,3,0,1,1,0,0,1,0,0,0,29.3,D
+Cadbury Oreo Original Chocolatey Sandwich Biscuits,BISCUIT,483.0,71.8,52.0,19.6,9.7,0.2,38.9,449.0,0.0,0.0,13,2,4,0,1,1,0,0,1,1,0,0,26.0,D
+Sunfeast Bounce Biscuits - Pineapple Creme Cookies,BISCUIT,476.0,73.5,6.5,17.3,8.3,0.1,37.4,0.0,0.0,0.0,13,1,1,0,0,1,0,0,0,0,0,0,45.4,C
+Bisk Farm Googly Biscuits,BISCUIT,460.11,68.3,6.23,23.94,13.65,0.22,21.49,182.0,0.0,42.0,14,2,2,0,1,1,0,0,0,0,0,0,36.3,C
+Bisk Farm Biscuits - English Cracker,BISCUIT,467.5,70.03,8.92,19.05,10.47,0.11,22.1,35.0,0.0,0.0,11,2,1,0,0,1,1,0,0,0,0,0,46.9,C
+Bournvita Biscuits,BISCUIT,456.0,72.8,7.1,15.3,6.8,0.1,28.3,375.0,0.0,0.0,20,2,3,1,1,1,0,0,1,0,1,0,41.4,C
+Priyagold Marie Lite,BISCUIT,450.0,74.0,9.0,13.0,6.0,0.0,22.0,449.0,0.0,0.0,11,2,2,0,1,1,0,0,0,1,0,0,45.4,C
+bb Popular Bakery Biscuit - Ajwain,BISCUIT,522.32,65.5,7.57,25.56,12.63,0.0,19.18,138.0,0.0,0.0,9,2,3,0,0,1,1,0,1,0,0,0,38.4,C
+bb Popular Bakery Biscuit - Tooti Fruity,BISCUIT,386.2,49.8,5.8,18.2,11.0,0.0,32.6,104.0,0.0,0.0,14,3,4,0,0,1,1,1,1,1,0,0,29.3,D
+bb Popular Traditional Jeera Bakery Biscuits,BISCUIT,526.85,64.06,6.61,27.13,14.06,0.0,19.0,138.0,0.0,0.0,9,2,3,0,0,1,1,0,1,0,0,0,38.4,C
+Lal Sweets Motichoor Laddu,SWEETS,383.0,62.0,1.0,15.0,7.0,0.0,50.0,13.0,0.0,0.0,3,1,0,0,0,1,0,0,0,0,0,0,39.6,C
+Kaju Katli Classic,SWEETS,466.72,67.21,11.94,16.68,2.85,0.0,41.75,33.21,3.3,0.0,4,1,0,0,0,1,0,0,0,0,0,0,63.3,B
+Dry Fruit Barfi,SWEETS,450.51,66.71,9.4,16.23,3.78,0.0,43.32,8.12,5.31,0.0,7,0,0,0,0,0,0,0,0,0,0,0,69.1,B
+Grb Elachi Soancake,SWEETS,526.4,68.3,4.8,26.0,15.0,0.0,50.0,11.0,0.0,0.0,9,3,2,0,1,1,1,0,1,0,0,0,23.2,D
+MTR Mysore Pak,SWEETS,523.0,43.0,3.0,38.0,11.2,0.0,34.5,3.0,0.0,5.0,7,1,1,0,0,1,0,0,0,0,0,0,36.3,C
+Haldiram's Soan Papdi,SWEETS,490.0,65.33,5.33,23.06,13.8,0.0,46.06,8.0,0.62,0.0,9,3,1,0,1,1,1,0,0,0,0,0,26.5,D
+Gits Mini Rasgulla Tin,SWEETS,231.0,48.0,3.0,3.0,2.0,0.03,44.5,30.0,0.0,0.0,3,1,0,0,0,1,0,0,0,0,0,0,56.0,B
+Pista Coconut Barfi,SWEETS,392.7,72.72,5.52,6.59,6.19,0.0,38.11,71.29,6.71,2.33,9,1,0,0,0,1,0,0,0,0,0,0,59.6,B
+Coconut Laddu,SWEETS,424.45,75.86,5.66,10.8,10.07,0.0,46.11,108.83,7.53,0.0,3,1,2,0,0,1,0,0,0,1,0,0,42.1,C
+Nandini Milk Peda,SWEETS,455.0,55.0,13.7,20.0,13.0,0.0,55.0,204.0,0.0,59.6,2,1,0,0,0,1,0,0,0,0,0,0,37.8,C
+Besan Laddoo,SWEETS,471.83,63.14,8.96,21.03,10.87,0.0,44.21,48.18,5.31,44.5,7,1,1,0,0,1,0,0,0,0,0,0,50.9,C
+Sweet Karam Coffee Peanut Chikki Bites,SWEETS,539.0,46.0,21.3,29.0,11.0,0.0,35.6,158.0,4.8,0.0,4,1,0,0,0,1,0,0,0,0,0,0,52.4,C
+MTR Gulab Jamun,SWEETS,283.64,50.36,2.55,8.0,4.0,0.0,47.82,23.64,0.0,12.73,8,2,1,0,1,1,0,0,0,0,0,0,43.2,C
+Sweet Karam Coffee Jaggery Coconut Burfi,SWEETS,393.0,55.3,1.3,18.5,16.1,0.0,50.5,27.0,2.3,2.5,5,1,0,0,0,1,0,0,0,0,0,0,37.8,C
+Sweet Karam Coffee White Sugar Free Ragi Laddu,SWEETS,373.0,78.8,7.2,3.2,0.5,0.7,0.0,3.1,11.1,0.0,6,1,0,1,0,1,0,0,0,0,1,0,84.5,A
+Lal Sweets Kala Jamun,SWEETS,336.0,62.0,4.0,8.0,2.0,0.0,38.0,22.0,0.0,18.0,6,1,1,0,0,1,0,0,0,0,0,0,54.5,C
+Daadi's Badam Laddoo Pure Ghee,SWEETS,485.2,71.98,7.1,18.76,10.23,0.0,29.02,3.8,7.2,10.7,7,1,0,0,0,1,0,0,0,0,0,0,54.2,C
+Go Desi Milk Malai Peda,SWEETS,432.44,74.29,12.85,9.32,6.17,0.0,35.02,170.22,2.6,34.27,3,1,2,0,0,1,0,0,0,1,0,0,53.0,C
+Nandini Dharwad Peda,SWEETS,459.0,59.0,10.8,20.0,12.0,0.0,49.0,0.0,0.0,0.0,2,1,0,0,0,1,0,0,0,0,0,0,41.5,C
+Grb Orange Soanpapdi,SWEETS,526.4,68.3,4.8,26.0,15.0,0.0,50.0,11.0,0.0,0.0,9,4,3,0,1,1,1,1,1,0,0,0,18.2,D
+Lal Mango Burfi,SWEETS,513.7,43.5,4.6,46.6,17.7,0.0,33.0,62.0,0.0,0.0,7,2,1,0,1,1,0,0,0,0,0,0,34.1,D
+Haldiram's Badam Halwa,SWEETS,470.0,78.8,5.2,9.07,4.4,0.0,29.18,5.0,0.5,0.0,8,3,2,0,1,1,0,1,1,0,0,0,45.0,C
+fresho! Signature Turkish Baklava,SWEETS,439.5,65.66,7.74,15.48,5.52,0.0,22.88,230.0,3.29,15.0,27,1,3,1,0,1,0,0,0,1,1,0,58.1,B
+Amul Rasmalai,SWEETS,181.0,17.0,7.2,9.6,5.8,0.0,16.0,16.0,0.0,34.0,6,1,1,0,0,1,0,0,1,0,0,0,65.4,B
+Amul Khoa,SWEETS,346.0,23.0,14.0,22.0,13.2,0.0,23.0,200.0,0.0,60.0,1,0,0,0,0,0,0,0,0,0,0,0,52.7,C
+Mithai Remix Mango Truffle Peda,SWEETS,743.0,45.3,11.0,59.6,37.1,0.0,33.6,379.0,0.1,203.0,4,0,0,0,0,0,0,0,0,0,0,0,36.4,C
+Lal Signature Horlicks Burfi,SWEETS,490.0,54.3,7.0,57.2,13.0,0.0,38.5,40.0,0.0,0.0,13,2,1,1,1,1,0,0,0,0,1,0,39.0,C
+Lal Signature Milk Cake,SWEETS,423.0,62.0,10.0,15.0,7.0,0.0,43.4,136.0,0.0,2.0,4,2,1,0,1,1,0,0,0,0,0,0,41.4,C
+Chitale Bandhu Mawa Modak,SWEETS,474.0,47.0,15.0,25.0,16.0,0.0,37.0,152.0,0.0,60.0,9,1,2,0,0,1,0,0,0,1,0,0,40.3,C
+Bansiwala Paan Petha,SWEETS,227.0,68.15,0.33,0.39,0.0,0.0,53.6,0.0,0.8,0.0,3,1,1,0,0,1,0,0,1,0,0,0,54.5,C
+Bansiwala Angoori Petha,SWEETS,227.0,68.15,0.33,0.39,0.0,0.0,53.6,0.0,0.8,0.0,2,1,0,0,0,1,0,0,0,0,0,0,56.0,B
+Nandini Millet Laddu,SWEETS,553.0,67.4,6.8,27.6,17.3,0.0,25.5,53.6,0.0,69.0,11,1,0,1,0,1,0,0,0,0,1,0,49.9,C
+Daadi's Atta Gond Laddoo,SWEETS,510.48,67.79,5.83,24.0,16.4,0.0,31.7,0.0,3.73,0.0,6,1,0,0,0,1,0,0,0,0,0,0,48.7,C
+Currychief Madras Sambar,INSTANT FOOD,178.0,18.3,7.4,8.3,0.0,0.0,0.0,0.0,0.0,0.0,19,0,0,0,0,0,0,0,0,0,0,0,85.5,A
+Yu Jalapeno Cheese,INSTANT FOOD,180.0,27.86,5.71,4.29,2.14,0.0,1.43,452.14,4.29,0.0,19,0,0,1,0,0,0,0,0,0,1,0,81.2,A
+MOM 3 Cheese Instant Pasta,INSTANT FOOD,392.9,69.1,12.1,8.1,2.7,0.0,4.0,392.9,4.0,0.0,17,1,3,0,0,1,0,0,1,0,0,0,71.5,B
+Maggi Masala Cuppa Noodles,INSTANT FOOD,387.0,52.5,7.1,17.2,12.2,0.38,3.2,944.3,0.0,0.0,26,2,4,0,1,1,0,0,1,0,0,0,29.6,D
+MAGGI 2-Minute Instant Noodles,INSTANT FOOD,384.0,59.6,8.2,12.5,8.2,0.13,1.8,1000.0,0.0,0.0,29,2,3,0,1,1,0,0,0,0,0,0,38.4,C
+MTR Vegetable Upma,INSTANT FOOD,252.0,41.7,4.8,6.8,4.0,0.0,2.4,700.0,2.4,0.0,15,3,1,0,1,1,1,0,0,0,0,0,50.1,C
+MOM Cheesy Peri Peri Instant Pasta,INSTANT FOOD,379.4,74.5,9.4,5.4,1.3,0.0,8.1,691.0,5.4,0.0,26,3,3,0,1,1,1,0,1,0,0,0,59.9,B
+Currychief Chettinad Curry,INSTANT FOOD,206.0,0.5,2.9,21.0,0.0,0.0,1.9,0.0,1.2,0.0,19,0,0,0,0,0,0,0,0,0,0,0,81.8,A
+MOM Poha With Bhujia,INSTANT FOOD,430.0,71.0,9.0,12.0,2.0,0.0,7.0,1310.0,5.0,0.0,27,2,1,0,1,1,0,0,0,0,0,0,57.8,B
+Maggi Chilly Chow Cuppa Noodles,INSTANT FOOD,388.0,53.1,7.5,16.5,13.0,0.18,2.5,988.8,0.0,0.0,26,2,3,0,1,1,0,0,0,0,0,0,33.0,D
+MTR Breakfast Khatta Meetha Poha Mix,INSTANT FOOD,408.33,73.33,6.67,9.83,5.0,0.0,9.0,800.0,2.5,0.0,14,3,1,0,1,1,1,0,0,0,0,0,42.9,C
+Maggi Chicken Instant Noodles,INSTANT FOOD,402.0,66.1,7.8,11.8,7.6,0.12,1.1,999.9,0.0,1.4,31,2,4,0,1,1,0,0,1,0,0,0,35.1,C
+Maggi Special Masala Instant Noodles,INSTANT FOOD,397.0,60.3,9.6,13.1,7.7,0.13,2.3,939.3,0.0,0.0,46,2,3,0,1,1,0,0,0,0,0,0,40.2,C
+Gits Paneer Tikka Masala Ready to Eat,INSTANT FOOD,164.0,6.0,8.0,12.0,6.2,0.0,0.2,290.0,0.0,8.0,27,1,0,0,0,1,0,0,0,0,0,0,66.9,B
+Gits Veg Biryani Ready to Eat,INSTANT FOOD,157.0,23.0,3.3,5.8,2.0,0.01,0.0,575.0,0.0,4.0,24,0,0,0,0,0,0,0,0,0,0,0,69.1,B
+Eastern 5 Min Instant Breakfast Idiyappam Ready Mix,INSTANT FOOD,343.0,78.0,7.7,0.5,0.0,0.0,0.7,389.0,2.2,0.0,3,0,1,0,0,0,0,0,0,0,0,0,76.7,A
+Currychief Madras Sambar,INSTANT FOOD,178.0,18.3,7.4,8.3,0.0,0.0,12.8,0.0,1.2,0.0,19,0,0,0,0,0,0,0,0,0,0,0,83.6,A
+MTR Dosa Instant Mix,INSTANT FOOD,362.0,65.0,12.0,6.0,3.0,0.0,0.0,1340.0,5.5,0.0,8,2,2,0,1,0,1,0,0,0,0,0,58.1,B
+Cookd Black Pepper Kit,INSTANT FOOD,238.32,36.51,6.27,7.47,1.04,0.0,2.38,956.15,0.0,0.0,14,0,2,0,0,0,0,0,0,0,0,0,60.6,B
+MTR Roasted Vermicelli,INSTANT FOOD,341.0,75.0,8.0,1.0,0.0,0.0,0.0,8.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,83.6,A
+Aashirvaad Rava Idli Instant Mix,INSTANT FOOD,368.0,74.8,8.8,3.7,1.2,0.03,1.7,1242.5,0.0,0.0,11,1,2,0,1,0,0,0,0,0,0,0,56.6,B
+MTR Breakfast Rava Dosa Mix,INSTANT FOOD,350.5,73.0,9.0,2.5,1.0,0.0,0.0,560.0,3.85,0.0,8,1,2,0,0,0,1,0,0,0,0,0,71.2,B
+Yu Cheesy VEG Carbonara - Korean Ramen Noodles,INSTANT FOOD,195.0,20.0,5.3,6.1,2.7,0.0,4.2,347.0,3.4,0.0,18,1,0,0,0,1,0,0,0,0,0,0,76.0,A
+Too Yumm K-Bomb Ramen Hot n Spicy Instant Noodles,INSTANT FOOD,431.0,66.0,11.4,13.7,3.7,0.0,4.0,1852.0,0.0,0.0,28,1,4,0,0,1,0,0,1,0,0,0,48.2,C
+Maggi Nutri-licious Masala Veg Atta Noodles,INSTANT FOOD,314.0,50.4,7.7,10.3,8.5,0.15,2.5,798.9,0.0,0.0,4,0,0,1,0,0,0,0,0,0,1,0,57.5,B
+Maggi Korean BBQ Veg Instant Noodles,INSTANT FOOD,321.0,41.6,8.2,13.5,7.6,0.14,3.2,915.7,0.0,0.0,29,2,4,0,1,1,0,0,1,0,0,0,38.7,C
+YiPPee! Magic Masala Noodles with Added Veggies,INSTANT FOOD,459.0,62.6,9.0,20.1,10.7,0.1,3.0,1247.1,0.0,0.0,6,2,4,0,1,1,0,0,1,0,0,0,31.5,D
+Sunfeast Yippee! Korean Noodles Fiery Hot,INSTANT FOOD,439.0,64.7,8.5,17.1,8.6,0.1,2.7,1770.6,0.0,0.0,42,2,4,0,1,1,0,0,1,0,0,0,35.1,C
+Yu Zingy Cheese Instant Cup Noodles,INSTANT FOOD,347.0,31.8,6.3,21.6,7.2,0.2,7.7,914.0,0.0,0.0,17,2,1,0,1,1,0,0,0,0,0,0,36.0,C
+Bambino Elbow Macaroni Pasta,INSTANT FOOD,357.0,75.0,12.0,1.0,0.2,0.0,2.0,0.0,0.0,0.0,6,0,0,0,0,0,0,0,0,0,0,0,83.6,A
+Del Monte Penne Rigate Pasta Durum Wheat,INSTANT FOOD,350.0,71.0,12.0,1.2,0.3,0.0,3.2,0.0,3.5,0.0,1,0,0,0,0,0,0,0,0,0,0,0,89.1,A
+Ruchi magic Garlic Pickle,INSTANT FOOD,123.0,5.0,2.5,10.0,2.5,0.0,2.0,1200.0,0.0,0.0,13,1,2,0,0,1,0,0,0,1,0,0,53.0,C
+MasterChow Hot and Spicy Schezwan Chutney,INSTANT FOOD,146.0,17.6,2.1,7.4,1.5,0.1,13.8,2256.0,0.0,0.0,16,1,2,0,0,1,0,0,0,1,0,0,49.4,C
+Priya Lime Pickle In Lime Juice With Garlic,INSTANT FOOD,72.0,12.8,2.0,1.4,0.1,0.0,0.3,7284.0,0.0,0.0,7,0,0,0,0,0,0,0,0,0,0,0,65.5,B
+Keya Malabar Chicken Pickle,INSTANT FOOD,202.0,7.2,12.5,13.6,0.0,0.0,0.0,4.0,0.0,0.0,10,1,2,0,0,1,0,0,0,1,0,0,80.3,A
+The Little Farm Co. Mixed Gobhi Gajar Shalgum Pickle,INSTANT FOOD,118.0,13.0,1.0,9.0,0.0,0.0,20.0,0.0,0.0,0.0,13,1,0,0,0,1,0,0,0,0,0,0,68.7,B
+Dnv Appalam,INSTANT FOOD,325.0,1.4,18.5,0.6,0.0,0.0,0.0,218.0,0.0,0.0,7,0,0,0,0,0,0,0,0,0,0,0,80.0,A
+Wellfry Sabudana Red Chilli Papad,INSTANT FOOD,333.9,79.64,6.65,0.1,0.0,0.0,0.0,80.0,0.0,0.0,2,0,0,0,0,0,0,0,0,0,0,0,81.8,A
+Del Monte Sliced Black Olives,INSTANT FOOD,125.0,3.0,0.5,13.0,2.3,0.1,0.0,720.0,3.0,0.0,4,0,1,0,0,0,0,0,0,0,0,0,65.8,B
+Priya Mango Avakaya Pickle With Garlic,INSTANT FOOD,206.0,14.9,3.1,14.9,2.3,0.0,8.9,5231.0,0.0,0.0,8,0,0,0,0,0,0,0,0,0,0,0,56.4,B
+Daishik Green Chutney,INSTANT FOOD,401.7,76.3,14.8,8.2,0.0,0.0,0.0,191.4,0.0,0.0,5,0,0,0,0,0,0,0,0,0,0,0,78.2,A
+MTR Instant Badam Drink Mix,INSTANT FOOD,57.4,12.0,0.72,0.72,0.06,0.0,11.4,8.0,0.0,0.0,3,1,0,0,0,1,0,0,0,0,0,0,74.2,B
+MTR Schezwan Idli Mix,INSTANT FOOD,340.0,67.0,13.0,2.3,1.1,0.0,47.0,0.0,0.0,0.0,21,1,1,1,0,1,0,0,1,0,1,0,61.1,B
+MTR Gourmet Butter Idli Mix,INSTANT FOOD,340.0,67.0,13.0,2.3,1.1,0.0,47.0,0.0,0.0,0.0,6,0,1,0,0,0,0,0,0,0,0,0,62.1,B
+Gits Khaman Dhokla Instant Snack Mix,INSTANT FOOD,370.0,67.0,16.0,4.2,0.4,0.0,19.0,1821.0,11.35,0.0,8,1,1,0,0,1,0,0,0,0,0,0,61.8,B
+Golden Prize Tuna Spread In Mayonnaise,INSTANT FOOD,83.72,7.44,10.23,1.4,0.0,0.0,2.33,581.4,0.0,0.0,12,1,1,0,0,1,0,0,0,0,0,0,72.7,B
+Cookd Tandoori Tikka Kit,INSTANT FOOD,316.7,32.6,11.59,16.34,2.56,0.0,3.88,9107.6,17.0,0.0,26,0,2,0,0,0,0,0,0,0,0,0,69.7,B
+Wok N Roll Manchurian Masala,INSTANT FOOD,360.0,53.3,3.9,0.1,0.0,0.0,11.3,4340.0,0.0,0.0,32,1,3,0,0,1,0,0,1,0,0,0,47.9,C
+Happa Cereal Sprouted Ragi | Mango | Banana,INSTANT FOOD,385.0,86.9,5.5,1.8,0.9,0.0,19.8,36.9,0.0,0.0,3,0,0,1,0,0,0,0,0,0,1,0,75.7,A
+Gladful Choco Pancake Sprouted Millets and Masoor Mix,INSTANT FOOD,307.0,61.9,10.0,2.1,0.0,0.0,18.9,360.0,4.5,0.0,9,1,0,1,0,1,0,0,0,0,1,0,79.0,A
+Madmix Oats Idli With Free Chutney,INSTANT FOOD,361.88,73.94,11.75,1.61,0.36,0.0,0.0,488.49,0.0,0.0,13,0,0,1,0,0,0,0,0,0,1,0,77.5,A
+Surya Panipuri Masala,INSTANT FOOD,0.0,7.0,1.0,0.0,0.0,0.0,0.0,2050.0,0.0,0.0,12,0,0,0,0,0,0,0,0,0,0,0,63.6,B
+Currychief Chicken Curry,INSTANT FOOD,172.0,0.5,2.5,7.2,0.0,0.0,0.9,0.0,1.2,0.0,19,0,0,0,0,0,0,0,0,0,0,0,81.8,A
+Hocco Pindi Chole Rice Combo,INSTANT FOOD,121.06,8.24,3.77,8.11,2.52,0.0,3.77,362.61,0.0,0.0,24,0,0,0,0,0,0,0,0,0,0,0,72.7,B
+Hocco Chana Masala,INSTANT FOOD,277.16,26.45,3.6,17.4,11.25,0.0,2.1,385.67,0.0,0.0,18,0,0,0,0,0,0,0,0,0,0,0,54.5,C
+Hocco Bisebelle Bhath,INSTANT FOOD,114.29,18.62,2.64,3.25,1.29,0.0,2.35,427.51,0.0,0.0,9,0,0,0,0,0,0,0,0,0,0,0,72.7,B
+Hocco Mumbai Bhaji,INSTANT FOOD,148.0,16.67,2.0,8.0,6.0,0.0,0.0,400.0,0.0,0.0,20,0,0,0,0,0,0,0,0,0,0,0,63.6,B
+Hocco Smoked Paneer,INSTANT FOOD,239.0,25.0,5.5,13.0,7.0,0.0,0.0,100.0,0.0,0.0,29,0,0,0,0,0,0,0,0,0,0,0,69.1,B
+Real Thai Rice Paper,INSTANT FOOD,333.33,79.17,4.17,0.0,0.0,0.0,0.0,1416.67,0.0,0.0,4,0,0,0,0,0,0,0,0,0,0,0,60.0,B
+Pintola Organic Wholegrain Brown Rice Cakes,INSTANT FOOD,378.0,81.0,7.9,2.2,0.2,0.0,0.0,71.2,7.1,0.0,2,0,0,1,0,0,0,0,0,0,1,0,93.9,A
+Wakao Jackfruit Biryani,INSTANT FOOD,105.44,21.09,2.61,1.67,0.87,0.0,5.6,382.24,0.79,0.0,18,0,1,0,0,0,0,0,1,0,0,0,71.2,B
+Hocco Dal Makhani,INSTANT FOOD,378.68,46.13,4.64,19.52,11.04,0.0,0.0,481.11,0.0,0.0,17,1,0,0,0,1,0,0,0,0,0,0,46.9,C
+Hocco Dum Aloo,INSTANT FOOD,73.55,15.55,1.44,0.62,0.0,0.0,2.56,128.79,2.84,0.0,24,0,0,0,0,0,0,0,0,0,0,0,85.5,A
+Gits Heat & Eat Pau Bhaji,INSTANT FOOD,159.0,14.9,5.7,8.8,3.7,0.1,0.0,465.0,0.0,14.0,25,0,0,0,0,0,0,0,0,0,0,0,70.9,B
+Knorr Chinese Manchurian Gravy Mix,INSTANT FOOD,324.0,67.3,8.1,2.5,1.2,0.02,22.3,6709.0,2.1,0.0,13,3,2,0,1,1,1,0,0,0,0,0,45.0,C
+Wakao Hot & Spicy Sausage,INSTANT FOOD,160.5,7.2,5.7,12.1,1.8,0.0,1.8,856.4,5.2,0.0,13,1,3,0,0,1,0,0,1,0,0,0,66.0,B
+Kitchens Of India Rajma Masala,INSTANT FOOD,116.0,15.4,4.0,4.2,1.5,0.1,0.0,0.0,0.0,0.0,10,0,0,0,0,0,0,0,0,0,0,0,81.8,A
+Nestle Cerelac Wheat Apple Carrot Baby Food Cerea,INSTANT FOOD,427.0,65.0,15.0,12.5,5.5,0.08,20.0,0.0,3.0,10.0,7,0,0,1,0,0,0,0,0,0,1,0,73.9,B
+Nestle Cerelac Multigrain & Fruits Baby Food Cereal,INSTANT FOOD,412.0,68.1,15.0,9.4,4.8,0.04,23.5,0.0,2.4,12.0,12,1,0,1,0,1,0,0,0,0,1,0,68.1,B
+Slurrp Farm No Added Sugar,INSTANT FOOD,377.8,81.3,8.7,1.9,0.5,0.0,0.0,4.3,4.7,0.0,1,0,0,1,0,0,0,0,0,0,1,0,95.7,A
+Slurrp Farm Ragi Rice Strawberry Instant Healthy Cereal,INSTANT FOOD,375.9,76.7,13.1,1.8,0.9,0.0,11.7,80.0,5.2,0.0,7,0,0,1,0,0,0,0,0,0,1,0,92.1,A
+Slurrp Farm No Added Sugar Cereal - Ragi Rice and Mango with Milk,INSTANT FOOD,386.7,80.8,13.4,1.1,0.5,0.0,15.0,27.5,6.4,0.0,7,0,0,1,0,0,0,0,0,0,1,0,90.3,A
+The Select Aisle Dark Chocolate Chips,INSTANT FOOD,558.0,62.0,2.7,33.0,0.0,0.0,54.0,0.0,0.0,0.0,5,2,1,0,0,1,1,0,0,0,0,0,45.0,C
+Puramate Tooty Fruity Mix,INSTANT FOOD,302.09,74.3,0.66,0.25,0.2,0.1,71.0,0.0,0.0,0.0,4,1,2,0,0,1,0,0,0,1,0,0,51.2,C
+Betty Crocker Triple Chocolate Brownie Instant Cake Mix Powder,INSTANT FOOD,1634.0,81.6,3.4,4.6,2.2,0.1,54.3,228.0,0.0,0.0,18,2,2,0,0,1,1,0,0,0,0,0,30.8,D
+Pillsbury VANILLA CAKE Custard Powder,INSTANT FOOD,360.0,89.8,0.2,0.0,0.0,0.0,0.0,0.0,0.0,0.0,4,1,2,0,0,0,0,1,1,0,0,0,67.5,B
+Amul Mithai Mate Condensed Sweetened Milk Tin,INSTANT FOOD,331.0,55.0,7.5,9.0,5.4,0.0,55.0,100.0,0.0,27.0,2,1,0,0,0,1,0,0,0,0,0,0,48.7,C
+Hershey's Cocoa Powder,INSTANT FOOD,409.0,57.9,19.6,11.0,0.0,0.0,1.75,33.2,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,81.8,A
+Nestle Milkmaid Partly Skimmed Sweetened Condensed Milk,INSTANT FOOD,303.0,58.4,8.5,3.9,2.9,0.0,58.4,110.0,0.0,11.0,2,1,0,0,0,1,0,0,0,0,0,0,57.8,B
+Double Horse Rice Palada Payasam Mix,INSTANT FOOD,276.0,64.0,4.0,0.0,0.0,0.0,0.0,140.0,0.0,0.0,4,1,0,0,0,1,0,0,0,0,0,0,74.2,B
+Pillsbury Butterscotch Flavour Pancake Mix,INSTANT FOOD,381.0,73.2,8.2,5.8,2.7,0.0,20.6,728.0,0.0,0.0,10,2,3,0,0,1,1,0,1,0,0,0,45.7,C
+MTR Gulab Jamun Mix,INSTANT FOOD,390.0,60.0,14.6,10.4,6.6,0.0,3.3,710.0,0.0,0.0,5,2,2,0,1,0,1,0,0,0,0,0,49.0,C
+Pillsbury Chocolate Flavour Pancake Mix 2-Minute Pancake Mix For Kids,INSTANT FOOD,372.0,74.5,8.1,5.3,2.5,0.0,27.9,677.0,0.0,0.0,11,1,3,0,0,1,0,0,1,0,0,0,47.9,C
+Gits Rabdi Instant Dessert Mix,INSTANT FOOD,360.0,68.0,20.0,0.8,0.0,0.0,52.0,320.0,0.0,0.0,5,0,0,0,0,0,0,0,0,0,0,0,60.0,B
+Weikfield Jelly Crystals Strawberry Flavour Carton,INSTANT FOOD,396.0,98.5,0.4,0.1,0.0,0.0,91.7,0.0,0.0,0.0,9,2,2,0,0,1,0,1,1,0,0,0,45.4,C
+ACT II Sweet & Salty Popcorn,INSTANT FOOD,521.0,63.0,5.0,28.0,12.0,0.0,23.0,0.7,6.0,0.0,5,2,1,0,1,1,0,0,0,0,0,0,48.7,C
+4700BC Butter Popcorn,INSTANT FOOD,464.7,66.4,9.4,17.9,5.1,0.0,1.9,335.0,3.8,0.0,5,0,0,0,0,0,0,0,0,0,0,0,74.5,B
+Quaker Oats Breakfast Cereal,INSTANT FOOD,407.0,68.5,11.8,9.5,1.9,0.0,1.8,9.5,10.0,0.0,8,1,1,1,0,1,0,0,1,0,1,0,86.6,A
+Kellogg's Muesli Fruit Nut & Seeds 12-in-1 Power Breakfast,INSTANT FOOD,386.0,80.0,8.1,5.1,0.9,0.0,20.8,140.0,0.0,0.0,27,1,3,1,0,1,0,0,1,0,1,0,69.0,B
+Tata Soulfull Ragi Bites Choco Fills,INSTANT FOOD,554.0,74.5,5.1,15.1,11.2,0.0,29.3,126.0,6.7,0.0,15,2,2,1,1,1,0,0,1,0,1,0,46.5,C
+Kellogg's Multigrain Chocos,INSTANT FOOD,373.0,81.0,9.0,3.0,1.2,0.0,97.5,250.0,7.0,0.0,15,2,2,1,1,1,0,0,1,0,1,0,61.1,B
+Kellogg's Corn Flakes With Real Strawberry,INSTANT FOOD,381.0,89.9,4.1,0.8,0.5,0.0,32.5,470.0,1.2,0.0,9,1,1,0,0,1,0,0,0,0,0,0,52.7,C
+Yoga Bar Super High Protein Muesli,INSTANT FOOD,198.0,27.5,11.6,5.4,2.0,0.0,8.8,134.0,3.5,2.0,22,1,0,1,0,1,0,0,0,0,1,0,84.5,A
+"Yoga Bar Wholegrain Breakfast Muesli-Dark Chocolate+Cranberry,Granola",INSTANT FOOD,437.0,67.0,12.3,13.3,0.0,0.0,6.7,90.6,9.4,0.0,22,1,0,1,0,1,0,0,0,0,1,0,86.3,A
+Manna Oats Pouch,INSTANT FOOD,382.0,57.0,11.0,10.0,2.0,0.0,1.5,6.0,4.0,0.0,16,0,0,0,0,0,0,0,0,0,0,0,87.3,A
+"Saffola Oats, Instant Rolled Oats",INSTANT FOOD,369.0,66.8,12.6,8.0,1.6,0.0,0.5,5.0,6.1,0.0,1,0,0,1,0,0,0,0,0,0,1,0,93.9,A
+Saffola Masala Oats,INSTANT FOOD,365.79,70.53,8.68,7.63,1.84,0.0,6.05,2088.95,9.74,0.0,16,1,2,1,0,1,0,0,0,0,1,0,66.9,B
+Kwality Classic Masala Oats - Box,INSTANT FOOD,360.0,54.1,10.0,4.9,0.6,0.0,5.0,2131.0,8.0,0.0,29,1,2,1,0,1,0,0,0,0,1,0,68.7,B
+Pintola High Protein Oats Dark Chocolate With Almonds Raisin Pumpkin And Chia Seeds,INSTANT FOOD,392.0,64.6,25.0,8.0,2.1,0.0,14.0,130.0,9.6,0.0,11,1,1,1,0,1,0,0,0,0,1,0,79.3,A
+Yoga Bar Breakfast Cereal & Muesli,INSTANT FOOD,389.0,70.0,11.5,8.5,1.5,0.0,3.0,16.3,7.0,0.0,18,1,0,1,0,1,0,0,0,0,1,0,89.9,A
+Kellogg's Chocolate Muesli,INSTANT FOOD,444.0,71.4,7.7,15.5,6.8,0.0,26.9,227.0,6.0,0.0,28,2,3,1,1,1,0,0,1,0,1,0,56.0,B
+Kissan Fresh Tomato Ketchup,SAUCE,133.0,31.0,1.1,0.4,0.03,0.0,29.2,948.0,0.6,0.0,11,1,2,0,0,1,0,0,0,1,0,0,43.9,C
+"Ching's Secret Dark Soy Sauce, Rich, Brown and Zesty",SAUCE,115.0,28.1,0.7,0.0,0.0,0.0,20.9,6693.0,0.0,0.0,8,1,2,0,0,1,0,0,0,1,0,0,47.5,C
+Veeba Smokey Barbeque Sauce,SAUCE,110.9,27.1,0.4,0.1,0.0,0.0,23.3,1100.0,0.0,0.0,9,1,2,0,0,1,0,0,0,1,0,0,45.7,C
+Veeba Peri Peri Hot Sauce,SAUCE,64.8,7.7,0.4,3.6,0.6,0.0,3.0,1520.0,0.0,0.0,13,1,3,0,0,1,0,0,1,1,0,0,55.1,B
+Knorr Sauce Pizza and Pasta,SAUCE,82.0,13.9,1.3,2.4,0.4,0.04,10.6,921.0,0.0,0.0,16,1,2,0,0,1,0,0,0,1,0,0,51.2,C
+Knorr Red Chilli Sauce,SAUCE,97.0,23.1,0.8,0.2,0.0,0.0,19.2,732.0,0.9,0.0,12,1,3,0,0,1,0,0,1,1,0,0,51.5,C
+Tabasco Red Pepper Sauce,SAUCE,16.0,1.59,0.0,0.0,0.0,0.0,1.0,687.0,0.0,0.0,3,0,0,0,0,0,0,0,0,0,0,0,69.1,B
+MasterChow Spicy Sichuan Chilli Oil,SAUCE,42.0,2.0,1.0,4.0,0.0,0.0,1.0,0.0,0.0,0.0,13,1,0,0,0,1,0,0,0,0,0,0,77.8,A
+Habanero Herb-Infused Alfredo Style White Pasta Sauce,SAUCE,440.0,13.4,0.9,42.6,7.4,0.0,4.4,0.0,0.0,0.0,15,1,3,0,0,1,0,0,1,1,0,0,51.5,C
+Wingreens Farms honey-mustard-sauce,SAUCE,278.8,29.6,3.1,16.5,1.3,0.2,23.9,579.5,0.0,0.14,10,1,1,0,0,1,0,0,0,0,0,0,49.0,C
+Ching's Secret Green Chilli Sauce,SAUCE,42.2,10.4,0.2,0.2,0.0,0.0,6.6,1803.0,0.0,0.0,13,1,2,0,0,1,0,0,0,1,0,0,54.8,C
+Ong's Spring Roll Sauce,SAUCE,140.0,33.75,1.25,0.0,0.0,0.0,23.12,1237.5,0.0,0.0,11,1,1,0,0,1,0,0,0,0,0,0,47.2,C
+Ong's Bird Eye Chilli Sauce,SAUCE,61.25,9.38,1.88,1.25,1.25,0.0,7.5,12.5,3.12,0.0,8,1,1,0,0,1,0,0,0,0,0,0,80.0,A
+Dr. Oetker FunFoods Pizza Topping All-in-One Sauce,SAUCE,11.55,2.16,5.03,0.86,0.05,0.0,9.25,591.95,0.0,0.0,13,1,1,0,0,1,0,0,0,0,0,0,67.2,B
+Saucery Roasted Garlic And Spring Onion Dip,SAUCE,162.16,10.05,5.56,11.08,8.65,0.0,8.28,0.0,0.0,0.0,4,0,0,0,0,0,0,0,0,0,0,0,67.3,B
+Wingreens Farms Premium Veg Mayo,SAUCE,283.1,13.8,0.4,25.1,4.3,0.5,8.5,683.8,0.0,0.3,12,1,2,0,0,1,0,0,0,1,0,0,43.9,C
+Wingreens Farms Tandoori Mayo,SAUCE,281.0,14.4,1.0,24.4,2.2,0.0,0.5,8.1,653.7,0.31,12,1,2,0,0,1,0,0,0,1,0,0,74.8,B
+Wingreens Farms Chipotle Mayo Sauce And Spread,SAUCE,256.0,16.1,0.5,21.0,1.9,0.4,10.9,1062.5,0.0,0.3,14,1,2,0,0,1,0,0,0,1,0,0,42.1,C
+Wingreens Classic VEG Mayo,SAUCE,202.0,14.5,0.0,16.0,1.4,0.03,7.5,800.0,0.0,0.9,10,1,2,0,0,1,0,0,0,1,0,0,53.0,C
+Nutella Hazelnut Spread with Cocoa,SPREAD,539.0,57.5,6.3,30.9,10.6,0.1,56.3,0.0,0.0,0.0,7,2,2,0,1,1,0,0,1,0,0,0,29.0,D
+Hershey's Cocoa + Almond Spread,SPREAD,550.0,64.0,2.2,31.6,13.0,0.3,61.0,140.0,0.0,10.0,9,3,2,0,1,1,1,0,1,0,0,0,17.7,D
+Eatopia Mulberry Fruit Honey Jam,SPREAD,279.33,68.67,0.67,0.0,0.0,0.0,61.33,30.0,2.67,0.0,4,1,1,0,0,1,0,0,0,0,0,0,56.3,B
+Eatopia Mixedberry Honey Jam Spread,SPREAD,284.0,70.0,0.67,0.0,0.0,0.0,63.33,28.0,2.67,0.0,6,1,1,0,0,1,0,0,0,0,0,0,56.3,B
+Eatopia Strawberry Fruit Honey Jam Spread,SPREAD,287.33,72.0,0.0,0.0,0.0,0.0,62.0,25.33,3.33,0.0,4,1,0,0,0,1,0,0,0,0,0,0,59.6,B
+Habanero Basil Pesto Dip,SPREAD,285.0,8.95,1.82,26.88,4.2,0.13,5.35,1360.88,0.0,0.2,16,1,4,0,0,1,0,0,1,1,0,0,40.9,C
+Oetker FunFoods Pesto Italian Sauce,SPREAD,319.0,9.1,0.0,6.0,0.0,0.0,2.5,1330.6,0.0,0.0,13,1,2,0,0,1,0,0,0,1,0,0,51.2,C
+Habanero Jalapeno Cheese Dip,SPREAD,272.2,10.18,0.79,25.43,4.15,0.0,4.69,903.84,0.0,1.28,16,1,3,0,0,1,0,0,1,1,0,0,40.6,C
+Veeba Sandwich Spread Cheese & Chilli,SPREAD,386.3,10.0,2.2,37.5,6.5,0.0,4.9,820.0,0.0,0.0,17,1,3,0,0,1,0,0,1,1,0,0,38.8,C
+Saffola Foods Honey Active,SPREAD,325.0,81.0,0.25,0.0,0.0,0.0,81.0,13.0,0.0,0.0,1,1,0,0,0,1,0,0,0,0,0,0,52.4,C
+Kissan Mixed Fruit Jam,SPREAD,285.0,70.5,0.3,0.1,0.0,0.0,68.1,51.0,0.8,0.0,16,1,2,0,0,1,0,0,0,1,0,0,51.2,C
+Kissan Mango Jam,SPREAD,281.0,70.5,0.3,0.2,0.0,0.0,67.5,19.0,2.7,0.0,7,1,3,0,0,1,0,0,1,1,0,0,55.1,B
+Dr. Oetker Funfoods Stripes - Mayo & Ketchup,SPREAD,506.1,10.2,1.7,51.0,8.6,0.0,9.1,886.7,0.0,0.0,15,1,3,0,0,1,0,0,1,1,0,0,29.7,D
+Sweetmate Sugar Free Strawberry Jam,SPREAD,317.0,78.7,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0,2,0,0,0,0,0,0,1,0,0,73.4,B
+Sweetmate Sugar Free Pineapple Jam,SPREAD,326.71,81.27,0.4,0.0,0.0,0.0,0.0,0.0,0.0,0.0,5,0,2,0,0,0,0,0,0,1,0,0,71.5,B
+ADF Soul Sriracha Dip,SPREAD,513.33,115.33,6.0,4.0,1.33,0.0,100.67,4026.67,5.33,0.0,18,1,3,0,0,1,0,0,0,1,0,0,38.8,C
+ADF Soul Twisty Tamarind Dip,SPREAD,227.0,50.8,1.2,3.0,0.4,0.0,42.1,558.0,3.6,0.0,16,1,2,0,0,1,0,0,0,1,0,0,51.2,C
+Pintola Classic Peanut Butter - Creamy,SPREAD,605.0,22.0,26.0,44.6,9.0,0.0,9.0,280.0,7.2,0.0,3,1,1,0,0,1,0,0,0,0,0,0,56.3,B
+Pintola Dark Chocolate Peanut Butter,SPREAD,580.0,36.4,18.6,40.0,11.0,0.0,19.0,50.0,0.0,0.0,7,1,1,0,0,1,0,0,0,0,0,0,47.2,C
+The Whole Truth Crunchy Unsweetened Peanut Butter,SPREAD,228.0,6.2,8.8,16.9,1.8,0.0,1.2,0.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,85.5,A
+Bournvita Chocolate,INSTANT FOOD,381.0,86.0,7.0,1.8,0.9,0.0,46.0,175.0,3.5,0.0,15,1,2,1,0,1,0,0,1,0,1,0,63.3,B
+Horlicks Nutrition Drink Jar,INSTANT FOOD,377.0,79.0,11.0,2.0,0.0,0.0,46.0,0.0,0.0,0.0,14,1,1,1,0,1,0,0,0,0,1,0,63.0,B
+Vahdam Japanese Matcha Green Tea,INSTANT FOOD,152.0,38.0,0.0,0.0,0.0,0.0,0.0,38.0,0.0,0.0,1,0,0,0,0,0,0,0,0,0,0,0,80.0,A
+Manna Health Mix- Multigrain Drink For Kids,INSTANT FOOD,380.0,76.0,10.0,4.0,0.0,0.0,0.0,50.0,10.0,0.0,12,0,0,1,0,0,0,0,0,0,1,0,95.7,A
+ITC Master Chef Chili Garlic Potato Shots Nuggets,INSTANT FOOD,177.0,25.5,2.5,7.2,3.2,0.0,0.3,496.1,0.0,0.0,12,2,0,0,1,1,0,0,0,0,0,0,57.5,B
+Hyfun Sabudana Tikki,INSTANT FOOD,154.0,26.62,1.54,4.54,2.07,0.0,0.0,303.81,1.7,0.0,10,0,1,0,0,0,0,0,0,0,0,0,71.2,B
+Hyfun Aloo Tikki,INSTANT FOOD,167.0,24.51,3.92,5.87,2.52,0.0,0.0,559.4,1.39,0.0,3,0,0,0,0,0,0,0,0,0,0,0,69.1,B
+Hyfun Burger Patty,INSTANT FOOD,174.0,9.12,12.65,9.66,5.46,0.0,0.0,356.64,1.81,0.0,24,2,2,0,1,1,0,0,0,0,0,0,65.4,B
+ITC Master Chef Peri Peri French Fries,INSTANT FOOD,121.0,21.9,3.4,4.4,2.3,0.0,1.1,275.1,0.0,0.0,16,2,2,0,1,1,0,0,0,0,0,0,63.5,B
+ITC Master Chef Crispy Onion Rings,INSTANT FOOD,229.0,30.3,4.7,9.9,5.0,0.11,3.15,390.2,0.0,1.0,17,2,1,0,1,1,0,0,0,0,0,0,56.0,B
+Hyfun Jalapeno Cheesy Pops,INSTANT FOOD,195.9,12.72,7.5,12.78,11.72,0.0,3.46,273.54,2.45,8.29,2,3,2,0,1,1,1,0,0,1,0,0,50.5,C
+McCain Mini Samosa - Cheese Corn,INSTANT FOOD,294.0,33.2,7.0,14.8,7.3,0.07,5.13,358.0,0.0,26.54,16,0,2,0,0,0,0,0,0,0,0,0,60.6,B
+Prasuma Pizza Minis - Veg Supreme,INSTANT FOOD,226.49,9.9,10.64,11.57,6.1,0.02,0.8,887.1,0.0,10.0,21,1,2,0,0,1,0,0,0,0,0,0,53.0,C
+Prasuma Pizza Minis - Paneer Tikka,INSTANT FOOD,320.24,32.66,15.27,6.28,7.5,0.01,0.62,818.71,0.0,10.0,5,1,3,0,0,1,0,0,0,0,0,0,47.9,C
+Prasuma BBQ Chicken Bao Buns,INSTANT FOOD,240.71,32.67,11.87,6.95,2.06,0.03,9.38,349.57,0.0,3.21,18,1,3,0,0,1,0,0,0,0,0,0,64.2,B
+Prasuma Bao Buns - Butter Chicken,INSTANT FOOD,242.59,34.46,8.75,7.75,3.47,0.23,6.69,365.43,0.0,14.26,20,1,3,0,0,1,0,0,0,0,0,0,60.6,B
+Prasuma Veg Spring Rolls,INSTANT FOOD,198.48,32.35,6.11,4.96,2.35,0.02,2.7,530.46,0.0,0.95,20,1,2,0,0,1,0,0,0,0,0,0,63.9,B
+Prasuma Bao Buns - Veg Pizza,INSTANT FOOD,258.06,34.75,9.02,9.22,3.72,0.31,5.88,374.56,0.0,6.34,20,1,3,0,0,1,0,0,0,0,0,0,60.6,B
+Prasuma Desi Chicken Momos,INSTANT FOOD,216.2,21.37,8.65,10.68,3.06,0.01,3.67,550.35,0.0,2.82,12,0,3,0,0,0,0,0,0,0,0,0,66.4,B
+Prasuma Frozen Chicken Shammi Kabab,INSTANT FOOD,288.07,13.28,20.96,16.79,3.47,0.1,1.87,600.1,0.0,151.47,12,0,1,0,0,0,0,0,0,0,0,0,67.6,B
+Prasuma Frozen Chicken Seekh Kabab,INSTANT FOOD,164.41,14.44,15.66,4.89,1.72,0.0,1.11,1084.01,138.78,0.0,8,0,0,0,0,0,0,0,0,0,0,0,76.4,A
+Prasuma Chilli Prawn Momos,INSTANT FOOD,202.24,18.71,10.52,9.48,1.7,0.03,4.32,487.58,0.0,2.18,13,0,4,0,0,0,0,0,0,1,0,0,70.4,B
+Prasuma Cheesy Spicy Vegetable Momos,INSTANT FOOD,207.35,24.31,5.5,9.79,3.45,0.14,4.86,456.91,0.0,29.58,13,0,3,0,0,0,0,0,0,0,0,0,62.8,B
+Prasuma Chicken Spring Rolls,INSTANT FOOD,197.13,27.33,8.97,5.77,1.39,0.03,2.11,450.47,0.0,28.72,21,1,2,0,0,1,0,0,0,0,0,0,69.4,B
+Prasuma Chocolate Burst Bao Buns,INSTANT FOOD,476.05,51.17,7.28,18.76,9.8,0.78,24.4,151.14,0.0,6.53,11,3,3,0,1,1,1,0,1,0,0,0,30.8,D
+Prasuma Original Pork Momos,INSTANT FOOD,279.0,18.99,7.71,19.13,6.33,0.01,5.1,245.5,0.0,18.0,11,0,1,0,0,0,0,0,0,0,0,0,65.8,B
+Prasuma Classic Mutton Momos,INSTANT FOOD,211.7,20.37,7.85,10.98,5.69,0.11,3.38,650.22,0.0,1.92,13,0,3,0,0,0,0,0,0,0,0,0,59.1,B
+Prasuma Frozen Mutton Shammi Kabab,INSTANT FOOD,296.66,12.04,20.58,18.46,3.66,0.11,1.27,504.95,0.0,226.72,12,0,1,0,0,0,0,0,0,0,0,0,69.4,B
+Prasuma Spiced Aloo Mini Samosa,INSTANT FOOD,258.22,57.04,7.12,4.62,2.1,0.13,2.73,490.83,0.0,62.81,18,0,1,0,0,0,0,0,0,0,0,0,69.4,B
+Prasuma Chicken Mini Samosa,INSTANT FOOD,344.43,55.49,13.73,7.95,3.54,0.17,2.58,566.71,0.0,70.38,15,0,1,0,0,0,0,0,0,0,0,0,65.8,B
+Britannia The Laughing Cow Processed Cream Cheese Spread,DAIRY,301.0,2.5,7.5,29.0,18.0,1.2,2.5,410.0,0.0,75.0,4,0,1,0,0,0,0,0,0,1,0,0,47.6,C
+Mooz Mozzarella & Cheddar Pizza Cheese,DAIRY,273.0,2.0,25.0,18.0,0.0,0.0,0.0,0.0,0.0,40.0,5,0,0,0,0,0,0,0,0,0,0,0,85.5,A
+Amul A2 Buffalo Milk Dahi,DAIRY,87.0,3.8,3.3,6.5,3.9,0.0,3.8,45.0,0.0,16.0,2,0,0,0,0,0,0,0,0,0,0,0,78.2,A
+Milky Mist Pure Cream,DAIRY,245.4,3.2,1.9,25.0,0.0,0.0,3.2,17.3,0.0,78.2,2,0,1,0,0,0,0,0,0,0,0,0,76.7,A
+Milky Mist Briyas Tofu Paneer,DAIRY,139.0,6.9,15.5,5.0,5.21,0.0,0.0,50.0,0.0,0.0,4,0,1,0,0,0,0,0,0,0,0,0,78.5,A
+Cremeitalia Sour Cream,DAIRY,205.0,3.0,8.0,18.0,0.0,0.0,3.0,180.0,0.0,0.0,5,0,2,0,0,0,0,0,0,1,0,0,80.6,A
+Amul Salted Butter,DAIRY,724.0,0.0,1.0,80.0,48.0,0.0,0.0,955.0,0.0,220.0,3,0,0,0,0,0,0,0,0,0,0,0,29.1,D
+Britannia Breads Bombay Pav,SNACKS,288.0,56.2,7.6,3.7,1.6,0.0,6.4,510.0,0.0,0.0,18,2,3,0,1,1,0,0,0,1,0,0,58.4,B
+English Oven Fruit Bread,SNACKS,276.0,55.07,10.08,1.75,0.35,0.0,8.43,0.0,0.0,0.0,19,1,4,0,0,1,0,0,1,1,0,0,73.6,B
+Milky Mist Greek Yogurt,DAIRY,76.8,6.5,8.0,2.2,0.0,0.0,6.5,0.0,0.0,6.0,3,0,0,0,0,0,0,0,0,0,0,0,89.1,A
+Hatsun Fruit Yoghurt Rose And Lychee,DAIRY,140.0,0.0,3.0,3.2,2.0,0.0,23.0,43.0,0.0,12.0,15,1,1,0,0,1,0,0,0,0,0,0,63.6,B
+Hatsun Yogurt Drink Blueberry,DAIRY,193.0,35.0,5.3,3.5,2.6,0.0,35.0,78.8,0.0,8.8,5,1,0,0,0,1,0,0,0,0,0,0,63.3,B
+Milky Mist Fruit Yogurt Strawberry,DAIRY,103.5,15.3,3.6,3.1,0.0,0.0,15.3,21.0,0.0,0.0,15,2,2,0,0,1,0,1,0,1,0,0,67.2,B
+Arun Chocolate Ice Cream Tub,ICEREAMES,150.5,10.5,2.7,7.3,4.7,0.0,17.0,39.9,0.0,125.5,11,1,2,0,0,1,0,0,1,0,0,0,62.1,B
+Arun Pista Ice Cream Tub,ICEREAMES,139.0,14.6,2.8,7.7,4.4,0.0,14.5,41.6,0.0,26.5,9,1,2,0,0,1,0,0,1,0,0,0,62.1,B
+Go Zero French VANILLA CAKE Low Calorie Guilt Free Ice Cream Tub,ICEREAMES,91.0,15.6,2.4,4.8,3.1,0.0,3.7,39.4,2.9,11.9,8,0,3,0,0,0,0,0,1,0,0,0,77.3,A
+Arun Icecreams Butterscotch Ice Cream Tub,ICEREAMES,151.0,18.0,3.2,7.3,4.6,0.0,18.0,46.6,0.0,26.3,13,2,2,0,0,1,1,0,1,0,0,0,58.1,B
+Go Zero Roasted Almond Low Calorie Guilt Free Ice Cream Tub,ICEREAMES,99.0,14.3,3.4,5.4,2.5,0.0,4.2,43.6,3.5,9.2,10,0,2,0,0,0,0,0,0,0,0,0,82.5,A
+Go Zero Mad Over Mango Low Calorie Guilt Free Ice Cream Tub,ICEREAMES,72.0,15.0,2.1,3.5,2.3,0.0,2.7,29.0,3.8,8.7,8,0,1,0,0,0,0,0,0,0,0,0,85.8,A
+NIC Mixed Berries Ice Cream Tub,ICEREAMES,153.0,18.7,3.5,7.1,4.6,0.2,12.4,40.3,3.1,10.3,5,1,0,0,0,1,0,0,0,0,0,0,72.4,B
+Amul Ice Lounge Belgian Chocolate Ice Cream Tub,ICEREAMES,242.0,23.3,4.6,14.8,8.9,0.0,21.1,50.0,0.0,48.0,6,1,1,0,0,1,0,0,0,0,0,0,52.7,C
+Dairy Day Black Currant Ice Cream Tub,ICEREAMES,208.32,24.0,3.74,10.8,7.34,0.09,13.5,62.1,0.0,54.0,8,2,2,0,0,1,0,1,1,0,0,0,52.6,C
+Amul Gold Caramel Chocolate Ice Cream Tub,ICEREAMES,228.0,26.9,3.7,12.1,6.9,0.4,25.5,46.0,0.0,39.0,14,1,2,0,0,1,0,0,1,0,0,0,51.2,C
+Kwality Wall's Cadbury Crackle Tub,ICEREAMES,153.0,19.2,2.3,7.7,4.5,0.04,16.7,43.0,0.8,5.3,33,2,2,0,1,1,0,0,1,0,0,0,58.1,B
+Kwality Wall's Oreo And Cream Tub,ICEREAMES,237.74,28.87,3.77,11.89,6.6,0.08,23.21,88.68,0.57,0.0,19,2,2,0,1,1,0,0,0,0,0,0,50.8,C
+Amul Gold Butterscotch Ice Cream Tub,ICEREAMES,251.0,26.0,4.1,14.5,8.7,0.4,21.9,46.0,0.0,51.0,11,1,2,0,0,1,0,0,1,0,0,0,47.5,C
+Amul Chocolate Magic Sundae Ice Cream Tub,ICEREAMES,267.0,27.3,3.5,16.2,11.1,0.4,26.5,44.0,0.0,36.0,15,1,2,0,0,1,0,0,1,0,0,0,42.1,C
+Amul Fruit N Nut Fantasy Ice Cream Tub,ICEREAMES,226.0,23.6,4.0,13.6,7.6,0.4,22.3,49.0,0.0,40.0,10,1,2,0,0,1,0,0,1,0,0,0,51.2,C
+NIC Chocochips Ice Cream Tub,ICEREAMES,204.0,224.0,4.4,10.0,6.4,0.1,12.3,33.7,1.9,12.4,4,1,0,0,0,1,0,0,0,0,0,0,66.9,B
+Dairy Day Black Currant Ice Cream Tub,ICEREAMES,211.95,23.12,4.42,11.31,7.69,0.1,15.0,69.0,0.0,0.0,7,2,2,0,0,1,0,1,1,0,0,0,52.6,C
+Havmor Signature Nutty Belgian Dark Chocolate Ice Cream Tub,ICEREAMES,200.0,24.1,4.0,9.8,5.6,0.0,20.0,36.4,0.0,11.5,16,2,2,0,0,1,0,1,1,0,0,0,54.5,C
+Call Me Chunky Cookie Caramel Charms Ice Cream,ICEREAMES,227.0,30.2,3.66,10.19,5.94,0.0,22.0,125.0,0.0,14.22,17,1,1,0,0,1,0,0,0,0,0,0,58.1,B
+London Dairy Choco Brownie Delight Ice Cream Tub,ICEREAMES,159.0,20.0,3.0,7.0,5.0,0.3,16.0,85.0,0.0,21.0,28,1,3,0,0,1,0,0,1,0,0,0,57.0,B
+Havmor Taj Mahal Ice Cream Tub,ICEREAMES,160.2,19.5,3.0,7.8,4.4,0.0,13.6,43.0,0.0,13.2,16,1,2,0,0,1,0,0,1,0,0,0,60.3,B
+Milkymist Dulce De Leche Tub,ICEREAMES,249.5,21.5,5.1,15.9,0.0,0.0,21.7,60.8,0.0,23.8,17,1,2,0,0,1,0,0,1,0,0,0,67.5,B
+Go Zero Mango Duet Low Calorie Guilt Free Ice Cream Stick,ICEREAMES,52.5,11.42,1.08,2.08,1.33,0.0,3.42,19.0,2.08,4.58,10,0,2,0,0,0,0,0,0,0,0,0,80.6,A
+Arun Ibar Mini Almond Crunch Ice Cream Stick,ICEREAMES,339.75,27.62,5.0,23.25,13.5,0.0,27.0,64.62,0.62,21.5,8,1,2,0,0,1,0,0,1,0,0,0,43.9,C
+Go Zero Hazelnut Chocolate Low Calorie Guilt Free Ice Cream Bar,ICEREAMES,149.0,15.8,2.5,11.3,4.2,0.0,2.0,19.8,2.9,4.2,17,0,2,0,0,0,0,0,0,0,0,0,77.0,A
+Dairy Day New Triple Bar Ice Cream Stick,ICEREAMES,191.71,17.4,2.29,12.55,11.45,0.03,12.81,16.45,0.0,14.1,16,3,2,0,1,1,0,1,1,0,0,0,43.2,C
+Kwality Wall's Magnum Chocolate Almond Ice Cream Stick,ICEREAMES,353.23,29.84,5.32,23.71,13.55,0.47,26.77,70.97,1.13,30.16,13,1,1,0,0,1,0,0,0,0,0,0,45.4,C
+Amul Gold Frostik Ice Cream Stick,ICEREAMES,257.0,17.5,2.7,20.1,15.0,0.4,14.8,23.0,0.0,14.0,18,1,1,0,0,1,0,0,0,0,0,0,45.4,C
+Hocco Choco Brownie Ice Cream Tub,ICEREAMES,139.52,16.48,2.8,7.04,4.56,0.0,16.0,39.04,0.0,9.44,4,1,3,0,0,1,0,0,1,0,0,0,60.6,B
+Go Zero Raspberry Duet Low Calorie Guilt Free Ice Cream Stick,ICEREAMES,105.0,23.17,2.17,4.17,2.67,0.0,6.0,38.0,4.5,9.17,15,0,3,0,0,0,0,0,1,0,0,0,81.0,A
+Kwality Walls Magnum Pistachio Ice Cream Stick,ICEREAMES,334.43,31.15,5.41,21.15,11.8,0.38,27.21,67.21,1.31,24.1,24,1,1,0,0,1,0,0,0,0,0,0,45.4,C
+Dairy Day Nutty Ice Cream Stick,ICEREAMES,270.23,23.57,3.8,17.86,14.17,0.05,16.31,21.54,0.0,21.54,16,3,2,0,1,1,0,1,1,0,0,0,41.4,C
+Grameen Dry Fruit Matka Kulfi Ice Cream Cup,ICEREAMES,240.91,26.01,7.21,12.0,8.24,0.0,17.59,0.0,0.0,0.0,6,1,1,0,0,1,0,0,0,0,0,0,58.1,B
+Grameen Kesar Pista Kulfi Ice Cream Stick,ICEREAMES,220.0,23.0,5.86,11.57,7.57,0.0,10.14,74.0,8.14,30.43,3,1,0,0,0,1,0,0,0,0,0,0,72.4,B
+Grameen Desi Malai Kulfi Ice Cream Stick,ICEREAMES,221.43,26.14,6.43,10.14,7.71,0.43,19.86,48.57,0.0,14.43,2,1,0,0,0,1,0,0,0,0,0,0,57.8,B
+Kwality Walls Cassata,ICEREAMES,241.54,30.31,5.38,11.08,5.08,0.03,20.46,49.23,0.0,0.0,31,3,3,0,1,1,1,0,1,0,0,0,49.0,C

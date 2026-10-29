@@ -13,18 +13,22 @@ from app.models.product import Product
 from app.models.nutrition import Nutrition
 from app.models.ingredient import Ingredient
 from app.models.reference_value import ReferenceValue
-
+from app.models.user import User
 
 # ============================================================
 # ROUTES
 # ============================================================
-
+from app.routes.health_score_routes import router as health_score_router
 from app.routes.product_routes import router as product_router
 from app.routes.nutrition_routes import router as nutrition_router
+from app.routes.profile_routes import router as profile_router
+from app.routes.recommendation_routes import router as recommendation_router
 from app.routes.ingredient_routes import router as ingredient_router
+from app.models.scan_history import ScanHistory
 from app.routes.reference_value_routes import (
     router as reference_value_router
 )
+
 
 
 # ============================================================
@@ -91,6 +95,21 @@ app.include_router(ingredient_router)
 
 app.include_router(reference_value_router)
 
+app.include_router(health_score_router)
+
+app.include_router(recommendation_router) 
+
+app.include_router(profile_router)
+
+from app.routes.ocr_routes import router as ocr_router
+app.include_router(ocr_router)
+
+from app.routes.compare_routes import router as compare_router
+app.include_router(compare_router)
+
+from app.routes.auth_routes import router as auth_router
+app.include_router(auth_router)
+
 
 # ============================================================
 # REGISTER NUTRITION ANALYSIS API
@@ -141,3 +160,11 @@ def database_test():
             "database": "connection failed",
             "error": str(e)
         }
+       
+       
+from app.services.health_score_service import warm_up
+warm_up()
+
+from app.routes.history_routes import router as history_router
+app.include_router(history_router)
+ 

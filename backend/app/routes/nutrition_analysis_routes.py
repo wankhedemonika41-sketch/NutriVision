@@ -92,13 +92,14 @@ def analyze_product_nutrition(
     # ---------------------------------
 
     nutrient_mapping = {
+        "calories": nutrition.calories,
         "sugar": nutrition.sugar,
         "sodium": nutrition.sodium,
         "total_fat": nutrition.total_fat,
         "saturated_fat": nutrition.saturated_fat,
+        "trans_fat": nutrition.trans_fat,
         "protein": nutrition.protein,
-        "fiber": nutrition.fiber,
-        "calories": nutrition.calories
+        "fiber": nutrition.fiber
     }
 
 
@@ -136,6 +137,7 @@ def analyze_product_nutrition(
 
 
         analysis["description"] = reference["description"]
+
 
         results[nutrient_name] = analysis
 
