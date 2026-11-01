@@ -1,5 +1,6 @@
 import { useEffect, useState } from "react";
 import "./NutritionAnalysis.css";
+import BodyVizMap from "../components/BodyVizMap";
 
 const API_BASE_URL = "http://127.0.0.1:8000";
 
@@ -202,6 +203,8 @@ function NutritionAnalysis({ productId, onBack }) {
           )}
 
         </div>
+
+        <BodyVizMap analysis={analysisData.analysis} />
 
         <div className="analysis-note">
 
