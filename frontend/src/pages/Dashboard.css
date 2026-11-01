@@ -127,3 +127,58 @@
     padding: 28px 18px 48px;
   }
 }
+/* Subtle interaction states */
+.nv-action-card,
+.nv-guide {
+  transition:
+    transform 180ms ease,
+    box-shadow 180ms ease,
+    border-color 180ms ease;
+}
+
+.nv-action-card:hover,
+.nv-guide:hover {
+  transform: translateY(-3px);
+  border-color: var(--nv-green-700);
+  box-shadow: 0 10px 24px rgb(20 60 40 / 10%);
+}
+
+.nv-action-card button,
+.nv-link-button {
+  transition:
+    background-color 160ms ease,
+    color 160ms ease,
+    transform 160ms ease;
+}
+
+.nv-action-card button:hover {
+  transform: translateY(-1px);
+}
+
+.nv-link-button:hover {
+  color: var(--nv-green-900);
+}
+
+/* Visible keyboard focus */
+.nv-action-card button:focus-visible,
+.nv-link-button:focus-visible {
+  outline: 3px solid var(--nv-green-700);
+  outline-offset: 3px;
+  border-radius: 6px;
+}
+
+/* Respect users who prefer reduced motion */
+@media (prefers-reduced-motion: reduce) {
+  .nv-action-card,
+  .nv-guide,
+  .nv-action-card button,
+  .nv-link-button {
+    transition: none;
+  }
+
+  .nv-action-card:hover,
+  .nv-guide:hover,
+  .nv-action-card button:hover {
+    transform: none;
+  }
+}
